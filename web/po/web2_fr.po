@@ -1,0 +1,1217 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"PO-Revision-Date: 2018-05-29 16:54+0000\n"
+"Last-Translator: Meyer.sabrina2015 <meyer.sabrina2015@gmail.com>\n"
+"Language-Team: French <http://jugl.pimentagroup.de/projects/jugl-website/"
+"jugl-web-client/fr/>\n"
+"Language: fr\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 2.20-dev\n"
+
+#: services/InviteService.js:11
+msgid ""
+"<p>Wenn Du auf 'Einverstanden' klickst, bist Du verpflichtet, dieses "
+"Mitglied zu betreuen, d.h. Kontakt zu ihm aufzunehmen und ihm Jugl.net zu "
+"erklären.</p><p>Erkläre ihm Jugl.net daher genau, damit Dein Netzwerk ein "
+"aktives Mitglied gewinnt.</p>"
+msgstr ""
+
+#: directives/eventText.js:37 directives/eventText.js:87
+msgid "Ablehnen"
+msgstr "Refuser"
+
+#: directives/eventText.js:63
+msgid "Abmahnen"
+msgstr "Rappeler à l'ordre"
+
+#: controllers/ActivityLogCtrl.js:155
+msgid ""
+"Achtung! Durch die Annahme dieser Teamanfrage verlässt Du Dein aktuelles "
+"Team.- Tu dies nur, wenn Du mit Deinem aktuellen Teamleiter unzufrieden bist."
+msgstr ""
+
+#: country.php:4
+msgid "Afghanistan"
+msgstr "Afghanistan"
+
+#: country.php:5
+msgid "Albania"
+msgstr "Albanie"
+
+#: country.php:6
+msgid "Algeria"
+msgstr "Algérie"
+
+#: country.php:7
+msgid "Andorra"
+msgstr "Andorra"
+
+#: country.php:8
+msgid "Angola"
+msgstr "Angola"
+
+#: directives/eventText.js:35
+msgid "Annehmen"
+msgstr "Accepter"
+
+#: country.php:9
+msgid "Antigua & Deps"
+msgstr "Antigua et Deps"
+
+#: country.php:10
+msgid "Argentina"
+msgstr "Argentine"
+
+#: country.php:11
+msgid "Armenia"
+msgstr "Arménie"
+
+#: country.php:12
+msgid "Australia"
+msgstr "Australie"
+
+#: country.php:2
+msgid "Austria"
+msgstr "Autriche"
+
+#: country.php:13
+msgid "Azerbaijan"
+msgstr "Azerbaïdjan"
+
+#: country.php:14
+msgid "Bahamas"
+msgstr "Bahamas"
+
+#: country.php:15
+msgid "Bahrain"
+msgstr "Bahreïn"
+
+#: country.php:16
+msgid "Bangladesh"
+msgstr "Bangladesh"
+
+#: country.php:17
+msgid "Barbados"
+msgstr "Barbade"
+
+#: country.php:18
+msgid "Belarus"
+msgstr "Bélarus"
+
+#: country.php:19
+msgid "Belgium"
+msgstr "Belgique"
+
+#: country.php:20
+msgid "Belize"
+msgstr "Bélize"
+
+#: country.php:21
+msgid "Benin"
+msgstr "Bénin"
+
+#: directives/eventText.js:41 directives/eventText.js:43
+#: directives/eventText.js:45 directives/eventText.js:47
+#: directives/eventText.js:49 directives/eventText.js:51
+msgid "Bewerten"
+msgstr "Evaluer"
+
+#: country.php:22
+msgid "Bhutan"
+msgstr "Bhutan"
+
+#: controllers/AllFunctionsCtrl.js:4
+msgid ""
+"Bitte sende uns eine Email mit der Begründung, warum du den Account löschen "
+"möchtest an juglapp@gmx.de"
+msgstr ""
+
+#: country.php:23
+msgid "Bolivia"
+msgstr "Bolivie"
+
+#: country.php:24
+msgid "Bosnia Herzegovina"
+msgstr "Bosnie-Herzégovine"
+
+#: country.php:25
+msgid "Botswana"
+msgstr "Botswana"
+
+#: country.php:26
+msgid "Brazil"
+msgstr "Brésil"
+
+#: country.php:27
+msgid "Brunei"
+msgstr "Brunei"
+
+#: country.php:28
+msgid "Bulgaria"
+msgstr "Bulgarie"
+
+#: country.php:29
+msgid "Burkina"
+msgstr "Burkina"
+
+#: country.php:30
+msgid "Burundi"
+msgstr "Burundi"
+
+#: country.php:31
+msgid "Cambodia"
+msgstr "Cambodge"
+
+#: country.php:32
+msgid "Cameroon"
+msgstr "Cameroun"
+
+#: services/ModalService.js:126
+msgid "Can't connect to server. Check your internet connection"
+msgstr ""
+"Impossible de se connecter au serveur. Vérifiez votre connection internet"
+
+#: country.php:33
+msgid "Canada"
+msgstr "Canada"
+
+#: services/InviteService.js:41 services/ModalService.js:55
+msgid "Cancel"
+msgstr "Annuler"
+
+#: country.php:34
+msgid "Cape Verde"
+msgstr "Cap-Vert"
+
+#: country.php:35
+msgid "Central African Rep"
+msgstr "République centrafricaine"
+
+#: country.php:36
+#, fuzzy
+msgid "Chad"
+msgstr "Chad"
+
+#: country.php:37
+msgid "Chile"
+msgstr "Chili"
+
+#: country.php:38
+msgid "China"
+msgstr "Chine"
+
+#: country.php:39
+msgid "Colombia"
+msgstr "La Colombie"
+
+#: country.php:40
+msgid "Comoros"
+msgstr "Comores"
+
+#: services/ModalService.js:40
+msgid "Confirm the action"
+msgstr ""
+
+#: country.php:41
+#, fuzzy
+msgid "Congo"
+msgstr "Congo"
+
+#: country.php:42
+msgid "Congo {Democratic Rep}"
+msgstr "Congo {Rép. Démocratique}"
+
+#: country.php:43
+#, fuzzy
+msgid "Costa Rica"
+msgstr "Costa Rica"
+
+#: country.php:44
+msgid "Croatia"
+msgstr "Croatie"
+
+#: country.php:45
+msgid "Cuba"
+msgstr "Cuba"
+
+#: country.php:46
+msgid "Cyprus"
+msgstr "Chypre"
+
+#: country.php:47
+msgid "Czech Republic"
+msgstr "République Tchèque"
+
+#: controllers/FavoritesCtrl.js:30
+msgid "Delete favorite?"
+msgstr "Supprimer le favori ?"
+
+#: country.php:48
+msgid "Denmark"
+msgstr "Danemark"
+
+#: services/InviteService.js:51
+msgid "Diese Funktion ist nur für Premium-Mitglieder."
+msgstr "Cette fonctionnalité est réservée aux membres premium ."
+
+#: controllers/UserProfileCtrl.js:145
+msgid "Diese Funktion steht nur Premium Mitgliedern zur Verfügung."
+msgstr ""
+
+#: country.php:49
+msgid "Djibouti"
+msgstr "Djibouti"
+
+#: country.php:50
+msgid "Dominica"
+msgstr "Dominica"
+
+#: country.php:51
+msgid "Dominican Republic"
+msgstr "République dominicaine"
+
+#: controllers/SearchRequestAddCtrl.js:90
+msgid ""
+"Du hast Deine Suchanzeige erfolgreich erstellt. Du findest Deine Anzeige "
+"unter \"Suchauftrag -> Was wird mir angeboten\""
+msgstr ""
+"Vous avez créé votre annonce de recherche avec succès. Vous trouverez votre "
+"annonce sous \"Search Order -> Ce qui m'est offert\""
+
+#: controllers/OfferAddCtrl.js:222 controllers/OfferPreviewCtrl.js:57
+msgid ""
+"Du hast Deine Werbung erfolgreich geschaltet. Du findest Deine Werbung unter "
+"\"Werbung schalten - Werbung verwalten\""
+msgstr ""
+"Vous avez placé votre annonce avec succès. Vous pouvez trouver votre annonce "
+"sous \"Publicité - Gestion des annonces\""
+
+#: controllers/OfferDetailsCtrl.js:31
+msgid ""
+"Du hast bereits auf diesen Artikel geboten, bist du dir sicher, dass du ein "
+"weiteres Gebot abgeben möchtest?"
+msgstr ""
+"Vous avez déjà misé sur cet article, vous êtes sûr de vouloir enchérir à "
+"nouveau ."
+
+#: controllers/SearchRequestOfferAddCtrl.js:49
+msgid "Du hast ein Angebot auf diese Suchanzeige erfolgreich abgegeben!"
+msgstr ""
+"Vous avez soumis une offre pour cette annonce de recherche avec succès !"
+
+#: controllers/OfferMyListCtrl.js:38
+msgid ""
+"Du hast erfolgreich einen Kaufinteressenten akzeptiert. Er wurde "
+"benachrichtigt."
+msgstr ""
+
+#: controllers/InterestsAddStep1Ctrl.js:17
+#: controllers/InterestsAddStep2Ctrl.js:18
+#: controllers/InterestsAddStep2Ctrl.js:41
+#: controllers/InterestsAddStep3Ctrl.js:40
+msgid "Du hast erfolgreich neue Interessen hinzugef&uuml;gt."
+msgstr ""
+
+#: controllers/TrollboxCtrl.js:248
+msgid "Du wurdest für alle Foren von einem Moderator gesperrt"
+msgstr ""
+
+#: country.php:52
+msgid "East Timor"
+msgstr "Timor oriental"
+
+#: country.php:53
+msgid "Ecuador"
+msgstr "Equateur"
+
+#: country.php:54
+msgid "Egypt"
+msgstr "Egypte"
+
+#: services/InviteService.js:15
+msgid "Einverstanden"
+msgstr "Convenu"
+
+#: country.php:55
+msgid "El Salvador"
+msgstr "El Salvador"
+
+#: country.php:56
+msgid "Equatorial Guinea"
+msgstr "Guinée équatoriale"
+
+#: country.php:57
+msgid "Eritrea"
+msgstr "Érythrée"
+
+#: directives/eventText.js:33
+msgid "Erneut erwerben"
+msgstr ""
+
+#: services/ModalService.js:119
+msgid "Error"
+msgstr ""
+
+#: services/ModalService.js:120
+msgid "Error while performing server request (code )"
+msgstr ""
+
+#: country.php:58
+msgid "Estonia"
+msgstr "Estonie"
+
+#: country.php:59
+msgid "Ethiopia"
+msgstr "Ethiopie"
+
+#: country.php:60
+msgid "Fiji"
+msgstr "Fidji"
+
+#: app.js:1467 app.js:1493 app.js:1540
+msgid "File is too big, max file size is 50MB"
+msgstr ""
+
+#: country.php:61
+msgid "Finland"
+msgstr ""
+
+#: country.php:62
+msgid "France"
+msgstr ""
+
+#: country.php:63
+msgid "Gabon"
+msgstr ""
+
+#: country.php:64
+msgid "Gambia"
+msgstr ""
+
+#: directives/eventText.js:61
+msgid "Geldeingang bestätigen"
+msgstr ""
+
+#: controllers/ActivityLogCtrl.js:212
+msgid "Geldeingang wurde erfolgreich bestätigt"
+msgstr ""
+
+#: country.php:65
+msgid "Georgia"
+msgstr ""
+
+#: country.php:1
+msgid "Germany"
+msgstr ""
+
+#: country.php:66
+msgid "Ghana"
+msgstr ""
+
+#: country.php:67
+msgid "Greece"
+msgstr ""
+
+#: country.php:68
+msgid "Grenada"
+msgstr ""
+
+#: country.php:69
+msgid "Guatemala"
+msgstr ""
+
+#: country.php:70
+msgid "Guinea"
+msgstr ""
+
+#: country.php:71
+msgid "Guinea-Bissau"
+msgstr ""
+
+#: country.php:72
+msgid "Guyana"
+msgstr ""
+
+#: country.php:73
+msgid "Haiti"
+msgstr ""
+
+#: controllers/FriendsInvitationInviteCtrl.js:11
+#: controllers/FriendsInvitationInviteCtrl.js:7
+msgid ""
+"Hallo, schau Dir diese neue App an und gib mir bitte ein Feedback. Liebe "
+"Grüße\n"
+"{link}\n"
+"\n"
+"\n"
+"Und hier noch das Video dazu:\n"
+"https://youtu.be/X5h0JSLQP-Y"
+msgstr ""
+
+#: controllers/OfferAddCtrl.js:238
+msgid ""
+"Hinweis für Händler! Bitte achte darauf, dass Du bei Jugl nichts teurer "
+"anbietest, als Du es auf anderen Websites tust."
+msgstr ""
+
+#: country.php:74
+msgid "Honduras"
+msgstr ""
+
+#: country.php:75
+msgid "Hungary"
+msgstr ""
+
+#: country.php:76
+msgid "Iceland"
+msgstr ""
+
+#: services/UserStatusService.js:98
+msgid "Ihre Sprach- und Landeinstellungen wurden automatisch angepasst"
+msgstr ""
+
+#: app.js:1484 app.js:1492
+msgid "Image and video upload"
+msgstr ""
+
+#: app.js:1458 app.js:1466 app.js:1531 app.js:1539
+msgid "Image upload"
+msgstr ""
+
+#: country.php:77
+msgid "India"
+msgstr ""
+
+#: country.php:78
+msgid "Indonesia"
+msgstr ""
+
+#: country.php:79
+msgid "Iran"
+msgstr ""
+
+#: country.php:80
+msgid "Iraq"
+msgstr ""
+
+#: country.php:81
+msgid "Ireland {Republic}"
+msgstr ""
+
+#: country.php:82
+msgid "Israel"
+msgstr ""
+
+#: country.php:83
+msgid "Italy"
+msgstr ""
+
+#: country.php:84
+msgid "Ivory Coast"
+msgstr ""
+
+#: directives/eventText.js:81
+msgid "Ja"
+msgstr ""
+
+#: controllers/ActivityLogCtrl.js:156
+msgid "Ja, Teamleiter wechseln"
+msgstr ""
+
+#: country.php:85
+msgid "Jamaica"
+msgstr ""
+
+#: country.php:86
+msgid "Japan"
+msgstr ""
+
+#: directives/eventText.js:59
+msgid "Jetzt Bezahlen"
+msgstr ""
+
+#: controllers/UserProfileCtrl.js:149
+msgid "Jetzt Premium-Mitglied werden"
+msgstr ""
+
+#: directives/eventText.js:23
+msgid "Jetzt Premium/PremiumPlus Midglied werden"
+msgstr ""
+
+#: directives/eventText.js:22
+msgid "Jetzt PremiumPlus Midglied werden"
+msgstr ""
+
+#: services/InviteService.js:55
+msgid "Jetzt PremiumPlus-Mitglied werden"
+msgstr ""
+
+#: country.php:87
+msgid "Jordan"
+msgstr ""
+
+#: controllers/SearchRequestOfferDetailsCtrl.js:15
+msgid "Jugls aufladen"
+msgstr ""
+
+#: controllers/OfferMyListCtrl.js:48
+msgid ""
+"Kannst Du Dein Gebot für das Angebot \"{{title}}\" bitte noch einmal "
+"wiederholen? Ich würde es gerne annehmen."
+msgstr ""
+
+#: country.php:88
+msgid "Kazakhstan"
+msgstr ""
+
+#: country.php:89
+msgid "Kenya"
+msgstr ""
+
+#: country.php:90
+msgid "Kiribati"
+msgstr ""
+
+#: country.php:91
+msgid "Korea North"
+msgstr ""
+
+#: country.php:92
+msgid "Korea South"
+msgstr ""
+
+#: country.php:93
+msgid "Kosovo"
+msgstr ""
+
+#: country.php:94
+msgid "Kuwait"
+msgstr ""
+
+#: country.php:95
+msgid "Kyrgyzstan"
+msgstr ""
+
+#: country.php:96
+msgid "Laos"
+msgstr ""
+
+#: country.php:97
+msgid "Latvia"
+msgstr ""
+
+#: country.php:98
+msgid "Lebanon"
+msgstr ""
+
+#: controllers/InfoPopupCtrl.js:77
+msgid ""
+"Leider hast Du keine Premium-Mitgliedschaft um diese Funktion nutzen zu "
+"können."
+msgstr ""
+
+#: country.php:99
+msgid "Lesotho"
+msgstr ""
+
+#: country.php:100
+msgid "Liberia"
+msgstr ""
+
+#: country.php:101
+msgid "Libya"
+msgstr ""
+
+#: controllers/UserProfileCtrl.js:170
+msgid "Lieber Jugler, ein Teamwechsel ist nur alle 24h möglich."
+msgstr ""
+
+#: country.php:102
+msgid "Liechtenstein"
+msgstr ""
+
+#: country.php:103
+msgid "Lithuania"
+msgstr ""
+
+#: country.php:104
+msgid "Luxembourg"
+msgstr ""
+
+#: country.php:105
+msgid "Macedonia"
+msgstr ""
+
+#: country.php:106
+msgid "Madagascar"
+msgstr ""
+
+#: controllers/OfferRequestPaymentComplaintPopupCtrl.js:11
+msgid "Mahnung erfolgreich gesendet"
+msgstr ""
+
+#: country.php:107
+msgid "Malawi"
+msgstr ""
+
+#: country.php:108
+msgid "Malaysia"
+msgstr ""
+
+#: country.php:109
+msgid "Maldives"
+msgstr ""
+
+#: country.php:110
+msgid "Mali"
+msgstr ""
+
+#: country.php:111
+msgid "Malta"
+msgstr ""
+
+#: country.php:112
+msgid "Marshall Islands"
+msgstr ""
+
+#: country.php:113
+msgid "Mauritania"
+msgstr ""
+
+#: country.php:114
+msgid "Mauritius"
+msgstr ""
+
+#: country.php:115
+msgid "Mexico"
+msgstr ""
+
+#: country.php:116
+msgid "Micronesia"
+msgstr ""
+
+#: directives/eventText.js:31
+msgid "Mitgliedschaft jetzt verlängern"
+msgstr ""
+
+#: country.php:117
+msgid "Moldova"
+msgstr ""
+
+#: country.php:118
+msgid "Monaco"
+msgstr ""
+
+#: country.php:119
+msgid "Mongolia"
+msgstr ""
+
+#: country.php:120
+msgid "Montenegro"
+msgstr ""
+
+#: country.php:121
+msgid "Morocco"
+msgstr ""
+
+#: country.php:122
+msgid "Mozambique"
+msgstr ""
+
+#: country.php:123
+msgid "Myanmar, {Burma}"
+msgstr ""
+
+#: controllers/ActivityLogCtrl.js:198
+msgid "Möchten sie wirklich Geldeingang bestätigen?"
+msgstr ""
+
+#: controllers/ActivityLogCtrl.js:222
+msgid "Möchten sie wirklich Spammeldung zurücknehmen?"
+msgstr ""
+
+#: controllers/UserProfileCtrl.js:348 controllers/UserProfileCtrl.js:374
+msgid "Möchtest Du  wirklich aus Deinen Kontakten entfernen?"
+msgstr ""
+
+#: controllers/DealsCompletedCtrl.js:116
+#: controllers/SearchRequestDraftCtrl.js:49
+#: controllers/SearchRequestMyListCtrl.js:22
+msgid "Möchtest Du Deine Suchanzeige endgültig löschen?"
+msgstr ""
+
+#: controllers/RegistrationPaymentCtrl.js:29
+msgid ""
+"Möchtest Du wirklich das Standard-Paket wählen? Dadurch verzichtest Du auf "
+"viele Vorteile des Premium-Pakets wie z.B. höhere Provisionen und geringere "
+"Abgaben. Bitte beachte, das eine nachträgliche Änderung des gewählten Pakets "
+"möglich ist, jedoch nicht mehr zu diesem Preis."
+msgstr ""
+
+#: services/MessengerService.js:35
+msgid "Möchtest Du wirklich die gewählten Nachrichten löschen?"
+msgstr ""
+
+#: controllers/FriendsInvitationInvitationsCtrl.js:47
+msgid "Möchtest du die Einladung löschen?"
+msgstr ""
+
+#: controllers/SearchRequestMyListCtrl.js:43
+msgid ""
+"Nachdem Du deine Suchanzeige abschaltest, landet sie unter \"Geschäfte & "
+"Bewertungen\". Möchtest Du die Anzeige wirklich abschalten?"
+msgstr ""
+
+#: country.php:124
+msgid "Namibia"
+msgstr ""
+
+#: country.php:125
+msgid "Nauru"
+msgstr ""
+
+#: directives/eventText.js:83
+msgid "Nein"
+msgstr ""
+
+#: controllers/ActivityLogCtrl.js:157
+msgid "Nein, beim aktuellen Teamleiter bleiben"
+msgstr ""
+
+#: country.php:126
+msgid "Nepal"
+msgstr ""
+
+#: country.php:127
+msgid "Netherlands"
+msgstr ""
+
+#: country.php:128
+msgid "New Zealand"
+msgstr ""
+
+#: country.php:129
+msgid "Nicaragua"
+msgstr ""
+
+#: country.php:130
+msgid "Niger"
+msgstr ""
+
+#: country.php:131
+msgid "Nigeria"
+msgstr ""
+
+#: country.php:132
+msgid "Norway"
+msgstr ""
+
+#: controllers/UserProfileCtrl.js:157 services/InviteService.js:63
+#: services/ModalService.js:47
+msgid "Ok"
+msgstr ""
+
+#: country.php:133
+msgid "Oman"
+msgstr ""
+
+#: country.php:134
+msgid "Pakistan"
+msgstr ""
+
+#: country.php:135
+msgid "Palau"
+msgstr ""
+
+#: country.php:136
+msgid "Panama"
+msgstr ""
+
+#: country.php:137
+msgid "Papua New Guinea"
+msgstr ""
+
+#: country.php:138
+msgid "Paraguay"
+msgstr ""
+
+#: country.php:139
+msgid "Peru"
+msgstr ""
+
+#: country.php:140
+msgid "Philippines"
+msgstr ""
+
+#: country.php:141
+msgid "Poland"
+msgstr ""
+
+#: country.php:142
+msgid "Portugal"
+msgstr ""
+
+#: controllers/RegistrationPaymentCtrl.js:32
+msgid "Premium-Paket wählen"
+msgstr ""
+
+#: services/ModalService.js:125 services/ModalService.js:93
+msgid "Problem"
+msgstr ""
+
+#: country.php:143
+msgid "Qatar"
+msgstr ""
+
+#: country.php:144
+msgid "Romania"
+msgstr ""
+
+#: country.php:145
+msgid "Russian Federation"
+msgstr ""
+
+#: country.php:146
+msgid "Rwanda"
+msgstr ""
+
+#: country.php:149
+msgid "Saint Vincent & the Grenadines"
+msgstr ""
+
+#: country.php:150
+msgid "Samoa"
+msgstr ""
+
+#: country.php:151
+msgid "San Marino"
+msgstr ""
+
+#: country.php:152
+msgid "Sao Tome & Principe"
+msgstr ""
+
+#: country.php:153
+msgid "Saudi Arabia"
+msgstr ""
+
+#: country.php:154
+msgid "Senegal"
+msgstr ""
+
+#: country.php:155
+msgid "Serbia"
+msgstr ""
+
+#: country.php:156
+msgid "Seychelles"
+msgstr ""
+
+#: app.js:1532
+msgid ""
+"Sie können nur Bilder oder Videos mit folgenden Erweiterungen hochladen: ."
+"JPG, .JPEG, .PNG, .MP4"
+msgstr ""
+
+#: country.php:157
+msgid "Sierra Leone"
+msgstr ""
+
+#: country.php:158
+msgid "Singapore"
+msgstr ""
+
+#: country.php:159
+msgid "Slovakia"
+msgstr ""
+
+#: country.php:160
+msgid "Slovenia"
+msgstr ""
+
+#: country.php:161
+msgid "Solomon Islands"
+msgstr ""
+
+#: country.php:162
+msgid "Somalia"
+msgstr ""
+
+#: country.php:163
+msgid "South Africa"
+msgstr ""
+
+#: country.php:164
+msgid "South Sudan"
+msgstr ""
+
+#: country.php:165
+msgid "Spain"
+msgstr ""
+
+#: directives/eventText.js:25
+msgid "Spammeldung zurücknehmen"
+msgstr ""
+
+#: controllers/SearchRequestOfferDetailsCtrl.js:23
+msgid "Später aufladen"
+msgstr ""
+
+#: country.php:166
+msgid "Sri Lanka"
+msgstr ""
+
+#: country.php:147
+msgid "St Kitts & Nevis"
+msgstr ""
+
+#: country.php:148
+msgid "St Lucia"
+msgstr ""
+
+#: controllers/RegistrationPaymentCtrl.js:43
+msgid "Standard-Paket wählen"
+msgstr ""
+
+#: country.php:167
+msgid "Sudan"
+msgstr ""
+
+#: country.php:168
+msgid "Suriname"
+msgstr ""
+
+#: country.php:169
+msgid "Swaziland"
+msgstr ""
+
+#: country.php:170
+msgid "Sweden"
+msgstr ""
+
+#: country.php:3
+msgid "Switzerland"
+msgstr ""
+
+#: country.php:171
+msgid "Syria"
+msgstr ""
+
+#: country.php:172
+msgid "Taiwan"
+msgstr ""
+
+#: country.php:173
+msgid "Tajikistan"
+msgstr ""
+
+#: country.php:174
+msgid "Tanzania"
+msgstr ""
+
+#: directives/eventText.js:27
+msgid "Teamanfragen erlauben"
+msgstr ""
+
+#: directives/eventText.js:27
+msgid "Teamanfragen stoppen"
+msgstr ""
+
+#: country.php:175
+msgid "Thailand"
+msgstr "Thailand"
+
+#: country.php:176
+msgid "Togo"
+msgstr "Togo"
+
+#: country.php:177
+msgid "Tonga"
+msgstr ""
+
+#: country.php:178
+msgid "Trinidad & Tobago"
+msgstr "Trinidad et Tobago"
+
+#: country.php:179
+msgid "Tunisia"
+msgstr "Tunisie"
+
+#: country.php:180
+msgid "Turkey"
+msgstr "Turkie"
+
+#: country.php:181
+msgid "Turkmenistan"
+msgstr "Turkmenistan"
+
+#: country.php:182
+msgid "Tuvalu"
+msgstr "tuvalu"
+
+#: country.php:183
+msgid "Uganda"
+msgstr "Uganda"
+
+#: country.php:184
+msgid "Ukraine"
+msgstr "Ukraine"
+
+#: controllers/ProfileUpdateCtrl.js:77 controllers/ProfileUpdateCtrl.js:82
+msgid ""
+"Um Dein Profil zu löschen, stelle bitte einen schriftlichen Antrag auf "
+"Löschung mit der eMail Adresse mit der Du Dich registriert hast. Bitte mit "
+"Vor- und Nachnamen, vollständiger Anschrift und deiner Unterschrift an "
+"juglapp@gmx.de. Wir bitten um Verständnis, dass wir dies fordern, um "
+"Missbrauch zu vermeiden."
+msgstr ""
+"Pour supprimer votre profil, veuillez soumettre une demande écrite de "
+"suppression avec l'adresse e-mail avec laquelle vous vous êtes inscrit. S'il "
+"vous plaît avec le prénom et le nom, l'adresse complète et votre signature à "
+"juglapp@gmx.de. Nous demandons votre compréhension que nous demandons cela "
+"pour éviter les abus."
+
+#: country.php:185
+msgid "United Arab Emirates"
+msgstr ""
+
+#: country.php:186
+msgid "United Kingdom"
+msgstr "Grande bretagne"
+
+#: country.php:187
+msgid "United States"
+msgstr "Amérique"
+
+#: country.php:188
+msgid "Uruguay"
+msgstr ""
+
+#: country.php:189
+msgid "Uzbekistan"
+msgstr "Uzbekistan"
+
+#: country.php:190
+msgid "Vanuatu"
+msgstr "vanuatu"
+
+#: country.php:191
+msgid "Vatican City"
+msgstr "Vatican"
+
+#: country.php:192
+msgid "Venezuela"
+msgstr "Venezuela"
+
+#: controllers/OfferAddCtrl.js:220 controllers/OfferPreviewCtrl.js:55
+msgid ""
+"Vielen Dank, dass Sie bei Jugl annoncieren. Ihre Anzeige wird "
+"schnellstmöglich geprüft. Mit freundlichen Grüßen, Ihr Jugl-Team."
+msgstr ""
+
+#: controllers/ProfileUpdateCtrl.js:45
+msgid ""
+"Vielen Dank, deine Hilfe-Anfrage wurde an unser Team weitergeleitet. Wir "
+"werden uns mit dir in Kürze in Verbindung setzen."
+msgstr ""
+
+#: controllers/SearchRequestAddCtrl.js:88
+msgid ""
+"Vielen Dank. Ihr Suchauftrag wird schnellstmöglich geprüft. Mit freundlichen "
+"Grüßen, Ihr Jugl-Team."
+msgstr ""
+
+#: country.php:193
+msgid "Vietnam"
+msgstr "Vietnam"
+
+#: controllers/OfferDraftCtrl.js:49
+msgid "Willst Du Deine Werbung endgültig löschen?"
+msgstr ""
+
+#: controllers/UserProfileCtrl.js:497
+msgid "Willst Du Deinen Beitrag wirklich löschen?"
+msgstr "Voulez-vous vraiment supprimer votre message?"
+
+#: controllers/DashboardNewCtrl.js:490 controllers/TrollboxCtrl.js:364
+#: controllers/UserProfileCtrl.js:565 services/MessengerService.js:118
+msgid "Willst Du wirklich den Benutzer für alle Foren entsperren?"
+msgstr "Voulez-vous vraiment débloquer l'utilisateur pour tous les forums?"
+
+#: controllers/DashboardNewCtrl.js:176 controllers/TrollboxCtrl.js:343
+#: controllers/UserProfileCtrl.js:544 services/MessengerService.js:97
+msgid "Willst Du wirklich den Benutzer für alle Foren sperren?"
+msgstr "Voulez-vous vraiment verrouiller l'utilisateur pour tous les forums?"
+
+#: services/MessengerService.js:77
+msgid "Willst Du wirklich den Benutzer für dieses Gruppenchat entsperren?"
+msgstr "Êtes-vous sûr de vouloir déverrouiller l'utilisateur pour ce groupe?"
+
+#: services/MessengerService.js:56
+msgid "Willst Du wirklich den Benutzer für dieses Gruppenchat sperren?"
+msgstr "Êtes-vous sûr de vouloir interdire l'utilisateur pour ce groupe?"
+
+#: controllers/MessengerCtrl.js:102
+msgid "Willst Du wirklich diese Chat entfernen?"
+msgstr ""
+
+#: services/MessengerService.js:16
+msgid "Willst Du wirklich diese Nachricht entfernen?"
+msgstr ""
+
+#: controllers/DealsCompletedCtrl.js:97 controllers/OfferMyListCtrl.js:52
+msgid "Willst du Dein Angebot endgültig löschen?"
+msgstr "Voulez-vous supprimer définitivement votre offre?"
+
+#: controllers/ProfileUpdateCtrl.js:71
+msgid "Willst du wirklich dein Profil löschen?"
+msgstr "Voulez-vous vraiement supprimer votre profil?"
+
+#: country.php:194
+msgid "Yemen"
+msgstr "Yemen"
+
+#: app.js:1459
+msgid "You can upload only files with jpg, jpeg and png extensions."
+msgstr ""
+
+#: app.js:1485
+msgid "You can upload only files with jpg, jpeg, png and mp4 extensions."
+msgstr ""
+
+#: controllers/FriendsCtrl.js:73 controllers/UserProfileCtrl.js:227
+msgid "You really want to delete this user from friends?"
+msgstr "Voulez-vous vraiment supprimer cet utilisateur de vos amis?"
+
+#: controllers/UserInterestsCtrl.js:6
+#: controllers/UserInterestsUpdateCtrl.js:30
+#: controllers/UserInterestsUpdateCtrl.js:8
+msgid "You really want to delete this user from interest?"
+msgstr ""
+
+#: country.php:195
+msgid "Zambia"
+msgstr ""
+
+#: country.php:196
+msgid "Zimbabwe"
+msgstr "Zimbabwe"
+
+#: directives/eventText.js:85
+msgid "Zustimmen"
+msgstr "Accorder"
+
+#: controllers/ActivityLogCtrl.js:8
+msgid "dd MMMM 'um' HH:mm"
+msgstr ""
+
+#: controllers/OfferHistoryViewPopupCtrl.js:8
+msgid "dd.MM.yyyy 'um' HH:mm"
+msgstr ""
+
+#: controllers/OfferDetailsCtrl.js:14
+msgid "„Mit OK bestätigst Du den verbindlichen Kauf des Angebots.“"
+msgstr "\"Avec OK, vous confirmez l'achat obligatoire de l'offre.\""

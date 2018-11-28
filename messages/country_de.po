@@ -1,0 +1,783 @@
+msgctxt "app"
+msgid "Afghanistan"
+msgstr "Afghanistan"
+
+msgctxt "app"
+msgid "Albania"
+msgstr "Albanien"
+
+msgctxt "app"
+msgid "Algeria"
+msgstr "Algerien"
+
+msgctxt "app"
+msgid "Andorra"
+msgstr "Andorra"
+
+msgctxt "app"
+msgid "Angola"
+msgstr "Angola"
+
+msgctxt "app"
+msgid "Antigua & Deps"
+msgstr "Antigua & Deps"
+
+msgctxt "app"
+msgid "Argentina"
+msgstr "Argentinien"
+
+msgctxt "app"
+msgid "Armenia"
+msgstr "Armenien"
+
+msgctxt "app"
+msgid "Australia"
+msgstr "Australien"
+
+msgctxt "app"
+msgid "Austria"
+msgstr "Österreich"
+
+msgctxt "app"
+msgid "Azerbaijan"
+msgstr "Aserbaidschan"
+
+msgctxt "app"
+msgid "Bahamas"
+msgstr "Bahamas"
+
+msgctxt "app"
+msgid "Bahrain"
+msgstr "Bahrein"
+
+msgctxt "app"
+msgid "Bangladesh"
+msgstr "Bangladesch"
+
+msgctxt "app"
+msgid "Barbados"
+msgstr "Barbados"
+
+msgctxt "app"
+msgid "Belarus"
+msgstr "Weißrussland"
+
+msgctxt "app"
+msgid "Belgium"
+msgstr "Belgien"
+
+msgctxt "app"
+msgid "Belize"
+msgstr "Belize"
+
+msgctxt "app"
+msgid "Benin"
+msgstr "Benin"
+
+msgctxt "app"
+msgid "Bhutan"
+msgstr "Bhutan"
+
+msgctxt "app"
+msgid "Bolivia"
+msgstr "Bolivien"
+
+msgctxt "app"
+msgid "Bosnia Herzegovina"
+msgstr "Bosnien-Herz."
+
+msgctxt "app"
+msgid "Botswana"
+msgstr "Botswana"
+
+msgctxt "app"
+msgid "Brazil"
+msgstr "Brasilien"
+
+msgctxt "app"
+msgid "Brunei"
+msgstr "Brunei"
+
+msgctxt "app"
+msgid "Bulgaria"
+msgstr "Bulgarien"
+
+msgctxt "app"
+msgid "Burkina"
+msgstr "Burkina"
+
+msgctxt "app"
+msgid "Burundi"
+msgstr "Burundi"
+
+msgctxt "app"
+msgid "Cambodia"
+msgstr "Kambodscha"
+
+msgctxt "app"
+msgid "Cameroon"
+msgstr "Kamerun"
+
+msgctxt "app"
+msgid "Canada"
+msgstr "Kanada"
+
+msgctxt "app"
+msgid "Cape Verde"
+msgstr "Kap Verde"
+
+msgctxt "app"
+msgid "Central African Rep"
+msgstr "Zentralafr.Rep."
+
+msgctxt "app"
+msgid "Chad"
+msgstr "Tschad"
+
+msgctxt "app"
+msgid "Chile"
+msgstr "Chile"
+
+msgctxt "app"
+msgid "China"
+msgstr "China"
+
+msgctxt "app"
+msgid "Colombia"
+msgstr "Kolumbien"
+
+msgctxt "app"
+msgid "Comoros"
+msgstr "Komoren"
+
+msgctxt "app"
+msgid "Congo"
+msgstr "Kongo"
+
+msgctxt "app"
+msgid "Congo {Democratic Rep}"
+msgstr "Kongo (Dem.Rep.)"
+
+msgctxt "app"
+msgid "Costa Rica"
+msgstr "Costa Rica"
+
+msgctxt "app"
+msgid "Croatia"
+msgstr "Kroatien"
+
+msgctxt "app"
+msgid "Cuba"
+msgstr "Kuba"
+
+msgctxt "app"
+msgid "Cyprus"
+msgstr "Zypern"
+
+msgctxt "app"
+msgid "Czech Republic"
+msgstr "Tschechien"
+
+msgctxt "app"
+msgid "Denmark"
+msgstr "Dänemark"
+
+msgctxt "app"
+msgid "Djibouti"
+msgstr "Dschibuti"
+
+msgctxt "app"
+msgid "Dominica"
+msgstr "Dominica"
+
+msgctxt "app"
+msgid "Dominican Republic"
+msgstr "Domin. Republik"
+
+msgctxt "app"
+msgid "East Timor"
+msgstr "Ost-Timor"
+
+msgctxt "app"
+msgid "Ecuador"
+msgstr "Ecuador"
+
+msgctxt "app"
+msgid "Egypt"
+msgstr "Ägypten"
+
+msgctxt "app"
+msgid "El Salvador"
+msgstr "El Salvador"
+
+msgctxt "app"
+msgid "Equatorial Guinea"
+msgstr "Äquatorialguinea"
+
+msgctxt "app"
+msgid "Eritrea"
+msgstr "Eritrea"
+
+msgctxt "app"
+msgid "Estonia"
+msgstr "Estland"
+
+msgctxt "app"
+msgid "Ethiopia"
+msgstr "Äthiopien"
+
+msgctxt "app"
+msgid "Fiji"
+msgstr "Fidschi"
+
+msgctxt "app"
+msgid "Finland"
+msgstr "Finnland"
+
+msgctxt "app"
+msgid "France"
+msgstr "Frankreich"
+
+msgctxt "app"
+msgid "Gabon"
+msgstr "Gabun"
+
+msgctxt "app"
+msgid "Gambia"
+msgstr "Gambia"
+
+msgctxt "app"
+msgid "Georgia"
+msgstr "Georgia"
+
+msgctxt "app"
+msgid "Germany"
+msgstr "Deutschland"
+
+msgctxt "app"
+msgid "Ghana"
+msgstr "Ghana"
+
+msgctxt "app"
+msgid "Greece"
+msgstr "Griechenland"
+
+msgctxt "app"
+msgid "Grenada"
+msgstr "Grenada"
+
+msgctxt "app"
+msgid "Guatemala"
+msgstr "Guatemala"
+
+msgctxt "app"
+msgid "Guinea"
+msgstr "Guinea"
+
+msgctxt "app"
+msgid "Guinea-Bissau"
+msgstr "Guinea-Bissau"
+
+msgctxt "app"
+msgid "Guyana"
+msgstr "Guyana"
+
+msgctxt "app"
+msgid "Haiti"
+msgstr "Haiti"
+
+msgctxt "app"
+msgid "Honduras"
+msgstr "Honduras"
+
+msgctxt "app"
+msgid "Hungary"
+msgstr "Ungarn"
+
+msgctxt "app"
+msgid "Iceland"
+msgstr "Island"
+
+msgctxt "app"
+msgid "India"
+msgstr "Indien"
+
+msgctxt "app"
+msgid "Indonesia"
+msgstr "Indonesien"
+
+msgctxt "app"
+msgid "Iran"
+msgstr "Iran"
+
+msgctxt "app"
+msgid "Iraq"
+msgstr "Irak"
+
+msgctxt "app"
+msgid "Ireland {Republic}"
+msgstr "Irland {Republic}"
+
+msgctxt "app"
+msgid "Israel"
+msgstr "Israel"
+
+msgctxt "app"
+msgid "Italy"
+msgstr "Italien"
+
+msgctxt "app"
+msgid "Ivory Coast"
+msgstr "Elfenbeinküste"
+
+msgctxt "app"
+msgid "Jamaica"
+msgstr "Jamaika"
+
+msgctxt "app"
+msgid "Japan"
+msgstr "Japan"
+
+msgctxt "app"
+msgid "Jordan"
+msgstr "Jordanien"
+
+msgctxt "app"
+msgid "Kazakhstan"
+msgstr "Kasachstan"
+
+msgctxt "app"
+msgid "Kenya"
+msgstr "Kenia"
+
+msgctxt "app"
+msgid "Kiribati"
+msgstr "Kiribati"
+
+msgctxt "app"
+msgid "Korea North"
+msgstr "Korea Nord"
+
+msgctxt "app"
+msgid "Korea South"
+msgstr "Korea Süden"
+
+msgctxt "app"
+msgid "Kosovo"
+msgstr "Kosovo"
+
+msgctxt "app"
+msgid "Kuwait"
+msgstr "Kuwait"
+
+msgctxt "app"
+msgid "Kyrgyzstan"
+msgstr "Kirgisistan"
+
+msgctxt "app"
+msgid "Laos"
+msgstr "Laos"
+
+msgctxt "app"
+msgid "Latvia"
+msgstr "Lettland"
+
+msgctxt "app"
+msgid "Lebanon"
+msgstr "Libanon"
+
+msgctxt "app"
+msgid "Lesotho"
+msgstr "Lesotho"
+
+msgctxt "app"
+msgid "Liberia"
+msgstr "Liberia"
+
+msgctxt "app"
+msgid "Libya"
+msgstr "Libyen"
+
+msgctxt "app"
+msgid "Liechtenstein"
+msgstr "Liechtenstein"
+
+msgctxt "app"
+msgid "Lithuania"
+msgstr "Litauen"
+
+msgctxt "app"
+msgid "Luxembourg"
+msgstr "Luxemburg"
+
+msgctxt "app"
+msgid "Macedonia"
+msgstr "Mazedonien"
+
+msgctxt "app"
+msgid "Madagascar"
+msgstr "Madagaskar"
+
+msgctxt "app"
+msgid "Malawi"
+msgstr "Malawi"
+
+msgctxt "app"
+msgid "Malaysia"
+msgstr "Malaysia"
+
+msgctxt "app"
+msgid "Maldives"
+msgstr "Malediven"
+
+msgctxt "app"
+msgid "Mali"
+msgstr "Mali"
+
+msgctxt "app"
+msgid "Malta"
+msgstr "Malta"
+
+msgctxt "app"
+msgid "Marshall Islands"
+msgstr "Marshallinseln"
+
+msgctxt "app"
+msgid "Mauritania"
+msgstr "Mauretanien"
+
+msgctxt "app"
+msgid "Mauritius"
+msgstr "Mauritius"
+
+msgctxt "app"
+msgid "Mexico"
+msgstr "Mexiko"
+
+msgctxt "app"
+msgid "Micronesia"
+msgstr "Mikronesien"
+
+msgctxt "app"
+msgid "Moldova"
+msgstr "Moldawien"
+
+msgctxt "app"
+msgid "Monaco"
+msgstr "Monaco"
+
+msgctxt "app"
+msgid "Mongolia"
+msgstr "Mongolei"
+
+msgctxt "app"
+msgid "Montenegro"
+msgstr "Montenegro"
+
+msgctxt "app"
+msgid "Morocco"
+msgstr "Marokko"
+
+msgctxt "app"
+msgid "Mozambique"
+msgstr "Mosambik"
+
+msgctxt "app"
+msgid "Myanmar, {Burma}"
+msgstr "Myanmar, {Burma}"
+
+msgctxt "app"
+msgid "Namibia"
+msgstr "Namibia"
+
+msgctxt "app"
+msgid "Nauru"
+msgstr "Nauru"
+
+msgctxt "app"
+msgid "Nepal"
+msgstr "Nepal"
+
+msgctxt "app"
+msgid "Netherlands"
+msgstr "Niederlande"
+
+msgctxt "app"
+msgid "New Zealand"
+msgstr "Neuseeland"
+
+msgctxt "app"
+msgid "Nicaragua"
+msgstr "Nicaragua"
+
+msgctxt "app"
+msgid "Niger"
+msgstr "Niger"
+
+msgctxt "app"
+msgid "Nigeria"
+msgstr "Nigeria"
+
+msgctxt "app"
+msgid "Norway"
+msgstr "Norwegen"
+
+msgctxt "app"
+msgid "Oman"
+msgstr "Oman"
+
+msgctxt "app"
+msgid "Pakistan"
+msgstr "Pakistan"
+
+msgctxt "app"
+msgid "Palau"
+msgstr "Palau"
+
+msgctxt "app"
+msgid "Panama"
+msgstr "Panama"
+
+msgctxt "app"
+msgid "Papua New Guinea"
+msgstr "Papua Neu-Guinea"
+
+msgctxt "app"
+msgid "Paraguay"
+msgstr "Paraguay"
+
+msgctxt "app"
+msgid "Peru"
+msgstr "Peru"
+
+msgctxt "app"
+msgid "Philippines"
+msgstr "Philippinen"
+
+msgctxt "app"
+msgid "Poland"
+msgstr "Polen"
+
+msgctxt "app"
+msgid "Portugal"
+msgstr "Portugal"
+
+msgctxt "app"
+msgid "Qatar"
+msgstr "Katar"
+
+msgctxt "app"
+msgid "Romania"
+msgstr "Rumänien"
+
+msgctxt "app"
+msgid "Russian Federation"
+msgstr "Russische Föderation"
+
+msgctxt "app"
+msgid "Rwanda"
+msgstr "Ruanda"
+
+msgctxt "app"
+msgid "St Kitts & Nevis"
+msgstr "St. Kitts & Nevis"
+
+msgctxt "app"
+msgid "St Lucia"
+msgstr "St. Lucia"
+
+msgctxt "app"
+msgid "Saint Vincent & the Grenadines"
+msgstr "St. Vincent und die Grenadinen"
+
+msgctxt "app"
+msgid "Samoa"
+msgstr "Samoa"
+
+msgctxt "app"
+msgid "San Marino"
+msgstr "San Marino"
+
+msgctxt "app"
+msgid "Sao Tome & Principe"
+msgstr "Sao Tome und Principe"
+
+msgctxt "app"
+msgid "Saudi Arabia"
+msgstr "Saudi Arabien"
+
+msgctxt "app"
+msgid "Senegal"
+msgstr "Senegal"
+
+msgctxt "app"
+msgid "Serbia"
+msgstr "Serbien"
+
+msgctxt "app"
+msgid "Seychelles"
+msgstr "Seychellen"
+
+msgctxt "app"
+msgid "Sierra Leone"
+msgstr "Sierra Leone"
+
+msgctxt "app"
+msgid "Singapore"
+msgstr "Singapur"
+
+msgctxt "app"
+msgid "Slovakia"
+msgstr "Slowakei"
+
+msgctxt "app"
+msgid "Slovenia"
+msgstr "Slowenien"
+
+msgctxt "app"
+msgid "Solomon Islands"
+msgstr "Salomon-Inseln"
+
+msgctxt "app"
+msgid "Somalia"
+msgstr "Somalia"
+
+msgctxt "app"
+msgid "South Africa"
+msgstr "Südafrika"
+
+msgctxt "app"
+msgid "South Sudan"
+msgstr "Südsudan"
+
+msgctxt "app"
+msgid "Spain"
+msgstr "Spanien"
+
+msgctxt "app"
+msgid "Sri Lanka"
+msgstr "Sri Lanka"
+
+msgctxt "app"
+msgid "Sudan"
+msgstr "Sudan"
+
+msgctxt "app"
+msgid "Suriname"
+msgstr "Suriname"
+
+msgctxt "app"
+msgid "Swaziland"
+msgstr "Swasiland"
+
+msgctxt "app"
+msgid "Sweden"
+msgstr "Schweden"
+
+msgctxt "app"
+msgid "Switzerland"
+msgstr "Schweiz"
+
+msgctxt "app"
+msgid "Syria"
+msgstr "Syrien"
+
+msgctxt "app"
+msgid "Taiwan"
+msgstr "Taiwan"
+
+msgctxt "app"
+msgid "Tajikistan"
+msgstr "Tadschikistan"
+
+msgctxt "app"
+msgid "Tanzania"
+msgstr "Tansania"
+
+msgctxt "app"
+msgid "Thailand"
+msgstr "Thailand"
+
+msgctxt "app"
+msgid "Togo"
+msgstr "Gehen"
+
+msgctxt "app"
+msgid "Tonga"
+msgstr "Tonga"
+
+msgctxt "app"
+msgid "Trinidad & Tobago"
+msgstr "Trinidad & Tobago"
+
+msgctxt "app"
+msgid "Tunisia"
+msgstr "Tunesien"
+
+msgctxt "app"
+msgid "Turkey"
+msgstr "Truthahn"
+
+msgctxt "app"
+msgid "Turkmenistan"
+msgstr "Turkmenistan"
+
+msgctxt "app"
+msgid "Tuvalu"
+msgstr "Tuvalu"
+
+msgctxt "app"
+msgid "Uganda"
+msgstr "Uganda"
+
+msgctxt "app"
+msgid "Ukraine"
+msgstr "Ukraine"
+
+msgctxt "app"
+msgid "United Arab Emirates"
+msgstr "Vereinigte Arabische Emirate"
+
+msgctxt "app"
+msgid "United Kingdom"
+msgstr "Großbritannien"
+
+msgctxt "app"
+msgid "United States"
+msgstr "Vereinigte Staaten"
+
+msgctxt "app"
+msgid "Uruguay"
+msgstr "Uruguay"
+
+msgctxt "app"
+msgid "Uzbekistan"
+msgstr "Usbekistan"
+
+msgctxt "app"
+msgid "Vanuatu"
+msgstr "Vanuatu"
+
+msgctxt "app"
+msgid "Vatican City"
+msgstr "Vatikanstadt"
+
+msgctxt "app"
+msgid "Venezuela"
+msgstr "Venezuela"
+
+msgctxt "app"
+msgid "Vietnam"
+msgstr "Vietnam"
+
+msgctxt "app"
+msgid "Yemen"
+msgstr "Jemen"
+
+msgctxt "app"
+msgid "Zambia"
+msgstr "Sambia"
+
+msgctxt "app"
+msgid "Zimbabwe"
+msgstr "Simbabwe"

@@ -1,0 +1,7 @@
+deploy_front_config.php
+node_modules
+files
+chat_files
+thumbs
+.sass-cache
+static/build

@@ -1,0 +1,9692 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "app"
+msgid ""
+msgstr ""
+
+msgctxt "app"
+msgid "\n\t\tDie <span class=\"icon-info-popup\"></span> - Symbole blinken so lange,<br>\n\t\t\t\tbis Du sie Dir angesehen hast.<br>\n\t\t\t\tSo kannst Du Dir sicher sein,<br>\n\t\t\t\talle Tipps gelesen zu haben!\n\t\t"
+msgstr ""
+
+msgctxt "app"
+msgid "\n<span class=\"ico-title\">Um den Vorgang abschließen zu können überweise den Betrag {sum} EUR an folgende Bankverbindung:</span><br/>\n<br/>\n<span class=\"ico-payment-data\">\n<b>Kontoinhaber: JuglApp GmbH<br/>\nIBAN: DE91 8607 0024 0199 9101 01<br/>\nBIC: DEUTDEDBLEG</b><br/> \n</span>\n<br/>\nDamit Deine Bezahlung richtig zugeordnet wird, bitte als Verwendungszweck <b>UNBEDINGT</b> folgenden Code angeben:<br/> \n<br/>\n<span class=\"ico-code\"><b>{ext_code}</b></span>"
+msgstr ""
+
+msgctxt "app"
+msgid " Aktiv bis"
+msgstr ""
+
+msgctxt "app"
+msgid " Gesamtausgaben gestern"
+msgstr ""
+
+msgctxt "app"
+msgid " Ist das richtig?"
+msgstr ""
+
+msgctxt "app"
+msgid " Mitglied seit"
+msgstr ""
+
+msgctxt "app"
+msgid " Themenfilter"
+msgstr ""
+
+msgctxt "app"
+msgid " Unterkategorien"
+msgstr ""
+
+msgctxt "app"
+msgid " [user][/user] Hat Dich zu jugl.net eingeladen. Deshalb gibst Du [sum][/sum] Deiner Einnahmen für das Anschauen der [advertising:{advertisingid}]\"Banner Werbung\"[/advertising] an [user][/user] ab"
+msgstr ""
+
+msgctxt "app"
+msgid " [user][/user] Hat Dich zu jugl.net eingeladen. Deshalb gibst Du [sum][/sum] Deiner Einnahmen für das Anschauen des Videos [video:{videoid}]\"{videoTitle}\"[/video] an [user][/user] ab"
+msgstr ""
+
+msgctxt "app"
+msgid " alle"
+msgstr ""
+
+msgctxt "app"
+msgid "&Uuml;ber Uns"
+msgstr ""
+
+msgctxt "app"
+msgid "(kostenlos)"
+msgstr ""
+
+msgctxt "app"
+msgid "(mit Kaufbonus und Provision)"
+msgstr ""
+
+msgctxt "app"
+msgid "-- Please select --"
+msgstr ""
+
+msgctxt "app"
+msgid "...folgende Angebote abgegeben:"
+msgstr ""
+
+msgctxt "app"
+msgid "1 Jahr"
+msgstr ""
+
+msgctxt "app"
+msgid "1 Jahr: {price}€"
+msgstr ""
+
+msgctxt "app"
+msgid "1 Monat: {price}€"
+msgstr ""
+
+msgctxt "app"
+msgid "1 Std."
+msgstr ""
+
+msgctxt "app"
+msgid "1 Woche"
+msgstr ""
+
+msgctxt "app"
+msgid "1. Ich lade meine Freunde ein und baue mir damit mein Netzwerk auf."
+msgstr ""
+
+msgctxt "app"
+msgid "1. Verstoß gegen die AGBs"
+msgstr ""
+
+msgctxt "app"
+msgid "1. W&auml;hle allgemeine Interessenkategorie"
+msgstr ""
+
+msgctxt "app"
+msgid "12 Std."
+msgstr ""
+
+msgctxt "app"
+msgid "2 Jahre"
+msgstr ""
+
+msgctxt "app"
+msgid "2. Ich gebe meine Interessen an (von der Zahnbürste bis zum Luxus Auto) und bleibe dabei anonym und bekomme vorwiegend von Händlern aber auch von Privatpersonen, auf meinen Interessen basierende Produktangebote (Werbung). Für jede gelesene Werbung verdienst Du Jugls"
+msgstr ""
+
+msgctxt "app"
+msgid "2. Ich gebe meine Interessen an (von der Zahnbürste bis zum Luxus Auto) und bliebe dabei anonym und bekomme vorwiegend von Händlern aber auch von Privatpersonen, auf meinen Interessen basierende Produktangebote (Werbung)."
+msgstr ""
+
+msgctxt "app"
+msgid "2. Verdacht auf Fakeprofile in Ihrem Level 1"
+msgstr ""
+
+msgctxt "app"
+msgid "2. W&auml;hle Unterkategorie"
+msgstr ""
+
+msgctxt "app"
+msgid "24 Std."
+msgstr ""
+
+msgctxt "app"
+msgid "3 Jahre"
+msgstr ""
+
+msgctxt "app"
+msgid "3 Jahre: {price}€"
+msgstr ""
+
+msgctxt "app"
+msgid "3 Monate"
+msgstr ""
+
+msgctxt "app"
+msgid "3 Monate: {price}€"
+msgstr ""
+
+msgctxt "app"
+msgid "3 Std."
+msgstr ""
+
+msgctxt "app"
+msgid "3 Tage"
+msgstr ""
+
+msgctxt "app"
+msgid "3. Assistenz, Recherche, Vermittlung… egal ob günstigste Reise, schönste Veranstaltung oder Traumwohnung. Hierbei ist mein Profil zu sehen und ich erhalte ein individuell auf mich zugeschnittenes Angebot."
+msgstr ""
+
+msgctxt "app"
+msgid "3. Verdacht auf gefälschte Daten"
+msgstr ""
+
+msgctxt "app"
+msgid "3. Vermittlung, Recherche, Assistenz. Egal was Du oder andere suchen. Du bekommst dafür Vermittlungsprovision oder profitierst von den Angeboten."
+msgstr ""
+
+msgctxt "app"
+msgid "3. W&auml;hle Themenfilter"
+msgstr ""
+
+msgctxt "app"
+msgid "4 Woche"
+msgstr ""
+
+msgctxt "app"
+msgid "4. Du verdienst immer an allen Aktivitäten in Deinem Netzwerk mit."
+msgstr ""
+
+msgctxt "app"
+msgid "4. ExtraCash - der Name ist Programm. Sammle noch mehr Jugls bei unseren Partnern und verschaffe Dir so einen waschechten Booster für Dein Konto."
+msgstr ""
+
+msgctxt "app"
+msgid "6 Monate"
+msgstr ""
+
+msgctxt "app"
+msgid "6 Monate: {price}€"
+msgstr ""
+
+msgctxt "app"
+msgid "6 Std."
+msgstr ""
+
+msgctxt "app"
+msgid "60.000 Helfer, jede erdenkliche Hilfe und Dienstleitung ist möglich. Die Jugler sind 24 Stunden an 7 Tagen der Woche für Dich da!"
+msgstr ""
+
+msgctxt "app"
+msgid "<b>Bitte E-Mail-Adressen hier eingeben</b><br/>Kommagetrennt,<br/>z.B. mustermann@domain1.com,<br/>musterfrau@domain2.com usw."
+msgstr ""
+
+msgctxt "app"
+msgid "<span class=\"greeting-big\">JUGL.NET - </span><span class=\"greeting-small\">Du kannst nur gewinnen!</span></h1>"
+msgstr ""
+
+msgctxt "app"
+msgid "<span class=\"red\">PREMIUM Mitglieder</span> sind die interessanteren Gesch&auml;ftspartner f&uuml;r Unternehmen und private Nutzer im Netzwerk.<br/><span class=\"red\">10% MEHR GEWINN!</span>"
+msgstr ""
+
+msgctxt "app"
+msgid "<span class=\"red\">PREMIUM</span> Gewinnaufteilung: Du bekommst von jedem verdienten Jugl 70 %. 1 % gehen an JuglApp und 29 % gehen an den, der Dich in das Netzwerk eingeladen hat."
+msgstr ""
+
+msgctxt "app"
+msgid "<span class=\"red\">PREMIUMPLUS Mitglieder</span> sind die interessantesten Geschäftspartner für Unternehmen und private Nutzer im Netzwerk."
+msgstr ""
+
+msgctxt "app"
+msgid "<span class=\"red\">PREMIUMPLUS</span> Gewinnaufteilung: Du bekommst von jedem verdienten Jugl 70%. 1% geht an JuglApp und 29% gehen an den, der Dich in das Netzwerk eingeladen hat."
+msgstr ""
+
+msgctxt "app"
+msgid "<span>{{users.src_name}}</span>in die Struktur von<span>{{users.dst_name}}</span>verschieben?"
+msgstr ""
+
+msgctxt "app"
+msgid "<strong>Du besitzt bereits ein Jugl Konto?</strong>\n\t\t\t\t\t  Dann gib gier Deine Email ein."
+msgstr ""
+
+msgctxt "app"
+msgid "ACHTUNG: Deine Premium-Mitgliedschaft läuft bald ab. [vipProlongation]"
+msgstr ""
+
+msgctxt "app"
+msgid "ACHTUNG: Ein späteres Upgrade zu diesem Preis ist nicht mehr m&ouml;glich!"
+msgstr ""
+
+msgctxt "app"
+msgid "ADMIN_STATUS_ACTIVE"
+msgstr ""
+
+msgctxt "app"
+msgid "ADMIN_STATUS_BLOCKED"
+msgstr ""
+
+msgctxt "app"
+msgid "AGB"
+msgstr ""
+
+msgctxt "app"
+msgid "AGB des Anbieters lesen"
+msgstr ""
+
+msgctxt "app"
+msgid "AGBs"
+msgstr ""
+
+msgctxt "app"
+msgid "Ab dem"
+msgstr ""
+
+msgctxt "app"
+msgid "Ab sofort"
+msgstr ""
+
+msgctxt "app"
+msgid "Abbildung"
+msgstr ""
+
+msgctxt "app"
+msgid "Abbrechen"
+msgstr ""
+
+msgctxt "app"
+msgid "Abgabe ins Netzwerk"
+msgstr ""
+
+msgctxt "app"
+msgid "Abgelaufen"
+msgstr ""
+
+msgctxt "app"
+msgid "Abgelehnt"
+msgstr ""
+
+msgctxt "app"
+msgid "Abgeschlossen"
+msgstr ""
+
+msgctxt "app"
+msgid "Abgeschlossene Gesch&auml;fte & Bewertungen"
+msgstr ""
+
+msgctxt "app"
+msgid "Ablehnen"
+msgstr ""
+
+msgctxt "app"
+msgid "Ablehnungsgrund"
+msgstr ""
+
+msgctxt "app"
+msgid "Abmelden"
+msgstr ""
+
+msgctxt "app"
+msgid "Abmeldung Erfolgreich"
+msgstr ""
+
+msgctxt "app"
+msgid "Abonnement beenden"
+msgstr ""
+
+msgctxt "app"
+msgid "Abonnenten"
+msgstr ""
+
+msgctxt "app"
+msgid "Abonnieren"
+msgstr ""
+
+msgctxt "app"
+msgid "Abonniert"
+msgstr ""
+
+msgctxt "app"
+msgid "Abos"
+msgstr ""
+
+msgctxt "app"
+msgid "Abos Aktivitäten"
+msgstr ""
+
+msgctxt "app"
+msgid "About"
+msgstr ""
+
+msgctxt "app"
+msgid "Abschicken"
+msgstr ""
+
+msgctxt "app"
+msgid "Absenden"
+msgstr ""
+
+msgctxt "app"
+msgid "Abwerben"
+msgstr ""
+
+msgctxt "app"
+msgid "Abwerben verhindern"
+msgstr ""
+
+msgctxt "app"
+msgid "Accept Payout"
+msgstr ""
+
+msgctxt "app"
+msgid "Action Log"
+msgstr ""
+
+msgctxt "app"
+msgid "Action log"
+msgstr ""
+
+msgctxt "app"
+msgid "Activate Spam Report"
+msgstr ""
+
+msgctxt "app"
+msgid "Activity"
+msgstr ""
+
+msgctxt "app"
+msgid "Address"
+msgstr ""
+
+msgctxt "app"
+msgid "Admin"
+msgstr ""
+
+msgctxt "app"
+msgid "Admin ID"
+msgstr ""
+
+msgctxt "app"
+msgid "Administration"
+msgstr ""
+
+msgctxt "app"
+msgid "Administrator {user} hat Dir gerade {sum} Jugls überwiesen"
+msgstr ""
+
+msgctxt "app"
+msgid "Administrator {user} hat Dir gerade {sum} Tokens überwiesen"
+msgstr ""
+
+msgctxt "app"
+msgid "Admins"
+msgstr ""
+
+msgctxt "app"
+msgid "Adminstratoren"
+msgstr ""
+
+msgctxt "app"
+msgid "Advertising"
+msgstr ""
+
+msgctxt "app"
+msgid "Advertising ID"
+msgstr ""
+
+msgctxt "app"
+msgid "Advertising statistics"
+msgstr ""
+
+msgctxt "app"
+msgid "Afghanistan"
+msgstr ""
+
+msgctxt "app"
+msgid "Aktiv"
+msgstr ""
+
+msgctxt "app"
+msgid "Aktiv bis"
+msgstr ""
+
+msgctxt "app"
+msgid "Aktiviert"
+msgstr ""
+
+msgctxt "app"
+msgid "Aktivierungscode"
+msgstr ""
+
+msgctxt "app"
+msgid "Aktivitäten"
+msgstr ""
+
+msgctxt "app"
+msgid "Aktuelles Gebot"
+msgstr ""
+
+msgctxt "app"
+msgid "Aktuelles Höchstgebot"
+msgstr ""
+
+msgctxt "app"
+msgid "Akzeptieren"
+msgstr ""
+
+msgctxt "app"
+msgid "Akzeptiert"
+msgstr ""
+
+msgctxt "app"
+msgid "Akzeptiert von"
+msgstr ""
+
+msgctxt "app"
+msgid "Albania"
+msgstr ""
+
+msgctxt "app"
+msgid "Algeria"
+msgstr ""
+
+msgctxt "app"
+msgid "All trademarks and copyrights belong to their respective owners."
+msgstr ""
+
+msgctxt "app"
+msgid "Alle"
+msgstr ""
+
+msgctxt "app"
+msgid "Alle Aktivit&auml;ten"
+msgstr ""
+
+msgctxt "app"
+msgid "Alle Funktionen"
+msgstr ""
+
+msgctxt "app"
+msgid "Alle Gruppenchats anzeigen"
+msgstr ""
+
+msgctxt "app"
+msgid "Alle Länder anzeigen"
+msgstr ""
+
+msgctxt "app"
+msgid "Alle Suchaufträge anzeigen"
+msgstr ""
+
+msgctxt "app"
+msgid "Alle Töne ein-/ausschalten"
+msgstr ""
+
+msgctxt "app"
+msgid "Alle Videos löschen"
+msgstr ""
+
+msgctxt "app"
+msgid "Alle Werbebonusanzeigen"
+msgstr ""
+
+msgctxt "app"
+msgid "Alle anzeigen"
+msgstr ""
+
+msgctxt "app"
+msgid "Alle auswählen"
+msgstr ""
+
+msgctxt "app"
+msgid "Alle zeigen"
+msgstr ""
+
+msgctxt "app"
+msgid "Allerletzte Zahlungserinnerung!"
+msgstr ""
+
+msgctxt "app"
+msgid "Allerletzte Zahlungserinnerung! Du hast bereits dreimal nicht bezahlt. Bitte bezahle umgehend alle Deinen offenen Käufe sonst wirst du gesperrt!"
+msgstr ""
+
+msgctxt "app"
+msgid "Alles zeigen"
+msgstr ""
+
+msgctxt "app"
+msgid "Allgemeine Angebot Interessen"
+msgstr ""
+
+msgctxt "app"
+msgid "Allgemeine Interessekategorie"
+msgstr ""
+
+msgctxt "app"
+msgid "Allgemeine Nutzungsbedingungen von jugl.net"
+msgstr ""
+
+msgctxt "app"
+msgid "Alltagshilfe"
+msgstr ""
+
+msgctxt "app"
+msgid "Alltagshilfe - Networking - Geschäftskontakte - Soziales Netzwerk"
+msgstr ""
+
+msgctxt "app"
+msgid "Als Bezahlt markieren"
+msgstr ""
+
+msgctxt "app"
+msgid "Als H&auml;ndler oder Privatperson hast Du mehr M&ouml;glichkeiten Deine Zielgruppe pr&auml;zise nach Interessen zu definieren."
+msgstr ""
+
+msgctxt "app"
+msgid "Als bezahlt markiert"
+msgstr ""
+
+msgctxt "app"
+msgid "Als nächstes vervollständige Deine Profildaten bei Jugl.net, damit Deine Freunde und andere Nutzer mehr über dich erfahren können:"
+msgstr ""
+
+msgctxt "app"
+msgid "Alt passwort darf nicht leer sein."
+msgstr ""
+
+msgctxt "app"
+msgid "Alter"
+msgstr ""
+
+msgctxt "app"
+msgid "Alter bis"
+msgstr ""
+
+msgctxt "app"
+msgid "Alter von"
+msgstr ""
+
+msgctxt "app"
+msgid "Altes Passwort"
+msgstr ""
+
+msgctxt "app"
+msgid "An Abonnenten"
+msgstr ""
+
+msgctxt "app"
+msgid "An Alle"
+msgstr ""
+
+msgctxt "app"
+msgid "An Kontakte"
+msgstr ""
+
+msgctxt "app"
+msgid "An error occured while sending E-Mail"
+msgstr ""
+
+msgctxt "app"
+msgid "An wen gepostet"
+msgstr ""
+
+msgctxt "app"
+msgid "An wen gepostet "
+msgstr ""
+
+msgctxt "app"
+msgid "Anbieten"
+msgstr ""
+
+msgctxt "app"
+msgid "Anbieter"
+msgstr ""
+
+msgctxt "app"
+msgid "Anbieter:"
+msgstr ""
+
+msgctxt "app"
+msgid "Andere Nutzer hast anfrage angenommen"
+msgstr ""
+
+msgctxt "app"
+msgid "Andorra"
+msgstr ""
+
+msgctxt "app"
+msgid "Anfrage erneut senden"
+msgstr ""
+
+msgctxt "app"
+msgid "Angebot"
+msgstr ""
+
+msgctxt "app"
+msgid "Angebot abgeben"
+msgstr ""
+
+msgctxt "app"
+msgid "Angebot auf einen Suchauftrag"
+msgstr ""
+
+msgctxt "app"
+msgid "Angebot bezahlen"
+msgstr ""
+
+msgctxt "app"
+msgid "Angebot senden"
+msgstr ""
+
+msgctxt "app"
+msgid "Angebotdetails (werden bis zur Annahme des Angebots unleserlich bzw. verschwommen dargestellt)"
+msgstr ""
+
+msgctxt "app"
+msgid "Angebote"
+msgstr ""
+
+msgctxt "app"
+msgid "Angebote bearbeiten"
+msgstr ""
+
+msgctxt "app"
+msgid "Angebote bestätigen/ablehnen"
+msgstr ""
+
+msgctxt "app"
+msgid "Angebote einsehen"
+msgstr ""
+
+msgctxt "app"
+msgid "Angebote zu kontrollieren"
+msgstr ""
+
+msgctxt "app"
+msgid "Angebotsdetails (wird eingeblendet sobald Du das Angebot akzeptierst)"
+msgstr ""
+
+msgctxt "app"
+msgid "Angebotspreis: "
+msgstr ""
+
+msgctxt "app"
+msgid "Angemeldet bleiben"
+msgstr ""
+
+msgctxt "app"
+msgid "Angenommen"
+msgstr ""
+
+msgctxt "app"
+msgid "Angola"
+msgstr ""
+
+msgctxt "app"
+msgid "Annecy Ausgaben gestern"
+msgstr ""
+
+msgctxt "app"
+msgid "Annecy-Statistik"
+msgstr ""
+
+msgctxt "app"
+msgid "Annehmen"
+msgstr ""
+
+msgctxt "app"
+msgid "Annonce auf Startseite anzeigen (kostenpflichtig)"
+msgstr ""
+
+msgctxt "app"
+msgid "Annonciere kostenlos und erreiche ein neues Publikum, welches Du so nie erreicht hättest. Die Jugler tragen die Botschaft in die Welt!"
+msgstr ""
+
+msgctxt "app"
+msgid "Antigua & Deps"
+msgstr ""
+
+msgctxt "app"
+msgid "Antwort"
+msgstr ""
+
+msgctxt "app"
+msgid "Antwort Datum"
+msgstr ""
+
+msgctxt "app"
+msgid "Antworten"
+msgstr ""
+
+msgctxt "app"
+msgid "Anzahl Einladungen"
+msgstr ""
+
+msgctxt "app"
+msgid "Anzahl Suchanzeigen Online"
+msgstr ""
+
+msgctxt "app"
+msgid "Anzahl Suchanzeigen Online (Min)"
+msgstr ""
+
+msgctxt "app"
+msgid "Anzahl aktiver Suchaufträge bei Jugl.net"
+msgstr ""
+
+msgctxt "app"
+msgid "Anzahl der Beiträge pro Tag"
+msgstr ""
+
+msgctxt "app"
+msgid "Anzahl der Mitglieder, die vom Abwerben verhindert werden können"
+msgstr ""
+
+msgctxt "app"
+msgid "Anzahl der Spam-Meldungen"
+msgstr ""
+
+msgctxt "app"
+msgid "Anzahl der User"
+msgstr ""
+
+msgctxt "app"
+msgid "Anzeige Aktiv bis"
+msgstr ""
+
+msgctxt "app"
+msgid "Anzeige Name"
+msgstr ""
+
+msgctxt "app"
+msgid "Anzeige abschalten"
+msgstr ""
+
+msgctxt "app"
+msgid "Anzeige aktiv bis"
+msgstr ""
+
+msgctxt "app"
+msgid "Anzeige aufgeben"
+msgstr ""
+
+msgctxt "app"
+msgid "Anzeige bis"
+msgstr ""
+
+msgctxt "app"
+msgid "Anzeige sichtbar für:"
+msgstr ""
+
+msgctxt "app"
+msgid "Anzeigedetails"
+msgstr ""
+
+msgctxt "app"
+msgid "Anzeigen"
+msgstr ""
+
+msgctxt "app"
+msgid "Anzeigen mit Werbebonus"
+msgstr ""
+
+msgctxt "app"
+msgid "App Login"
+msgstr ""
+
+msgctxt "app"
+msgid "App runterladen"
+msgstr ""
+
+msgctxt "app"
+msgid "April"
+msgstr ""
+
+msgctxt "app"
+msgid "Argentina"
+msgstr ""
+
+msgctxt "app"
+msgid "Armenia"
+msgstr ""
+
+msgctxt "app"
+msgid "Artikelstandort"
+msgstr ""
+
+msgctxt "app"
+msgid "Assistenz, Recherche, Vermittlung... egal ob die günstigste Reise, die schönste Veranstaltung oder die Traumwohnung - bei Jugl.net helfen sich die Mitglieder gegenseitig, das perfekte Angebot zu finden."
+msgstr ""
+
+msgctxt "app"
+msgid "Attention required"
+msgstr ""
+
+msgctxt "app"
+msgid "Auftrag aktiv bis"
+msgstr ""
+
+msgctxt "app"
+msgid "Auftrag annehmen"
+msgstr ""
+
+msgctxt "app"
+msgid "Auftrag erstellen"
+msgstr ""
+
+msgctxt "app"
+msgid "Auftragsdetails"
+msgstr ""
+
+msgctxt "app"
+msgid "Aufträge"
+msgstr ""
+
+msgctxt "app"
+msgid "Aufträge durchsuchen"
+msgstr ""
+
+msgctxt "app"
+msgid "August"
+msgstr ""
+
+msgctxt "app"
+msgid "Ausgabe"
+msgstr ""
+
+msgctxt "app"
+msgid "Ausgaben gesamt"
+msgstr ""
+
+msgctxt "app"
+msgid "Ausgaben gestern"
+msgstr ""
+
+msgctxt "app"
+msgid "Ausgang"
+msgstr ""
+
+msgctxt "app"
+msgid "Ausgang durch"
+msgstr ""
+
+msgctxt "app"
+msgid "Ausstehend"
+msgstr ""
+
+msgctxt "app"
+msgid "Australia"
+msgstr ""
+
+msgctxt "app"
+msgid "Austria"
+msgstr ""
+
+msgctxt "app"
+msgid "Auswahl aufheben"
+msgstr ""
+
+msgctxt "app"
+msgid "Auszahlung"
+msgstr ""
+
+msgctxt "app"
+msgid "Auszahlung Jugl an Nutzer"
+msgstr ""
+
+msgctxt "app"
+msgid "Auszahlung Jugls"
+msgstr ""
+
+msgctxt "app"
+msgid "Auszahlung der festgelegten Tokens"
+msgstr ""
+
+msgctxt "app"
+msgid "Auszahlung des Tokenbetrags"
+msgstr ""
+
+msgctxt "app"
+msgid "Auszahlung des Zinsertrags"
+msgstr ""
+
+msgctxt "app"
+msgid "Auszahlung erfolgreich"
+msgstr ""
+
+msgctxt "app"
+msgid "Auszahlungen durchführen"
+msgstr ""
+
+msgctxt "app"
+msgid "Auszahlungsanfrage eingegangen"
+msgstr ""
+
+msgctxt "app"
+msgid "Auth token"
+msgstr ""
+
+msgctxt "app"
+msgid "Avatar"
+msgstr ""
+
+msgctxt "app"
+msgid "Azerbaijan"
+msgstr ""
+
+msgctxt "app"
+msgid "BIC"
+msgstr ""
+
+msgctxt "app"
+msgid "Bahamas"
+msgstr ""
+
+msgctxt "app"
+msgid "Bahrain"
+msgstr ""
+
+msgctxt "app"
+msgid "Balance"
+msgstr ""
+
+msgctxt "app"
+msgid "Balance Log ID"
+msgstr ""
+
+msgctxt "app"
+msgid "Balance Token Log ID"
+msgstr ""
+
+msgctxt "app"
+msgid "Bangladesh"
+msgstr ""
+
+msgctxt "app"
+msgid "Bank&uuml;berweisung"
+msgstr ""
+
+msgctxt "app"
+msgid "Banküberweisung"
+msgstr ""
+
+msgctxt "app"
+msgid "Banküberweisung als Zahlungsmethode ist nicht möglich, da Du keine Bankverbindung in Deinem Profil hinterlegt hast. Gehe dazu in der Navigationsleiste auf \"Mein Profil\" und auf \"Daten/Bankdaten ansehen/bearbeiten\""
+msgstr ""
+
+msgctxt "app"
+msgid "Banküberweisung, IBAN: {iban} BIC: {bic} Kontoinhaber: {owner}"
+msgstr ""
+
+msgctxt "app"
+msgid "Banner"
+msgstr ""
+
+msgctxt "app"
+msgid "Banner Bild"
+msgstr ""
+
+msgctxt "app"
+msgid "Banner Breite"
+msgstr ""
+
+msgctxt "app"
+msgid "Banner Höhe"
+msgstr ""
+
+msgctxt "app"
+msgid "Barbados"
+msgstr ""
+
+msgctxt "app"
+msgid "Barzahlung bei Abholung"
+msgstr ""
+
+msgctxt "app"
+msgid "Basis-Mitglieder"
+msgstr ""
+
+msgctxt "app"
+msgid "Bearbeiten"
+msgstr ""
+
+msgctxt "app"
+msgid "Bearbeiten Immobilie für Tokens"
+msgstr ""
+
+msgctxt "app"
+msgid "Bei fehlender Eingabe bleibt die Anzeige 6 Monate aktiv."
+msgstr ""
+
+msgctxt "app"
+msgid "Bei jedem Klick vom  Werbebonus zusätzlich<br/>+{percent1} an Jugl.net und<br/>+{percent2} an den, der Dich zu Jugl eingeladen hat"
+msgstr ""
+
+msgctxt "app"
+msgid "Bei jedem Klick vom Werbebonus gehen zusätzlich<br />+ 10% an Jugl.net und<br />+ 10% an den, der Dich zu Jugl.net eingeladen hat. "
+msgstr ""
+
+msgctxt "app"
+msgid "Beispielkategorie - Du kannst aus diversen Kategorien die passende für Dich wählen."
+msgstr ""
+
+msgctxt "app"
+msgid "Beitrag anpinnen"
+msgstr ""
+
+msgctxt "app"
+msgid "Beitrag entpinnen"
+msgstr ""
+
+msgctxt "app"
+msgid "Belarus"
+msgstr ""
+
+msgctxt "app"
+msgid "Belgium"
+msgstr ""
+
+msgctxt "app"
+msgid "Beliebteste"
+msgstr ""
+
+msgctxt "app"
+msgid "Belize"
+msgstr ""
+
+msgctxt "app"
+msgid "Belohnung abholen"
+msgstr ""
+
+msgctxt "app"
+msgid "Benachrichtigung bei Kommentaren"
+msgstr ""
+
+msgctxt "app"
+msgid "Benachrichtigung bei Likes"
+msgstr ""
+
+msgctxt "app"
+msgid "Benachrichtigungen bei Geboten ab"
+msgstr ""
+
+msgctxt "app"
+msgid "Benin"
+msgstr ""
+
+msgctxt "app"
+msgid "Benutzer"
+msgstr ""
+
+msgctxt "app"
+msgid "Benutzer entsperren"
+msgstr ""
+
+msgctxt "app"
+msgid "Benutzer gesperrt"
+msgstr ""
+
+msgctxt "app"
+msgid "Benutzer mit Echt-Stimmen"
+msgstr ""
+
+msgctxt "app"
+msgid "Benutzer mit Nicht-Echt-Stimmen"
+msgstr ""
+
+msgctxt "app"
+msgid "Benutzer mit dieser E-Mail-Adresse ist bereits eingeladen"
+msgstr ""
+
+msgctxt "app"
+msgid "Benutzer mit dieser E-Mail-Adresse ist bereits registriert"
+msgstr ""
+
+msgctxt "app"
+msgid "Benutzer mit dieser Telefonnummer ist bereits eingeladen"
+msgstr ""
+
+msgctxt "app"
+msgid "Benutzer mit dieser Telefonnummer ist bereits registriert"
+msgstr ""
+
+msgctxt "app"
+msgid "Benutzer sperren"
+msgstr ""
+
+msgctxt "app"
+msgid "Berechtigung"
+msgstr ""
+
+msgctxt "app"
+msgid "Berechtigung zur Landänderung"
+msgstr ""
+
+msgctxt "app"
+msgid "Bereits Mitglied?"
+msgstr ""
+
+msgctxt "app"
+msgid "Bereits bewertet."
+msgstr ""
+
+msgctxt "app"
+msgid "Bereits eingeladen"
+msgstr ""
+
+msgctxt "app"
+msgid "Bereits festgelegt"
+msgstr ""
+
+msgctxt "app"
+msgid "Beruf"
+msgstr ""
+
+msgctxt "app"
+msgid "Beschreibe Dein Angebot"
+msgstr ""
+
+msgctxt "app"
+msgid "Beschreibung"
+msgstr ""
+
+msgctxt "app"
+msgid "Best"
+msgstr ""
+
+msgctxt "app"
+msgid "Best&auml;tigen"
+msgstr ""
+
+msgctxt "app"
+msgid "Beste Bewertungen zuerst anzeigen"
+msgstr ""
+
+msgctxt "app"
+msgid "Bestätigter Geldeingang"
+msgstr ""
+
+msgctxt "app"
+msgid "Bestätigung Deiner Registrierung bei jugl.net"
+msgstr ""
+
+msgctxt "app"
+msgid "Betrag"
+msgstr ""
+
+msgctxt "app"
+msgid "Beweisfoto & Kopie Deines Ausweis"
+msgstr ""
+
+msgctxt "app"
+msgid "Bewerte den Nutzer {user} für das Handel bezgl. der Anzeige [offer:{offerId}]\"{offerTitle}\"[/offer]. [offerRequestCounterFeedback:{offerRequestId}]"
+msgstr ""
+
+msgctxt "app"
+msgid "Bewerte den Nutzer {user} für das Handel bezgl. der Anzeige [offer:{offerId}]\"{offerTitle}\"[/offer]. [offerRequestFeedback:{offerRequestId}]"
+msgstr ""
+
+msgctxt "app"
+msgid "Bewerte den Nutzer {user} für das Handel bezgl. des Suchauftrags [searchRequest:{searchRequestId}]\"{searchRequestTitle}\"[/searchRequest]. [searchRequestOfferCounterFeedback:{searchRequestOfferId}]"
+msgstr ""
+
+msgctxt "app"
+msgid "Bewerte den Nutzer {user} für das Handel bezgl. des Suchauftrags [searchRequest:{searchRequestId}]\"{searchRequestTitle}\"[/searchRequest]. [searchRequestOfferFeedback:{searchRequestOfferId}]"
+msgstr ""
+
+msgctxt "app"
+msgid "Bewerten"
+msgstr ""
+
+msgctxt "app"
+msgid "Bewerten:"
+msgstr ""
+
+msgctxt "app"
+msgid "Bewertung"
+msgstr ""
+
+msgctxt "app"
+msgid "Bewertungen"
+msgstr ""
+
+msgctxt "app"
+msgid "Bewertungstext"
+msgstr ""
+
+msgctxt "app"
+msgid "Bezahlt"
+msgstr ""
+
+msgctxt "app"
+msgid "Bezeichnung"
+msgstr ""
+
+msgctxt "app"
+msgid "Bezgl. Deiner Werbung \"{title}\": "
+msgstr ""
+
+msgctxt "app"
+msgid "Bhutan"
+msgstr ""
+
+msgctxt "app"
+msgid "Bieterverfahren"
+msgstr ""
+
+msgctxt "app"
+msgid "Bieterverfahren abgelaufen"
+msgstr ""
+
+msgctxt "app"
+msgid "Bild / Video hochladen"
+msgstr ""
+
+msgctxt "app"
+msgid "Bind Param Value"
+msgstr ""
+
+msgctxt "app"
+msgid "Birthday"
+msgstr ""
+
+msgctxt "app"
+msgid "Bitte Geburtsdatum eingeben."
+msgstr ""
+
+msgctxt "app"
+msgid "Bitte Grund eingeben"
+msgstr ""
+
+msgctxt "app"
+msgid "Bitte Warte"
+msgstr ""
+
+msgctxt "app"
+msgid "Bitte beachte, dass der Zeitraum für einen Teamwechsel bereits ausgelaufen ist. Somit ist der erneute Teamwechsel nicht mehr möglich."
+msgstr ""
+
+msgctxt "app"
+msgid "Bitte beachte, dass ein VIP-Code immer nur für eine Registrierung gütig ist."
+msgstr ""
+
+msgctxt "app"
+msgid "Bitte bewerte Deinen Teamleader"
+msgstr ""
+
+msgctxt "app"
+msgid "Bitte bewerte {user} für sein Teamleading. [teamleaderFeedback]"
+msgstr ""
+
+msgctxt "app"
+msgid "Bitte bezahle das  angenommene Angebot wie folgt"
+msgstr ""
+
+msgctxt "app"
+msgid "Bitte eins noch!"
+msgstr ""
+
+msgctxt "app"
+msgid "Bitte führe die Validierung erneut durch"
+msgstr ""
+
+msgctxt "app"
+msgid "Bitte geben Sie hier Ihr Wunschpasswort ein."
+msgstr ""
+
+msgctxt "app"
+msgid "Bitte geben Sie hier Ihre Email-Adresse ein."
+msgstr ""
+
+msgctxt "app"
+msgid "Bitte geben Sie hier den VIP-Code ein"
+msgstr ""
+
+msgctxt "app"
+msgid "Bitte gewünschte Anzahl an Tokens eingeben (von 10 bis 100.000):"
+msgstr ""
+
+msgctxt "app"
+msgid "Bitte gib Dein Geburtsdatum an"
+msgstr ""
+
+msgctxt "app"
+msgid "Bitte gib Dein Gebutsdatum an"
+msgstr ""
+
+msgctxt "app"
+msgid "Bitte gib Dein Geschlecht an."
+msgstr ""
+
+msgctxt "app"
+msgid "Bitte gib Dein Land an"
+msgstr ""
+
+msgctxt "app"
+msgid "Bitte gib den Grund deiner Ablehnung an"
+msgstr ""
+
+msgctxt "app"
+msgid "Bitte gib den Kommentar deiner Ablehnung an"
+msgstr ""
+
+msgctxt "app"
+msgid "Bitte gib eine Emailadresse ein."
+msgstr ""
+
+msgctxt "app"
+msgid "Bitte gib eine Lieferadresse an!"
+msgstr ""
+
+msgctxt "app"
+msgid "Bitte gib einen \"Benachrichtigungen bei Geboten ab\" ein."
+msgstr ""
+
+msgctxt "app"
+msgid "Bitte gib einen Einadungstext ein."
+msgstr ""
+
+msgctxt "app"
+msgid "Bitte gib einen Grundtext ein."
+msgstr ""
+
+msgctxt "app"
+msgid "Bitte gib einen Preis ein."
+msgstr ""
+
+msgctxt "app"
+msgid "Bitte gib einen Preisvorstellung ein."
+msgstr ""
+
+msgctxt "app"
+msgid "Bitte gib hier den Aktivierungscode ein, den Du per SMS erhalten hast."
+msgstr ""
+
+msgctxt "app"
+msgid "Bitte kontrolliere die Preise, die Du eingegeben hast"
+msgstr ""
+
+msgctxt "app"
+msgid "Bitte lade die Rückseite Deines Ausweises hoch."
+msgstr ""
+
+msgctxt "app"
+msgid "Bitte lade die Vorderseite Deines Ausweises hoch."
+msgstr ""
+
+msgctxt "app"
+msgid "Bitte lade ein Bild von Dir mit einem Ausweis (Vorderseite) und einem Zettel in der Hand, auf dem \"jugl.net\" und Dein Name steht"
+msgstr ""
+
+msgctxt "app"
+msgid "Bitte logge Dich bei PayPal ein und wähle \"Geld senden\" aus. Dort klickst du auf \"Waren oder Dienstleistungen bezahlen\" und gibst \"{{paypal_email}}\" als Empfänger ein. Du profitierst so automatisch vom Käuferschutz von PayPal."
+msgstr ""
+
+msgctxt "app"
+msgid "Bitte mindestens eine Option wählen"
+msgstr ""
+
+msgctxt "app"
+msgid "Bitte setze dich mit dem Kunden [userProfile:{userId}]\"{userName}\"[/userProfile] zwecks der Terminabsprache in Verbindung. Er möchte den Artikel [offer:{offerId}]\"{offerTitle}\"[/offer] bei Abholung in Bar bezahlen. [offerPayConfirm:{offerId}:{offerRequestId}]"
+msgstr ""
+
+msgctxt "app"
+msgid "Bitte wähle Immobilie"
+msgstr ""
+
+msgctxt "app"
+msgid "Bitte wähle Zeitraum"
+msgstr ""
+
+msgctxt "app"
+msgid "Bitte wähle eine Art der Werbung aus."
+msgstr ""
+
+msgctxt "app"
+msgid "Bitte wähle eine Einzahlungsmethode"
+msgstr ""
+
+msgctxt "app"
+msgid "Bitte wähle eine Zahlungsmöglichkeit!"
+msgstr ""
+
+msgctxt "app"
+msgid "Bitte wähle einen Provider aus."
+msgstr ""
+
+msgctxt "app"
+msgid "Bitte wählen"
+msgstr ""
+
+msgctxt "app"
+msgid "Bitte wählen Anzeige aktiv bis Datum"
+msgstr ""
+
+msgctxt "app"
+msgid "Bitte wählen Sie mindestens eine Zahlungsmethode aus."
+msgstr ""
+
+msgctxt "app"
+msgid "Bitte überweise den Betrag {sum} EUR mit dem Verwendungszweck <b>{ext_code}</b> an \"<b>JuglApp GmbH / IBAN: DE91 8607 0024 0199 9101 01 / BIC: DEUTDEDBLEG</b>\""
+msgstr ""
+
+msgctxt "app"
+msgid "Blockieren"
+msgstr ""
+
+msgctxt "app"
+msgid "Blockiert"
+msgstr ""
+
+msgctxt "app"
+msgid "Blockierte Device IDs"
+msgstr ""
+
+msgctxt "app"
+msgid "Bolivia"
+msgstr ""
+
+msgctxt "app"
+msgid "Boni festlegen"
+msgstr ""
+
+msgctxt "app"
+msgid "Bonus"
+msgstr ""
+
+msgctxt "app"
+msgid "Bonus für Parent"
+msgstr ""
+
+msgctxt "app"
+msgid "Bonus vergeben"
+msgstr ""
+
+msgctxt "app"
+msgid "Bosnia Herzegovina"
+msgstr ""
+
+msgctxt "app"
+msgid "Botswana"
+msgstr ""
+
+msgctxt "app"
+msgid "Brazil"
+msgstr ""
+
+msgctxt "app"
+msgid "Browse"
+msgstr ""
+
+msgctxt "app"
+msgid "Brunei"
+msgstr ""
+
+msgctxt "app"
+msgid "Brutto-Gesamt"
+msgstr ""
+
+msgctxt "app"
+msgid "Budget"
+msgstr ""
+
+msgctxt "app"
+msgid "Budget verbraucht"
+msgstr ""
+
+msgctxt "app"
+msgid "Bulgaria"
+msgstr ""
+
+msgctxt "app"
+msgid "Burkina"
+msgstr ""
+
+msgctxt "app"
+msgid "Burundi"
+msgstr ""
+
+msgctxt "app"
+msgid "Buyed {jugl_sum} Tokens for {currency_sum}€"
+msgstr ""
+
+msgctxt "app"
+msgid "Buyed {jugl_sum} jugls for {currency_sum}€"
+msgstr ""
+
+msgctxt "app"
+msgid "Cambodia"
+msgstr ""
+
+msgctxt "app"
+msgid "Cameroon"
+msgstr ""
+
+msgctxt "app"
+msgid "Can't convert file"
+msgstr ""
+
+msgctxt "app"
+msgid "Can't create dir %dir%"
+msgstr ""
+
+msgctxt "app"
+msgid "Can't delete this item, it is use by another item(s)"
+msgstr ""
+
+msgctxt "app"
+msgid "Can't detect mobile os"
+msgstr ""
+
+msgctxt "app"
+msgid "Can't save file"
+msgstr ""
+
+msgctxt "app"
+msgid "Canada"
+msgstr ""
+
+msgctxt "app"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "app"
+msgid "Cant delete this message"
+msgstr ""
+
+msgctxt "app"
+msgid "Cape Verde"
+msgstr ""
+
+msgctxt "app"
+msgid "Captcha - Code neu generieren"
+msgstr ""
+
+msgctxt "app"
+msgid "Captcha-Code neu generieren"
+msgstr ""
+
+msgctxt "app"
+msgid "Cash for Likes"
+msgstr ""
+
+msgctxt "app"
+msgid "Category"
+msgstr ""
+
+msgctxt "app"
+msgid "Central African Rep"
+msgstr ""
+
+msgctxt "app"
+msgid "Cfr Distribution ID"
+msgstr ""
+
+msgctxt "app"
+msgid "Chad"
+msgstr ""
+
+msgctxt "app"
+msgid "Chats"
+msgstr ""
+
+msgctxt "app"
+msgid "Chats aktualisieren"
+msgstr ""
+
+msgctxt "app"
+msgid "Chile"
+msgstr ""
+
+msgctxt "app"
+msgid "China"
+msgstr ""
+
+msgctxt "app"
+msgid "City"
+msgstr ""
+
+msgctxt "app"
+msgid "Code"
+msgstr ""
+
+msgctxt "app"
+msgid "Code absenden"
+msgstr ""
+
+msgctxt "app"
+msgid "Code eingeben"
+msgstr ""
+
+msgctxt "app"
+msgid "Colombia"
+msgstr ""
+
+msgctxt "app"
+msgid "Commentare"
+msgstr ""
+
+msgctxt "app"
+msgid "Comments"
+msgstr ""
+
+msgctxt "app"
+msgid "Common interests"
+msgstr ""
+
+msgctxt "app"
+msgid "Comoros"
+msgstr ""
+
+msgctxt "app"
+msgid "Company Name"
+msgstr ""
+
+msgctxt "app"
+msgid "Completion Dt"
+msgstr ""
+
+msgctxt "app"
+msgid "Congo"
+msgstr ""
+
+msgctxt "app"
+msgid "Congo (Democratic Rep)"
+msgstr ""
+
+msgctxt "app"
+msgid "Congratulations! You passed person validation and now you can order payout"
+msgstr ""
+
+msgctxt "app"
+msgid "Contact"
+msgstr ""
+
+msgctxt "app"
+msgid "Content Type"
+msgstr ""
+
+msgctxt "app"
+msgid "Contribution Percentage"
+msgstr ""
+
+msgctxt "app"
+msgid "Costa Rica"
+msgstr ""
+
+msgctxt "app"
+msgid "Count"
+msgstr ""
+
+msgctxt "app"
+msgid "Country"
+msgstr ""
+
+msgctxt "app"
+msgid "Country ID"
+msgstr ""
+
+msgctxt "app"
+msgid "Create"
+msgstr ""
+
+msgctxt "app"
+msgid "Create Dt"
+msgstr ""
+
+msgctxt "app"
+msgid "Create interest"
+msgstr ""
+
+msgctxt "app"
+msgid "Create param"
+msgstr ""
+
+msgctxt "app"
+msgid "Create subcategories"
+msgstr ""
+
+msgctxt "app"
+msgid "Create theme filter"
+msgstr ""
+
+msgctxt "app"
+msgid "Created At"
+msgstr ""
+
+msgctxt "app"
+msgid "Creating"
+msgstr ""
+
+msgctxt "app"
+msgid "Creating Admin"
+msgstr ""
+
+msgctxt "app"
+msgid "Creating Advertising"
+msgstr ""
+
+msgctxt "app"
+msgid "Creating Interest"
+msgstr ""
+
+msgctxt "app"
+msgid "Creating News"
+msgstr ""
+
+msgctxt "app"
+msgid "Creating Param"
+msgstr ""
+
+msgctxt "app"
+msgid "Creating Payin Packet"
+msgstr ""
+
+msgctxt "app"
+msgid "Creating Payout Packet"
+msgstr ""
+
+msgctxt "app"
+msgid "Creating Search Request"
+msgstr ""
+
+msgctxt "app"
+msgid "Creating Subcategories"
+msgstr ""
+
+msgctxt "app"
+msgid "Creating Value"
+msgstr ""
+
+msgctxt "app"
+msgid "Creating question"
+msgstr ""
+
+msgctxt "app"
+msgid "Creating theme filter"
+msgstr ""
+
+msgctxt "app"
+msgid "Croatia"
+msgstr ""
+
+msgctxt "app"
+msgid "Cuba"
+msgstr ""
+
+msgctxt "app"
+msgid "Currency Sum"
+msgstr ""
+
+msgctxt "app"
+msgid "Cyprus"
+msgstr ""
+
+msgctxt "app"
+msgid "Czech Republic"
+msgstr ""
+
+msgctxt "app"
+msgid "DE"
+msgstr ""
+
+msgctxt "app"
+msgid "Dafür erhältst Du von uns"
+msgstr ""
+
+msgctxt "app"
+msgid "Dailymotion"
+msgstr ""
+
+msgctxt "app"
+msgid "Damit der, der Dich eingeladen hat, seine Punkte erhält, musst Du in der App aktiv werden, eine Mitgliedschaft auswählen und Dich per SMS verifizieren."
+msgstr ""
+
+msgctxt "app"
+msgid "Damit derjenige, der Dich zu Jugl.net eingeladen hat, seinen Einladungsbonus erhält, gib hier Deine Handynummer an. Wir senden Dir einen Bestätigungscode per SMS zu, den Du unten in das Feld einträgst."
+msgstr ""
+
+msgctxt "app"
+msgid "Damit unsere Gemeinschaft groß und erfolgreich wird, lade möglichst viele Freunde und Bekannte ein, egal ob 5, 50 oder 500. Gemeinsam erreichen wir unser Ziel, passiv und mit viel Spaß Geld zu verdienen."
+msgstr ""
+
+msgctxt "app"
+msgid "Danke! Deine Daten wurden gespeichert. Bitte warte bis jemand Dich einlädt."
+msgstr ""
+
+msgctxt "app"
+msgid "Das Angebot ist zu teuer"
+msgstr ""
+
+msgctxt "app"
+msgid "Das Angebot passt nicht"
+msgstr ""
+
+msgctxt "app"
+msgid "Das Budget für Dein Angebot '{title}' ist verbraucht und es ist abgelaufen. Du kannst es unter 'Meine Werbung' jederzeit reaktivieren. [myOffer:{offerId}]Jetzt Budget aufladen[/myOffer]"
+msgstr ""
+
+msgctxt "app"
+msgid "Das Budget für Dein Angebot '{title}' ist zu 90% verbraucht. [myOffer:{offerId}]Jetzt Budget aufladen[/myOffer]"
+msgstr ""
+
+msgctxt "app"
+msgid "Das Feld E-Mail darf nicht leer sein."
+msgstr ""
+
+msgctxt "app"
+msgid "Das Feld Land darf nicht leer sein."
+msgstr ""
+
+msgctxt "app"
+msgid "Das Feld Nachname darf nicht leer sein."
+msgstr ""
+
+msgctxt "app"
+msgid "Das Feld Passwort darf nicht leer sein."
+msgstr ""
+
+msgctxt "app"
+msgid "Das Feld Passwort wiederholen darf nicht leer sein."
+msgstr ""
+
+msgctxt "app"
+msgid "Das Feld Vorname darf nicht leer sein."
+msgstr ""
+
+msgctxt "app"
+msgid "Das Passwort muss folgende Voraussetzungen haben: mind. 6 Zeichen, davon mind. einen Buchstaben und eine Ziffer."
+msgstr ""
+
+msgctxt "app"
+msgid "Das eingegebene \"Aktiv bis\" - Datum darf nicht in der Vergangenheit liegen"
+msgstr ""
+
+msgctxt "app"
+msgid "Das eingegebene \"Datum der Veröffentlichung\" darf nicht in der Vergangenheit liegen"
+msgstr ""
+
+msgctxt "app"
+msgid "Das eingegebene Passwort muss mindestens 6 Zeichen haben"
+msgstr ""
+
+msgctxt "app"
+msgid "Das eingegebene Passwort muss mindestens 6 Zeichen und einen Buchstaben und eine Ziffer beinhalten."
+msgstr ""
+
+msgctxt "app"
+msgid "Das eingegebene Passwort muss mindestens eine Buchstabe und eine Ziffer beinhalten"
+msgstr ""
+
+msgctxt "app"
+msgid "Dashboard - Zwischen der Werbung"
+msgstr ""
+
+msgctxt "app"
+msgid "Data"
+msgstr ""
+
+msgctxt "app"
+msgid "Date"
+msgstr ""
+
+msgctxt "app"
+msgid "Daten Bestätigen"
+msgstr ""
+
+msgctxt "app"
+msgid "Daten zum Anbieter"
+msgstr ""
+
+msgctxt "app"
+msgid "Daten zum Nutzer"
+msgstr ""
+
+msgctxt "app"
+msgid "Daten zur Werbung"
+msgstr ""
+
+msgctxt "app"
+msgid "Datenschutz"
+msgstr ""
+
+msgctxt "app"
+msgid "Datenschutzerklärung"
+msgstr ""
+
+msgctxt "app"
+msgid "Datum"
+msgstr ""
+
+msgctxt "app"
+msgid "Datum angesehen"
+msgstr ""
+
+msgctxt "app"
+msgid "Datum der Veröffentlichung"
+msgstr ""
+
+msgctxt "app"
+msgid "Datum und Zeit angesehen"
+msgstr ""
+
+msgctxt "app"
+msgid "Dauer der Ver&ouml;ffentlichung"
+msgstr ""
+
+msgctxt "app"
+msgid "Dauer der Veröffentlichung"
+msgstr ""
+
+msgctxt "app"
+msgid "Davon Zinsen"
+msgstr ""
+
+msgctxt "app"
+msgid "Davon auszahlbar"
+msgstr ""
+
+msgctxt "app"
+msgid "Davon nicht auszahlbar"
+msgstr ""
+
+msgctxt "app"
+msgid "Day"
+msgstr ""
+
+msgctxt "app"
+msgid "Deactivate Spam Report"
+msgstr ""
+
+msgctxt "app"
+msgid "Deaktiviert"
+msgstr ""
+
+msgctxt "app"
+msgid "December"
+msgstr ""
+
+msgctxt "app"
+msgid "Decision Needed"
+msgstr ""
+
+msgctxt "app"
+msgid "Decline Payout"
+msgstr ""
+
+msgctxt "app"
+msgid "Definiere genau, wer Deine Werbung mit Werbebonus sehen kann."
+msgstr ""
+
+msgctxt "app"
+msgid "Dein Account ist blockiert, bitte kontaktiere unseren Support."
+msgstr ""
+
+msgctxt "app"
+msgid "Dein Angebot"
+msgstr ""
+
+msgctxt "app"
+msgid "Dein Angebot auf den Suchauftrag"
+msgstr ""
+
+msgctxt "app"
+msgid "Dein Ausweis Rückseite"
+msgstr ""
+
+msgctxt "app"
+msgid "Dein Ausweis Vorderseite"
+msgstr ""
+
+msgctxt "app"
+msgid "Dein Beitrag [groupChat:{groupChatId}]\"{text}\"[/groupChat] wurde gerade von dem User {user} gelikt"
+msgstr ""
+
+msgctxt "app"
+msgid "Dein Beitrag [info:{infoView}]\"{text}\"[/info] wurde gerade von dem User {user} gelikt"
+msgstr ""
+
+msgctxt "app"
+msgid "Dein Beitrag wurde blockiert. Bitte halte Dich an unsere Forumsregeln."
+msgstr ""
+
+msgctxt "app"
+msgid "Dein Beitrag wurde blockiert. Bitte halte Dich an unsere Wikiregeln."
+msgstr ""
+
+msgctxt "app"
+msgid "Dein Bestätigungscode bei jugl.net lautet: {code}"
+msgstr ""
+
+msgctxt "app"
+msgid "Dein Einladungskontingent für Level 1 in der Basismitgliedschaft wurde erreicht. Mach ein Upgrade auf eine Premium-Mitgliedschaft um so viele Freunde einladen zu können, wie Du willst."
+msgstr ""
+
+msgctxt "app"
+msgid "Dein Einladungskontingent in der Premium-Mitgliedschaft wurde erreicht. Die Administratoren prüfen jetzt, ob Du Deine Mitglieder entsprechend beraten hast oder ob Fake Profile dabei sind. Sollte alles in Ordnung sein, wird Dein Einladungskontingent hochgesetzt."
+msgstr ""
+
+msgctxt "app"
+msgid "Dein Gebot"
+msgstr ""
+
+msgctxt "app"
+msgid "Dein Gebot ist gültig"
+msgstr ""
+
+msgctxt "app"
+msgid "Dein Gruppenchat wurde erstellt und wird durch Moderatoren überprüft. Sobald Dein Chat freigegeben wird, erscheint dieser hier auf der Startseite."
+msgstr ""
+
+msgctxt "app"
+msgid "Dein Ident Video wird gerade geprüft."
+msgstr ""
+
+msgctxt "app"
+msgid "Dein Interesse wird mit"
+msgstr ""
+
+msgctxt "app"
+msgid "Dein Jugl-Konto wurde erfolgreich aufgeladen."
+msgstr ""
+
+msgctxt "app"
+msgid "Dein Kauf wurde erfolgreich abgeschlossen"
+msgstr ""
+
+msgctxt "app"
+msgid "Dein Kommentar"
+msgstr ""
+
+msgctxt "app"
+msgid "Dein Konto wurde gelöscht"
+msgstr ""
+
+msgctxt "app"
+msgid "Dein Konto wurde gesperrt"
+msgstr ""
+
+msgctxt "app"
+msgid "Dein Netzwerk"
+msgstr ""
+
+msgctxt "app"
+msgid "Dein Profil wirkt seriöser auf andere Nutzer."
+msgstr ""
+
+msgctxt "app"
+msgid "Dein Profilbild:"
+msgstr ""
+
+msgctxt "app"
+msgid "Dein Suchauftrag"
+msgstr ""
+
+msgctxt "app"
+msgid "Dein Suchauftrag \"{title}\" wurde geprüft und ist jetzt bei jugl.net online."
+msgstr ""
+
+msgctxt "app"
+msgid "Dein Suchauftrag \"{title}\" wurde von der jugl Administration abgelehnt."
+msgstr ""
+
+msgctxt "app"
+msgid "Dein Team zu wechseln"
+msgstr ""
+
+msgctxt "app"
+msgid "Dein Teamleader (PremiumPlus-Mitglied) {name} möchte Dich fest in sein Team aufnehmen. PremiumPlus-Mitglieder können Dir aktiv dabei helfen, Dein Netzwerk aufzubauen. Hier die Nachricht von {name}: {text} [stickParentAccept] [stickParentReject]"
+msgstr ""
+
+msgctxt "app"
+msgid "Dein Teamleader hat Dir eine Anfrage bezgl. einer festen Teilnahme an seinem Team geschickt. Bitte antworte zuerst auf dieser Anfrage"
+msgstr ""
+
+msgctxt "app"
+msgid "Dein Teamleader {parentName} möchte Dir den Teammitglied {name} und seine Struktur übergeben. Möchtest Du die Teamführung übernehmen? [networkMoveAccept:{fromParentId}:{toParentId}:{userId}] [networkMoveReject:{fromParentId}:{toParentId}:{userId}]"
+msgstr ""
+
+msgctxt "app"
+msgid "Dein Vorteil gegenüber digitalen Suchmaschinen? Maschinen folgen Algorythmen, Menschen ihrem Verstand!"
+msgstr ""
+
+msgctxt "app"
+msgid "Dein aktueller Tokenstand beträgt:"
+msgstr ""
+
+msgctxt "app"
+msgid "Dein jugl Team"
+msgstr ""
+
+msgctxt "app"
+msgid "Dein persönlicher Assistent in der Hosentasche!"
+msgstr ""
+
+msgctxt "app"
+msgid "Deine Anfrage bezgl. der Auszahlung des Tokenbetrags ist bei uns eingegangen und wird schnellstmöglich durch unser Team geprüft"
+msgstr ""
+
+msgctxt "app"
+msgid "Deine Anfrage bezgl. der Auszahlung des Tokenbetrags wurde erfolgreich verarbeitet"
+msgstr ""
+
+msgctxt "app"
+msgid "Deine Anfrage bezgl. der Auszahlung des Zinsertrags ist bei uns eingegangen und wird schnellstmöglich durch unser Team geprüft"
+msgstr ""
+
+msgctxt "app"
+msgid "Deine Anfrage zur Auszahlung des Tokenbetrags {sum_currency}€ ist bei uns eingegangen und wird schnellstmöglich bearbeitet."
+msgstr ""
+
+msgctxt "app"
+msgid "Deine Anfrage zur Auszahlung des Zinsertrags {sum_jugl} Jugl-Punkte ({sum_currency}€) ist bei uns eingegangen und wird schnellstmöglich bearbeitet."
+msgstr ""
+
+msgctxt "app"
+msgid "Deine Anfrage zur Auszahlung über {sum_jugl} Jugl-Punkte ({sum_currency}€) ist bei uns eingegangen und wird schnellstmöglich bearbeitet."
+msgstr ""
+
+msgctxt "app"
+msgid "Deine Angebote auf Suchauftr&auml;ge"
+msgstr ""
+
+msgctxt "app"
+msgid "Deine Anmeldung wurde aus Sicherheitsgründen verweigert."
+msgstr ""
+
+msgctxt "app"
+msgid "Deine Anzeige \"{title}\" wurde geprüft und ist jetzt bei jugl.net online."
+msgstr ""
+
+msgctxt "app"
+msgid "Deine Anzeige \"{title}\" wurde wegen verdacht auf Spam deaktiviert. Wir werden Dein Inserat überprüfen."
+msgstr ""
+
+msgctxt "app"
+msgid "Deine Daten wurden überprüft. Das Ergebnis der Prüfung ist leider negativ. Grund: \"{{user.validation_failure_reason}}\""
+msgstr ""
+
+msgctxt "app"
+msgid "Deine Lieferadresse"
+msgstr ""
+
+msgctxt "app"
+msgid "Deine Nachricht..."
+msgstr ""
+
+msgctxt "app"
+msgid "Deine Premium-Mitgliedschaft ist abgelaufen. [vipUpgrade]"
+msgstr ""
+
+msgctxt "app"
+msgid "Deine Rechnung"
+msgstr ""
+
+msgctxt "app"
+msgid "Deine Stimme wurde abgegeben"
+msgstr ""
+
+msgctxt "app"
+msgid "Deine Suchauftr&auml;ge"
+msgstr ""
+
+msgctxt "app"
+msgid "Deine Suchauftrag \"{title}\" wurde wegen verdacht auf Spam deaktiviert. Wir werden Deine Suchanfrage überprüfen."
+msgstr ""
+
+msgctxt "app"
+msgid "Deine Vorteile auf einen Blick:"
+msgstr ""
+
+msgctxt "app"
+msgid "Deine Werbung \"{title}\" wurde von der jugl Administration abgelehnt."
+msgstr ""
+
+msgctxt "app"
+msgid "Deine persönliche Daten"
+msgstr ""
+
+msgctxt "app"
+msgid "Deinem Jugl-Punktekonto wurden {sum} Jugls gutgeschrieben"
+msgstr ""
+
+msgctxt "app"
+msgid "Deinem Jugl-Tokenkonto wurden {sum} Tokens gutgeschrieben"
+msgstr ""
+
+msgctxt "app"
+msgid "Delete"
+msgstr ""
+
+msgctxt "app"
+msgid "Deleted"
+msgstr ""
+
+msgctxt "app"
+msgid "Deleted Users"
+msgstr ""
+
+msgctxt "app"
+msgid "Den VIP-Code können Ihre Freunde oder Geschäftspartner, die bereits Mitglieder bei Jugl.net sind, direkt unter dem Punkt ‘Freunde einladen’ auf www.jugl.net erwerben."
+msgstr ""
+
+msgctxt "app"
+msgid "Denmark"
+msgstr ""
+
+msgctxt "app"
+msgid "Der Absender ist nicht in deiner Kontaktliste"
+msgstr ""
+
+msgctxt "app"
+msgid "Der Betrag soll mehr als 50 EUR (umgerechten {jugls} Jugls) sein, damit eine Auszahlung gemacht werden kann."
+msgstr ""
+
+msgctxt "app"
+msgid "Der Nutzer {user} hat sein Einladungskontingent aufgebraucht"
+msgstr ""
+
+msgctxt "app"
+msgid "Der Sinn von Suchen oder Aufträgen besteht darin, dass sich die Jugler direkt über das Portal Jugl.net durch eine Recherche oder Dienstleistung Jugl-Punkte verdienen können. Recherche werden in Jugl-Punkten vergütet, zum Beispiel für das Vermitteln einer Baufirma, die Deine Wohnung renovieren soll. Die Zahlung der Dienstleistung wird aber dann direkt an die Baufirma geleistet. Ist der Vermittler auch der Dienstleister, stehen ihm sowohl der Vermittlungsbonus als auch die Entlohnung der Dienstleistung zu."
+msgstr ""
+
+msgctxt "app"
+msgid "Der User hat Teamanfragen blockiert oder die Zeit zum Teamwechsel ist abgelaufen"
+msgstr ""
+
+msgctxt "app"
+msgid "Der Verkäufer hat die Möglichkeit, sich unabhängig von der Höhe des Gebots einen Käufer auszusuchen"
+msgstr ""
+
+msgctxt "app"
+msgid "Der Verkäufer hat die Möglichkeit, sich unabhängig von der Höhe des Gebots einen Käufer auszusuchen."
+msgstr ""
+
+msgctxt "app"
+msgid "Der Vermittlungsbonus sollte je nach Schwierigkeitsgrad im Verhältnis stehen. Der Vermittlungsbonus an Deinen Helfer wird erst nach der Angebotsannahme gebucht."
+msgstr ""
+
+msgctxt "app"
+msgid "Der Werbonus für "
+msgstr ""
+
+msgctxt "app"
+msgid "Der eingegebene Code ist falsch. Bitte versuche es noch einmal."
+msgstr ""
+
+msgctxt "app"
+msgid "Der eingegebene Einladungscode ist falsch bzw. wurde bereits verwendet"
+msgstr ""
+
+msgctxt "app"
+msgid "Der folgende Link ist Dein persönlicher Einladungslink für jugl.net. Nutze diesen Link in Emails, Foren, auf Facebook, Twitter etc. und Du wirst schneller als Du denkst ein beträchtliches Guthaben besitzen."
+msgstr ""
+
+msgctxt "app"
+msgid "Der folgende Link ist Dein persönlicher Einladungslink für jugl.net. Nutze diesen Link in e-mails, Foren, auf Facebook, Twitter etc. und Du wirst schneller als Du denkst ein beträchtliches J Guthaben besitzen.<br/><br/>Teile Deinen persönlichen Einladungslink!"
+msgstr ""
+
+msgctxt "app"
+msgid "Der nächste Teamwechsel ist erst nach {minute} Minuten möglich. Gib Deinem Teamleader die Chance, Dir alles zu erklären."
+msgstr ""
+
+msgctxt "app"
+msgid "Description"
+msgstr ""
+
+msgctxt "app"
+msgid "Details"
+msgstr ""
+
+msgctxt "app"
+msgid "Details anzeigen"
+msgstr ""
+
+msgctxt "app"
+msgid "Device ID"
+msgstr ""
+
+msgctxt "app"
+msgid "Device Uuid"
+msgstr ""
+
+msgctxt "app"
+msgid "Die <span class=\"red\">PREMIUMPLUS-Mitgliedschaft</span> läuft automatisch nach 12 Monaten aus und kann von Dir dann jederzeit verlängert werden.<br/>Kein Abo!"
+msgstr ""
+
+msgctxt "app"
+msgid "Die Belastung Deines Kreditkartenkontos erfolgt i.d.R. 2-3 Werktage nach Abschluss der Bestellung. Deine Kreditkartendaten kannst Du auf der nächsten Seite eingeben. Bitte weiter klicken."
+msgstr ""
+
+msgctxt "app"
+msgid "Die Belastung Ihres Kreditkartenkontos erfolg i.d.R. 2-3 Werktage nach Abschluss der Bestellung. Ihre Kreditkartendaten k&ouml;nnen Sie auf n&auml;chsten Siete eingeben. Bitte weiter klicken."
+msgstr ""
+
+msgctxt "app"
+msgid "Die Bestätigung wurde erfolgreich abgeschlossen"
+msgstr ""
+
+msgctxt "app"
+msgid "Die Echtheitsverifikation ist zu Deiner eigenen Sicherheit da. So weist Du die Identit&auml;t Deiner Person nach."
+msgstr ""
+
+msgctxt "app"
+msgid "Die Jugler sind weltweit 24 Stunden an 7 Tagen der Woche für Dich da."
+msgstr ""
+
+msgctxt "app"
+msgid "Die Tokens sind bis zum {time} festgelegt. Erst danach werden diese Buttons aktiv."
+msgstr ""
+
+msgctxt "app"
+msgid "Die Transaktion zum Aufladen deines Jugl-Kontos wurde abgebrochen."
+msgstr ""
+
+msgctxt "app"
+msgid "Die Vorschau ermöglicht es Dir, Deine Anzeige vor der Veröffentlichung noch einmal genau zu überprüfen und ggf. Korrekturen vorzunehmen."
+msgstr ""
+
+msgctxt "app"
+msgid "Die Werbung wurde noch von keinem Benutzer angeschaut"
+msgstr ""
+
+msgctxt "app"
+msgid "Die eingetragene Telefonnummer wird bereits von einem anderen User verwendet."
+msgstr ""
+
+msgctxt "app"
+msgid "Die großen Internetfirmen machen Milliardengewinne."
+msgstr ""
+
+msgctxt "app"
+msgid "Die kann folgende Gründe haben:"
+msgstr ""
+
+msgctxt "app"
+msgid "Die klassische Form der Werbung - Gewinne neue Kunden, mach auf Dich aufmerksam. Informiere potentielle Interessenten über Deine Ware und Angebote. (Werbung für konkurrierende Unternehmen ist nicht kostenfrei.)"
+msgstr ""
+
+msgctxt "app"
+msgid "Die menschliche Suchmaschine bei Jugl.net<br />Suche oder Auftrag erstellen"
+msgstr ""
+
+msgctxt "app"
+msgid "Dienstleistungen"
+msgstr ""
+
+msgctxt "app"
+msgid "Diese Aktion ist einmalig und kann später nicht rückgängig gemacht werden."
+msgstr ""
+
+msgctxt "app"
+msgid "Diese Anfrage ist leider nicht mehr gültig, da dieser Nutzer sich inzwischen anders überlegt hat und in seinem derzeitigen Team bleiben will."
+msgstr ""
+
+msgctxt "app"
+msgid "Diese Anfrage kann erst dann beantwortet werden, wenn dieser Nutzer sich endgültig entscheidet, ob er sein derzeitiges Team tatsächlich verlassen will. Dazu wurde er bereits benachrichtigt."
+msgstr ""
+
+msgctxt "app"
+msgid "Diese Facebook id existiert nicht!"
+msgstr ""
+
+msgctxt "app"
+msgid "Diese Felder dürfen nur Buchstaben beinhalten."
+msgstr ""
+
+msgctxt "app"
+msgid "Diese Funktion steht nur Premium Mitgliedern zur Verfügung."
+msgstr ""
+
+msgctxt "app"
+msgid "Diese Seite ist leider nicht mehr vorhanden."
+msgstr ""
+
+msgctxt "app"
+msgid "Dieser Jugler hat heute bereits ein Teamwechsel vorgenommen.  Ein Teamwechsel ist nur alle 24h möglich. Bitte versuche es zu einem späteren Zeitpunkt"
+msgstr ""
+
+msgctxt "app"
+msgid "Dieser Nutzer kann momentan kein Teamwechsel vornehmen. Bitte versuche später noch einmal."
+msgstr ""
+
+msgctxt "app"
+msgid "Dieses Popup schließt sich in"
+msgstr ""
+
+msgctxt "app"
+msgid "Dir wurde eine Email zum Zurücksetzen Deines Passworts an {email} gesendet"
+msgstr ""
+
+msgctxt "app"
+msgid "Direkt von<br/><a href=\"{link}\">{name}</a>"
+msgstr ""
+
+msgctxt "app"
+msgid "Distribute payment in hierarchy"
+msgstr ""
+
+msgctxt "app"
+msgid "Djibouti"
+msgstr ""
+
+msgctxt "app"
+msgid "Do you really want to accept this payout?"
+msgstr ""
+
+msgctxt "app"
+msgid "Do you really want to block this user?"
+msgstr ""
+
+msgctxt "app"
+msgid "Do you really want to decline this payout?"
+msgstr ""
+
+msgctxt "app"
+msgid "Do you really want to delete this item?"
+msgstr ""
+
+msgctxt "app"
+msgid "Do you really want to unblock this user?"
+msgstr ""
+
+msgctxt "app"
+msgid "Do you really want to undelete this user?"
+msgstr ""
+
+msgctxt "app"
+msgid "Doch was hast Du dafür von ihnen bekommen?"
+msgstr ""
+
+msgctxt "app"
+msgid "Dominica"
+msgstr ""
+
+msgctxt "app"
+msgid "Dominican Republic"
+msgstr ""
+
+msgctxt "app"
+msgid "Download"
+msgstr ""
+
+msgctxt "app"
+msgid "Dt"
+msgstr ""
+
+msgctxt "app"
+msgid "Du baust Dir jetzt Dein Netzwerk auf und bist zukünftig an allen Umsätzen und Gewinnen beteiligt. Je größer und stärker Dein Netzwerk ist, desto mehr Gewinn und Spaß wirst Du haben."
+msgstr ""
+
+msgctxt "app"
+msgid "Du bekommst von jedem verdienten Jugl 60 %. 11 % gehen an JuglApp und 29 % gehen an den, der Dich in das Netzwerk eingeladen hat."
+msgstr ""
+
+msgctxt "app"
+msgid "Du bietest etwas an und erhältst Gebote in unterschiedlicher Höhe auf Deine Ware. Du kannst Dir, unabhängig von der Höhe des Gebots, einen Käufer aussuchen. Falls Du Dich entscheiden solltest, Deine Ware doch nicht zu verkaufen, bist Du nicht verpflichtet ein Gebot anzunehmen. (z.B. wenn die Gebote nicht Deinen Vorstellungen entsprechen). Du kannst auch mehrere Gebote in unterschiedlicher Höhe annehmen und somit in einem Bieterverfahren mehrere Stücke einer Ware verkaufen."
+msgstr ""
+
+msgctxt "app"
+msgid "Du bietest etwas an und wenn der Interessent auf den \"Kaufen\"-Button klickt, kommt der Handel sofort zustande."
+msgstr ""
+
+msgctxt "app"
+msgid "Du bist Dir noch nicht sicher? Hier kannst Du Dir Videos über Jugl.net auf YouTube ansehen und Dich überzeugen!"
+msgstr ""
+
+msgctxt "app"
+msgid "Du bist dabei, ejne Auszahlung von {jugls} Jugls (umgerechten {euro} Euro) zu beantragen."
+msgstr ""
+
+msgctxt "app"
+msgid "Du bist der Käufer!"
+msgstr ""
+
+msgctxt "app"
+msgid "Du bist gerade dabei, Dich über die Seite www.jugl.net anzumelden."
+msgstr ""
+
+msgctxt "app"
+msgid "Du bist jetzt Moderator für die Gruppenchats."
+msgstr ""
+
+msgctxt "app"
+msgid "Du bist jetzt kein Moderator mehr für die Gruppenchats."
+msgstr ""
+
+msgctxt "app"
+msgid "Du bist mit <span class=\"offers-bet-price-popup\">{{modalService.data.price|priceFormat}} €</span> <br/> nicht der Höchstbietende."
+msgstr ""
+
+msgctxt "app"
+msgid "Du erhältst fünfmal so viel Geld für Deine Likes."
+msgstr ""
+
+msgctxt "app"
+msgid "Du erhältst höhere Boni für das Einladen neuer Mitglieder per Link (bis zu 30€) und aus dem Netzwerkaufbau (bis zu 20€)."
+msgstr ""
+
+msgctxt "app"
+msgid "Du gibst Deine Interessen an (von der Zahnbürste bis zum Luxuswagen), bleibst dabei anonym und bekommst von Händlern und Privatpersonen Produktangebote, die auf Deinen Interessen basieren. Allein dafür, dass Du, Deine Freunde oder deren Freundesfreunde diese Werbung lesen, erhältst Du Geld."
+msgstr ""
+
+msgctxt "app"
+msgid "Du hast"
+msgstr ""
+
+msgctxt "app"
+msgid "Du hast Deine Registrierung noch nicht abgeschlossen. Prüfe Deine E-Mails, dort findest Du eine E-Mail mit dem Bestätigungslink. Bitte klicke auf diesen Link um Deine Registrierung abzuschliessen."
+msgstr ""
+
+msgctxt "app"
+msgid "Du hast Deine Unterlagen zur Verifikation erfolgreich zugesendet. Diese befinden sich in der Prüfung."
+msgstr ""
+
+msgctxt "app"
+msgid "Du hast [user][/user] zu Jugl.net eingeladen. Es hat die Anzeige [offer:{offerId}]\"{offerTitle}\"[/offer] geschaltet und {user} hat diese gelesen. Dafür erhältst Du [sum][/sum]"
+msgstr ""
+
+msgctxt "app"
+msgid "Du hast auf diesen Suchauftrag..."
+msgstr ""
+
+msgctxt "app"
+msgid "Du hast bereits die maximal mögliche Anzahl an User von deinem Teamleader erhalten."
+msgstr ""
+
+msgctxt "app"
+msgid "Du hast das Angebot \"{offerTitle}\" innerhalb von 6 Werktagen nicht bezahlt. Du wirst hiermit abgemahnt und aufgefordert, das Angebot innerhalb von 3 Werktagen zu bezahlen. Nach Ablauf dieser Frist, habe ich, {name}, das Recht vom Handel zurückzutreten und/oder Schadensersatz einzufordern."
+msgstr ""
+
+msgctxt "app"
+msgid "Du hast das Angebot auf den Suchauftrag [searchRequest:{searchRequestId}]\"{searchRequestTitle}\"[/searchRequest] angenommen und zahlst [user][/user] einen Vermittlungsbonus von [sum][/sum]"
+msgstr ""
+
+msgctxt "app"
+msgid "Du hast das Produkt [offer:{offerId}]\"{offerTitle}\"[/offer] gekauft und dafür {sum} [jugl][/jugl] bezahlt"
+msgstr ""
+
+msgctxt "app"
+msgid "Du hast das Produkt [offer:{offerId}]{offerTitle}[/offer] gekauft und dafür {sum} [jugl][/jugl] bezahlt"
+msgstr ""
+
+msgctxt "app"
+msgid "Du hast das Produkt [offer:{offerId}]{offerTitle}[/offer] gekauft und erhältst einen Kaufbonus von {sum} [jugl][/jugl]"
+msgstr ""
+
+msgctxt "app"
+msgid "Du hast dein SMS-Einladungskontingent überschritten. Bitte wende dich an Administration des Portals."
+msgstr ""
+
+msgctxt "app"
+msgid "Du hast deinen Einladungskontingent leider erschöpft. Jetzt auf Premium/PremiumPlus upgraden und viel mehr Einladungen abschicken. [upgradePacket]"
+msgstr ""
+
+msgctxt "app"
+msgid "Du hast deinen Einladungskontingent leider erschöpft. Jetzt auf PremiumPlus upgraden und viel mehr Einladungen abschicken. [upgradePacket]"
+msgstr ""
+
+msgctxt "app"
+msgid "Du hast deinen Einladungskontingent leider erschöpft. [upgradePacket]"
+msgstr ""
+
+msgctxt "app"
+msgid "Du hast den Geldeingang für das Angebot [offer:{offerId}]\"{offerTitle}\"[/offer] von {user} noch nicht bestätigt. Wenn der Käufer bereits bezahlt hat, dann bestätige dies jetzt. [offerPayConfirm:{offerId}:{offerRequestId}] Wenn der Käufer noch nicht bezahlt hat, kannst Du ihn hiermit abmahnen [offerPayNotifyBuyer:{offerId}:{offerRequestId}]"
+msgstr ""
+
+msgctxt "app"
+msgid "Du hast der festen Teilnahme an dem Team Deines derzeitigen Teamleaders zugestimmt. Dementsprechend kannst Du nun Dein Team nicht mehr wechseln"
+msgstr ""
+
+msgctxt "app"
+msgid "Du hast die Anfrage abgelehnt"
+msgstr ""
+
+msgctxt "app"
+msgid "Du hast die Anfrage angenommen"
+msgstr ""
+
+msgctxt "app"
+msgid "Du hast die Einladungsbitte des Users [user][/user] angenommen. Dafür erhältst Du [sum][/sum]"
+msgstr ""
+
+msgctxt "app"
+msgid "Du hast die Möglichkeit unbegrenzt private und gewerbliche Anzeigen zu schalten (Ausnahmen: Online Geld verdienen, konkurrierende Unternehmen)"
+msgstr ""
+
+msgctxt "app"
+msgid "Du hast die zulässige SMS-Anzahl überschritten."
+msgstr ""
+
+msgctxt "app"
+msgid "Du hast diesem Nutzer bereits die maximal mögliche Anzahl an User übergeben."
+msgstr ""
+
+msgctxt "app"
+msgid "Du hast eine Anfrage an diesen Nutzer versendet. Bitte warte bis er/sie antwortet"
+msgstr ""
+
+msgctxt "app"
+msgid "Du hast eine Teamleaderanfrage an {name} gesendet. Warte nun auf eine Antwort. Teamanfragen über den Messenger sind nicht gestattet."
+msgstr ""
+
+msgctxt "app"
+msgid "Du hast eine genaue Vorstellung was Du suchst? Ein Bild sagt mehr als tausend Worte! Zudem machen Bilder Deinen Suchauftrag attraktiver."
+msgstr ""
+
+msgctxt "app"
+msgid "Du hast einen Werbebonus von [sum][/sum] für das Anschauen der [advertising:{advertisingid}]\"Banner Werbung\"[/advertising] erhalten"
+msgstr ""
+
+msgctxt "app"
+msgid "Du hast einen Werbebonus von [sum][/sum] für das Anschauen des Videos [video:{videoid}]\"{videoTitle}\"[/video] erhalten"
+msgstr ""
+
+msgctxt "app"
+msgid "Du hast einen Werbebonus von [sum][/sum] für das Lesen der Werbung [offer:{offerId}]\"{offerTitle}\"[/offer] erhalten"
+msgstr ""
+
+msgctxt "app"
+msgid "Du hast erfolgreich Jugls aufgeladen."
+msgstr ""
+
+msgctxt "app"
+msgid "Du hast folgenden Artikel gekauft"
+msgstr ""
+
+msgctxt "app"
+msgid "Du hast folgenden Artikel verkauft"
+msgstr ""
+
+msgctxt "app"
+msgid "Du hast folgendes Angebot erhalten"
+msgstr ""
+
+msgctxt "app"
+msgid "Du hast geboten auf"
+msgstr ""
+
+msgctxt "app"
+msgid "Du hast jetzt die Gelegenheit, einmalig Deinen Namen und Deine Daten zu ändern. Es ist wichtig, dass Du den richtigen Namen in Deinem Profil angegeben hast, sonst kannst Du Deine Jugl-Punkte nicht einlösen. Jugl.net verkauft keine Daten oder Email-Adressen an Dritte. Keine lästige Werbung per Email."
+msgstr ""
+
+msgctxt "app"
+msgid "Du hast leider nicht genug Jugls auf Deinem Konto."
+msgstr ""
+
+msgctxt "app"
+msgid "Du hast leider nicht genung Jugls auf Deinem Konto."
+msgstr ""
+
+msgctxt "app"
+msgid "Du hast mehr Möglichkeiten Deine Zielgruppe präzise nach Interessen zu definieren."
+msgstr ""
+
+msgctxt "app"
+msgid "Du hast nicht genug Jugls"
+msgstr ""
+
+msgctxt "app"
+msgid "Du hast nicht genug Jugls um eine Auszahlung anzufordern."
+msgstr ""
+
+msgctxt "app"
+msgid "Du hast nicht genug Jugls."
+msgstr ""
+
+msgctxt "app"
+msgid "Du hast noch keine Gebote abgegeben oder etwas gekauft."
+msgstr ""
+
+msgctxt "app"
+msgid "Du hast noch nichts in Deinem Merkzettel abgespeichert."
+msgstr ""
+
+msgctxt "app"
+msgid "Du hast noch offene Zahlungsabläufe. Bitte kontrolliere ob du das\nAngebot [offer:{offerId}]\"{offerTitle}\"[/offer] bereits bezahlt hast. Der Verkäufer hat den Geldeingang noch\nnicht bestätigt."
+msgstr ""
+
+msgctxt "app"
+msgid "Du hast sie groß gemacht!"
+msgstr ""
+
+msgctxt "app"
+msgid "Du hast {name} in Dein Team eingeladen. Warte nun auf eine Antwort. Weitere Nachrichten über den Messenger zum Teamwechsel ist nicht zulässig. Ebenso weisen wir darauf hin, dass das Abwerben von Mitgliedern zu anderen Websites außerhalb von jugl.net zur Löschung des Profils führt. Dies ist nur als kostenpflichtige Werbung (mit Werbebonus) gestattet."
+msgstr ""
+
+msgctxt "app"
+msgid "Du hast {user} als Spammer gemeldet. Du hilfst der Community damit sehr, unseriöse Mitglieder zu erkennen, vielen Dank. [spamReportDeactivate:{id}]"
+msgstr ""
+
+msgctxt "app"
+msgid "Du hast {user} als kein Spammer gemeldet. Du hilfst der Community damit sehr, unseriöse Mitglieder zu erkennen, vielen Dank."
+msgstr ""
+
+msgctxt "app"
+msgid "Du kannst Deine Annonce auf der Startseite anzeigen lassen. Dabei erhält jeder, der Deine Anzeige ansieht (mind. 30 Sekunden), eine von Dir festgelegte Anzahl von Jugl-Punkten (Werbebonus)."
+msgstr ""
+
+msgctxt "app"
+msgid "Du kannst Deine Anzeige auch ohne Werbebonus schalten. Sie ist dann jedoch nicht auf der Startseite zu sehen und nur in \"Inserate durchsuchen\" zu finden."
+msgstr ""
+
+msgctxt "app"
+msgid "Du kannst Mitglieder in Dein Netzwerk aufnehmen, die direkt über jugl.net kommen (Netzwerk aufbauen)."
+msgstr ""
+
+msgctxt "app"
+msgid "Du kannst Nutzer aus Level 1 anderen Teamleadern Deines Netzwerks zur Betreuung zuordnen."
+msgstr ""
+
+msgctxt "app"
+msgid "Du kannst auch anderen Mitgliedern assistieren bzw. für sie recherchieren und dafür eine Provision erhalten (Vermittlungsbonus). Auch für´s Informieren über neue Produkte wirst Du bei uns belohnt (Werbebonus)!"
+msgstr ""
+
+msgctxt "app"
+msgid "Du kannst einen Abwerbestopp für Mitglieder aus dem Netzwerkaufbau festlegen (mit deren Zustimmung)."
+msgstr ""
+
+msgctxt "app"
+msgid "Du kannst keine Stimme für Deine eigene Nachricht abgeben"
+msgstr ""
+
+msgctxt "app"
+msgid "Du kannst keine Suchaufträge in dieser Interessenkategorie erstellen, da sich andere Benutzer wg. Spam beschwert haben"
+msgstr ""
+
+msgctxt "app"
+msgid "Du kannst nur {limit,plural,=1{# Beitrag} other{# Beiträge}} pro 24 Std. posten"
+msgstr ""
+
+msgctxt "app"
+msgid "Du kannst unbegrenzt viele Mitglieder für Level 1 werben. (Freigabe nach Prüfung)"
+msgstr ""
+
+msgctxt "app"
+msgid "Du kaufst jetzt {tokens} Tokens für {price} Euro"
+msgstr ""
+
+msgctxt "app"
+msgid "Du kaufst jetzt {tokens} Tokens für {price} Jugls"
+msgstr ""
+
+msgctxt "app"
+msgid "Du legst gerade {tokens} Tokens für {price} Euro fest"
+msgstr ""
+
+msgctxt "app"
+msgid "Du legst gerade {tokens} Tokens für {price} Jugls fest"
+msgstr ""
+
+msgctxt "app"
+msgid "Du lädst Deine Freunde ein und baust Dir damit Dein Netzwerk auf. Für jede erfolgreiche Einladung erhältst Du Geld."
+msgstr ""
+
+msgctxt "app"
+msgid "Du wurdest bewertet von"
+msgstr ""
+
+msgctxt "app"
+msgid "Du wurdest dafür bewertet mit"
+msgstr ""
+
+msgctxt "app"
+msgid "Du wurdest für alle Foren von einem Moderator gesperrt"
+msgstr ""
+
+msgctxt "app"
+msgid "Du wurdest gesperrt"
+msgstr ""
+
+msgctxt "app"
+msgid "Du wurdest von einem anderen Mitglied über die Spam-Funktion gemeldet. Bitte halte Dich an unsere Regeln:[br][/br]1. kein Mitglied belästigen[br][/br]2. keine Werbung auf der Plattform außerhalb des Marktplatzes[br][/br]3. kein Mitglied zu Plattformen außerhalb von jugl.net abwerben (nur als Werbung mit Werbebonus möglich)[br][/br]Bei Zuwiderhandlung kann Dein Profil blockiert werden."
+msgstr ""
+
+msgctxt "app"
+msgid "Durchschnittlicher Umsatz in &euro;"
+msgstr ""
+
+msgctxt "app"
+msgid "Durchschnittswert Nachrichten User pro 24Std."
+msgstr ""
+
+msgctxt "app"
+msgid "Durchschnittswert Nachrichten User pro 24Std. bis"
+msgstr ""
+
+msgctxt "app"
+msgid "Durchschnittswert Nachrichten User pro 24Std. von"
+msgstr ""
+
+msgctxt "app"
+msgid "Durchschnittswert Nachrichten/24Std. bis"
+msgstr ""
+
+msgctxt "app"
+msgid "Durchschnittswert Nachrichten/24Std. von"
+msgstr ""
+
+msgctxt "app"
+msgid "E-Mail"
+msgstr ""
+
+msgctxt "app"
+msgid "E-Mail addresses"
+msgstr ""
+
+msgctxt "app"
+msgid "E-mail"
+msgstr ""
+
+msgctxt "app"
+msgid "E-mail adresse"
+msgstr ""
+
+msgctxt "app"
+msgid "ELV"
+msgstr ""
+
+msgctxt "app"
+msgid "EN"
+msgstr ""
+
+msgctxt "app"
+msgid "East Timor"
+msgstr ""
+
+msgctxt "app"
+msgid "Echt"
+msgstr ""
+
+msgctxt "app"
+msgid "Echtheitscheck"
+msgstr ""
+
+msgctxt "app"
+msgid "Ecuador"
+msgstr ""
+
+msgctxt "app"
+msgid "Egal ob Du selbst, Deine Freunde oder deren Freundesfreunde etwas kaufen oder verkaufen,<br>Du verdienst immer an allen Aktivitäten in Deinem Netzwerk mit. Du selbst bist zu keinem Umsatz verpflichtet."
+msgstr ""
+
+msgctxt "app"
+msgid "Egal ob geschäftlich oder privat - bei Jugl.net kannst Du uneingeschränkt kostenlos annoncieren! Bring Dich und Dein Business nach vorn. Gewinne neue Kunden und nimm Aufträge an."
+msgstr ""
+
+msgctxt "app"
+msgid "Egypt"
+msgstr ""
+
+msgctxt "app"
+msgid "Eigener"
+msgstr ""
+
+msgctxt "app"
+msgid "Ein anderer Nutzer hat Dich gerade beim Angebot [offer:{offerId}]\"{offerTitle}\"[/offer] überboten"
+msgstr ""
+
+msgctxt "app"
+msgid "Ein späteres Upgrade zu diesem Preis ist nicht mehr möglich."
+msgstr ""
+
+msgctxt "app"
+msgid "Eine App für alles - Einzigartig und unerreicht!"
+msgstr ""
+
+msgctxt "app"
+msgid "Eingang"
+msgstr ""
+
+msgctxt "app"
+msgid "Eingang durch"
+msgstr ""
+
+msgctxt "app"
+msgid "Einladen"
+msgstr ""
+
+msgctxt "app"
+msgid "Einladung akzeptieren"
+msgstr ""
+
+msgctxt "app"
+msgid "Einladung erhalten"
+msgstr ""
+
+msgctxt "app"
+msgid "Einladung erhalten von"
+msgstr ""
+
+msgctxt "app"
+msgid "Einladung verschicken"
+msgstr ""
+
+msgctxt "app"
+msgid "Einladung von {first_name} {last_name}"
+msgstr ""
+
+msgctxt "app"
+msgid "Einladung wurde erfolgreich erneut versendet."
+msgstr ""
+
+msgctxt "app"
+msgid "Einladungen versendet:"
+msgstr ""
+
+msgctxt "app"
+msgid "Einladungshistorie"
+msgstr ""
+
+msgctxt "app"
+msgid "Einladungskontingent"
+msgstr ""
+
+msgctxt "app"
+msgid "Einladungskontingent aufgebraucht"
+msgstr ""
+
+msgctxt "app"
+msgid "Einladungskontingent wurde erreicht"
+msgstr ""
+
+msgctxt "app"
+msgid "Einladungslink teilen"
+msgstr ""
+
+msgctxt "app"
+msgid "Einloggen"
+msgstr ""
+
+msgctxt "app"
+msgid "Einstellen"
+msgstr ""
+
+msgctxt "app"
+msgid "Einstellungen"
+msgstr ""
+
+msgctxt "app"
+msgid "Einstellungen bearbeiten"
+msgstr ""
+
+msgctxt "app"
+msgid "Einzahlung"
+msgstr ""
+
+msgctxt "app"
+msgid "El Salvador"
+msgstr ""
+
+msgctxt "app"
+msgid "Email"
+msgstr ""
+
+msgctxt "app"
+msgid "Email or Nickname"
+msgstr ""
+
+msgctxt "app"
+msgid "Email wiederholen"
+msgstr ""
+
+msgctxt "app"
+msgid "Email-Adresse / Handynummer"
+msgstr ""
+
+msgctxt "app"
+msgid "Emails an mich versenden"
+msgstr ""
+
+msgctxt "app"
+msgid "End Date"
+msgstr ""
+
+msgctxt "app"
+msgid "Ende"
+msgstr ""
+
+msgctxt "app"
+msgid "Endgültig löschen"
+msgstr ""
+
+msgctxt "app"
+msgid "Enorme Reichweite /Beliebt bei Netzwerkern"
+msgstr ""
+
+msgctxt "app"
+msgid "Entblocken"
+msgstr ""
+
+msgctxt "app"
+msgid "Entsperren"
+msgstr ""
+
+msgctxt "app"
+msgid "Entwurf"
+msgstr ""
+
+msgctxt "app"
+msgid "Entwürfe"
+msgstr ""
+
+msgctxt "app"
+msgid "Equatorial Guinea"
+msgstr ""
+
+msgctxt "app"
+msgid "Erfasst am"
+msgstr ""
+
+msgctxt "app"
+msgid "Erfolgr. Einlad."
+msgstr ""
+
+msgctxt "app"
+msgid "Erfolgreich eingeladen"
+msgstr ""
+
+msgctxt "app"
+msgid "Ergänze Dein Profil und lade danach Deine Freunde ein.<br>Du bist zukünftig an allen Umsätzen in Deinem Netzwerk beteiligt."
+msgstr ""
+
+msgctxt "app"
+msgid "Ergänzende Daten:"
+msgstr ""
+
+msgctxt "app"
+msgid "Erhaltene Likes"
+msgstr ""
+
+msgctxt "app"
+msgid "Erinnerung"
+msgstr ""
+
+msgctxt "app"
+msgid "Eritrea"
+msgstr ""
+
+msgctxt "app"
+msgid "Erkläre hier dem neuen Mitglied, warum Du der bessere Teamleader bist und warum es in Dein Team wechseln soll."
+msgstr ""
+
+msgctxt "app"
+msgid "Erlauben"
+msgstr ""
+
+msgctxt "app"
+msgid "Erneut bieten"
+msgstr ""
+
+msgctxt "app"
+msgid "Erneut einladen"
+msgstr ""
+
+msgctxt "app"
+msgid "Erneut zusenden"
+msgstr ""
+
+msgctxt "app"
+msgid "Error while file upload"
+msgstr ""
+
+msgctxt "app"
+msgid "Erscheindatum"
+msgstr ""
+
+msgctxt "app"
+msgid "Erstelldatum"
+msgstr ""
+
+msgctxt "app"
+msgid "Erstellen Immobilie für Tokens"
+msgstr ""
+
+msgctxt "app"
+msgid "Erstellt am"
+msgstr ""
+
+msgctxt "app"
+msgid "Erwarteter Geldeingang"
+msgstr ""
+
+msgctxt "app"
+msgid "Erweitere Suche"
+msgstr ""
+
+msgctxt "app"
+msgid "Erworbene VIP-Сodes"
+msgstr ""
+
+msgctxt "app"
+msgid "Es existiert kein Mitglied mit dieser E-Mail-Adresse."
+msgstr ""
+
+msgctxt "app"
+msgid "Es handelt sich um ein verbindliches Gebot. Wird dein Gebot akzeptiert, musst du es auch halten."
+msgstr ""
+
+msgctxt "app"
+msgid "Es tut uns leid,"
+msgstr ""
+
+msgctxt "app"
+msgid "Es tut uns leid, Dein Videoident wurde von unserem Community abgelehnt."
+msgstr ""
+
+msgctxt "app"
+msgid "Es tut uns leid, das Angebot ist nicht mehr verfügbar"
+msgstr ""
+
+msgctxt "app"
+msgid "Es wurde eine Anfrage bezgl. der Übernahme des zu verschiebenden Users an den Nutzer abgeschickt. Bitte warte bis er die Übernahme bestätigt."
+msgstr ""
+
+msgctxt "app"
+msgid "Estonia"
+msgstr ""
+
+msgctxt "app"
+msgid "Ethiopia"
+msgstr ""
+
+msgctxt "app"
+msgid "Euro"
+msgstr ""
+
+msgctxt "app"
+msgid "Evtl. wurde die Seite gelöscht oder ist nicht mehr aktiv."
+msgstr ""
+
+msgctxt "app"
+msgid "Expires At"
+msgstr ""
+
+msgctxt "app"
+msgid "External Ads"
+msgstr ""
+
+msgctxt "app"
+msgid "Extra"
+msgstr ""
+
+msgctxt "app"
+msgid "ExtraCashBonus [sum][/sum] von \"ExtraCash\" erhalten"
+msgstr ""
+
+msgctxt "app"
+msgid "F&uuml;r einmalig {{VIPPrice|priceFormat}} € sicherst Du Dir gro&szlige Vorteile."
+msgstr ""
+
+msgctxt "app"
+msgid "F&uuml;r {{VIPPlusPrice|priceFormat}}€ im Jahr sicherst Du Dir enorme Vorteile."
+msgstr ""
+
+msgctxt "app"
+msgid "FAQ"
+msgstr ""
+
+msgctxt "app"
+msgid "Faire Konditionen: Einmalige Zahlung für 12 Monate, läuft automatisch aus, kann jederzeit von Dir verlängert werden."
+msgstr ""
+
+msgctxt "app"
+msgid "Falsche Altes Passwort."
+msgstr ""
+
+msgctxt "app"
+msgid "Falscher Benutzername oder falsches Passwort."
+msgstr ""
+
+msgctxt "app"
+msgid "Familienstand"
+msgstr ""
+
+msgctxt "app"
+msgid "Februar"
+msgstr ""
+
+msgctxt "app"
+msgid "Feedback"
+msgstr ""
+
+msgctxt "app"
+msgid "Fertig"
+msgstr ""
+
+msgctxt "app"
+msgid "Festgelegt:"
+msgstr ""
+
+msgctxt "app"
+msgid "Festgelegte Tokens"
+msgstr ""
+
+msgctxt "app"
+msgid "Festgelegte Tokens werden als"
+msgstr ""
+
+msgctxt "app"
+msgid "Festgelegter Zeitraum"
+msgstr ""
+
+msgctxt "app"
+msgid "Fiji"
+msgstr ""
+
+msgctxt "app"
+msgid "File ID"
+msgstr ""
+
+msgctxt "app"
+msgid "Filter zurücksetzen"
+msgstr ""
+
+msgctxt "app"
+msgid "Filtern nach"
+msgstr ""
+
+msgctxt "app"
+msgid "Finland"
+msgstr ""
+
+msgctxt "app"
+msgid "Firma"
+msgstr ""
+
+msgctxt "app"
+msgid "Firmenname"
+msgstr ""
+
+msgctxt "app"
+msgid "First Name"
+msgstr ""
+
+msgctxt "app"
+msgid "Follower User ID"
+msgstr ""
+
+msgctxt "app"
+msgid "Forum"
+msgstr ""
+
+msgctxt "app"
+msgid "Forum doesn't exist"
+msgstr ""
+
+msgctxt "app"
+msgid "Forum oben"
+msgstr ""
+
+msgctxt "app"
+msgid "Forum unten"
+msgstr ""
+
+msgctxt "app"
+msgid "Forumchats"
+msgstr ""
+
+msgctxt "app"
+msgid "Forumsbeiträge"
+msgstr ""
+
+msgctxt "app"
+msgid "Fotos (falls vorhanden):"
+msgstr ""
+
+msgctxt "app"
+msgid "Fotos:"
+msgstr ""
+
+msgctxt "app"
+msgid "Frage hinzufügen"
+msgstr ""
+
+msgctxt "app"
+msgid "Fragen"
+msgstr ""
+
+msgctxt "app"
+msgid "Fragen / Antworten"
+msgstr ""
+
+msgctxt "app"
+msgid "Fragen zum Auftrag / zum Produkt"
+msgstr ""
+
+msgctxt "app"
+msgid "France"
+msgstr ""
+
+msgctxt "app"
+msgid "Frei (Ident. best.)"
+msgstr ""
+
+msgctxt "app"
+msgid "Freigabegrund"
+msgstr ""
+
+msgctxt "app"
+msgid "Freigaben / Ablehnungen"
+msgstr ""
+
+msgctxt "app"
+msgid "Freigeben"
+msgstr ""
+
+msgctxt "app"
+msgid "Freigegeben (automatisch)"
+msgstr ""
+
+msgctxt "app"
+msgid "Freigegeben (manuell)"
+msgstr ""
+
+msgctxt "app"
+msgid "Freunde einladen"
+msgstr ""
+
+msgctxt "app"
+msgid "Freunde einladen & Geld verdienen"
+msgstr ""
+
+msgctxt "app"
+msgid "Freunde einladen / Netzwerk aufbauen"
+msgstr ""
+
+msgctxt "app"
+msgid "Freunde einladen nicht vergessen! Hallo, denkst Du an den Tipp mit dem Freunde einladen? Ab 5 Partnern hast Du mehr Erfolg und Dein Netzwerk fängt an zu wachsen."
+msgstr ""
+
+msgctxt "app"
+msgid "Freundschaft ablehnen:"
+msgstr ""
+
+msgctxt "app"
+msgid "Freundschaft akzeptieren:"
+msgstr ""
+
+msgctxt "app"
+msgid "Freundschaftsanfrage versendet"
+msgstr ""
+
+msgctxt "app"
+msgid "Friend User ID"
+msgstr ""
+
+msgctxt "app"
+msgid "Friendship request"
+msgstr ""
+
+msgctxt "app"
+msgid "Friendship request accepted"
+msgstr ""
+
+msgctxt "app"
+msgid "Friendship request declined"
+msgstr ""
+
+msgctxt "app"
+msgid "From"
+msgstr ""
+
+msgctxt "app"
+msgid "From User ID"
+msgstr ""
+
+msgctxt "app"
+msgid "Funktion"
+msgstr ""
+
+msgctxt "app"
+msgid "Funktionen des Portals im Überblick"
+msgstr ""
+
+msgctxt "app"
+msgid "Für Deine Beiträge hast Du {votes_real} Likes erhalten mal {mult} PremiumPlus = {votes}."
+msgstr ""
+
+msgctxt "app"
+msgid "Für Deine Beiträge hast Du {votes_real} Likes erhalten. Schade, dass Du nicht PremiumPlus-Mitglied bist. Sonst wären sie als {votes} Likes vergütet worden."
+msgstr ""
+
+msgctxt "app"
+msgid "Für Texte in Anzeigen oder Gesuchen sind wir nicht verantwortlich, sondern der jeweilige User."
+msgstr ""
+
+msgctxt "app"
+msgid "Für alle Foren entsperren"
+msgstr ""
+
+msgctxt "app"
+msgid "Für alle Foren sperren"
+msgstr ""
+
+msgctxt "app"
+msgid "Für alle sichtbar"
+msgstr ""
+
+msgctxt "app"
+msgid "Für die Vermittlung eines passenden Angebots zahle ich:"
+msgstr ""
+
+msgctxt "app"
+msgid "Für die ausgewählten Länder existieren aktuell keine Wiki Einträge."
+msgstr ""
+
+msgctxt "app"
+msgid "Für die ausgewählten Länder existieren aktuell keine neuen Forumbeiträge."
+msgstr ""
+
+msgctxt "app"
+msgid "Für die ausgewählten Länder existieren aktuell keine neuen Mitglieder."
+msgstr ""
+
+msgctxt "app"
+msgid "Für die ausgewählten Länder existieren aktuell keine neuen Werbungen."
+msgstr ""
+
+msgctxt "app"
+msgid "Für jeden Freund, der sich durch Deine Einladung registriert, bekommst Du 100 Jugls (1€). Wenn Deine Freunde wiederum Freunde einladen, erhältst du jeweils 29% von deren Gewinn und wenn diese wiederum Freunde einladen, das Gleiche usw. usw. usw."
+msgstr ""
+
+msgctxt "app"
+msgid "Für niemanden sichtbar"
+msgstr ""
+
+msgctxt "app"
+msgid "Für was interessierts Du Dich?"
+msgstr ""
+
+msgctxt "app"
+msgid "Für weitere Informationen sieh Dir bitte auch noch unser Video und die Präsentation an."
+msgstr ""
+
+msgctxt "app"
+msgid "Gabon"
+msgstr ""
+
+msgctxt "app"
+msgid "Gambia"
+msgstr ""
+
+msgctxt "app"
+msgid "Garantierte Auszahlung beantragen"
+msgstr ""
+
+msgctxt "app"
+msgid "Geben Sie bitte Antwort"
+msgstr ""
+
+msgctxt "app"
+msgid "Geblockt"
+msgstr ""
+
+msgctxt "app"
+msgid "Geboren am"
+msgstr ""
+
+msgctxt "app"
+msgid "Gebot Abgeben"
+msgstr ""
+
+msgctxt "app"
+msgid "Gebot abgeben"
+msgstr ""
+
+msgctxt "app"
+msgid "Gebot abgegeben"
+msgstr ""
+
+msgctxt "app"
+msgid "Gebot abgelaufen"
+msgstr ""
+
+msgctxt "app"
+msgid "Gebot angenommen"
+msgstr ""
+
+msgctxt "app"
+msgid "Gebot annehmen"
+msgstr ""
+
+msgctxt "app"
+msgid "Gebot bereits abgegeben"
+msgstr ""
+
+msgctxt "app"
+msgid "Gebot bestätigen {{modalService.data.price|priceFormat}} €"
+msgstr ""
+
+msgctxt "app"
+msgid "Gebot erhöhen"
+msgstr ""
+
+msgctxt "app"
+msgid "Gebot geändert"
+msgstr ""
+
+msgctxt "app"
+msgid "Gebot hat gewonnen"
+msgstr ""
+
+msgctxt "app"
+msgid "Gebot ist aktiv"
+msgstr ""
+
+msgctxt "app"
+msgid "Gebot ist nich verfügbar"
+msgstr ""
+
+msgctxt "app"
+msgid "Gebote"
+msgstr ""
+
+msgctxt "app"
+msgid "Gebote, die ich auf meine Artikel erhalten habe"
+msgstr ""
+
+msgctxt "app"
+msgid "Gebots-Benachrichtigung erhalten ab*"
+msgstr ""
+
+msgctxt "app"
+msgid "Gebotshöhe"
+msgstr ""
+
+msgctxt "app"
+msgid "Geburtstag"
+msgstr ""
+
+msgctxt "app"
+msgid "Gefunden"
+msgstr ""
+
+msgctxt "app"
+msgid "Gekaufer Artikel/gelesener Werbung 1: bis"
+msgstr ""
+
+msgctxt "app"
+msgid "Gekaufer Artikel/gelesener Werbung 1: von"
+msgstr ""
+
+msgctxt "app"
+msgid "Gekauft"
+msgstr ""
+
+msgctxt "app"
+msgid "Gekaufte Art. Kat."
+msgstr ""
+
+msgctxt "app"
+msgid "Gekaufte Artikel Kategorie"
+msgstr ""
+
+msgctxt "app"
+msgid "Gekaufte Punkte"
+msgstr ""
+
+msgctxt "app"
+msgid "Geld verdienen"
+msgstr ""
+
+msgctxt "app"
+msgid "Geldeingang bestätigt"
+msgstr ""
+
+msgctxt "app"
+msgid "Gelöscht"
+msgstr ""
+
+msgctxt "app"
+msgid "Gelöscht Status"
+msgstr ""
+
+msgctxt "app"
+msgid "Gemerkt"
+msgstr ""
+
+msgctxt "app"
+msgid "Georgia"
+msgstr ""
+
+msgctxt "app"
+msgid "Germany"
+msgstr ""
+
+msgctxt "app"
+msgid "Gesamt 1/2/3/Alle Jahr(e)"
+msgstr ""
+
+msgctxt "app"
+msgid "Gesamtverdienst seit Registrierung"
+msgstr ""
+
+msgctxt "app"
+msgid "Gesch&auml;fte & Bewertungen"
+msgstr ""
+
+msgctxt "app"
+msgid "Geschlecht"
+msgstr ""
+
+msgctxt "app"
+msgid "Geschlecht auswählen"
+msgstr ""
+
+msgctxt "app"
+msgid "Geschäfte & Bewertungen"
+msgstr ""
+
+msgctxt "app"
+msgid "Geschäfte und Bewertungen"
+msgstr ""
+
+msgctxt "app"
+msgid "Geschäftsführer"
+msgstr ""
+
+msgctxt "app"
+msgid "Geschäftskontakte"
+msgstr ""
+
+msgctxt "app"
+msgid "Gesendet"
+msgstr ""
+
+msgctxt "app"
+msgid "Gestern 1/2/3/Alle Jahr(e)"
+msgstr ""
+
+msgctxt "app"
+msgid "Gestern aktiv"
+msgstr ""
+
+msgctxt "app"
+msgid "Gestoppt"
+msgstr ""
+
+msgctxt "app"
+msgid "Get the App"
+msgstr ""
+
+msgctxt "app"
+msgid "Get the app"
+msgstr ""
+
+msgctxt "app"
+msgid "Gewerblich"
+msgstr ""
+
+msgctxt "app"
+msgid "Gewinn aus dem Netzwerk"
+msgstr ""
+
+msgctxt "app"
+msgid "Gewinner"
+msgstr ""
+
+msgctxt "app"
+msgid "Ghana"
+msgstr ""
+
+msgctxt "app"
+msgid "Gib Deine Handynummer wie folgt ein: +4917612345678"
+msgstr ""
+
+msgctxt "app"
+msgid "Gib Deine Lieblings-Email-Adresse und Dein Wunschpasswort an für Deinen persönlichen Jugl Start."
+msgstr ""
+
+msgctxt "app"
+msgid "Gib Deine Mobilnummer wie folgt ein: 0151 111222333"
+msgstr ""
+
+msgctxt "app"
+msgid "Gib Deine lieblings E-Mail-Adresse und Dein Wunschpasswort an für Deinen persönlichen Jugl Start."
+msgstr ""
+
+msgctxt "app"
+msgid "Gib Deine vorhandene E-Mail-Adresse ein <br> und Verknüpfe Dein Facebook Konto mit einem Schritt!"
+msgstr ""
+
+msgctxt "app"
+msgid "Gib an, wie viel Werbebonus der einzelne Interessent für das Lesen Deiner Werbung auf der Startseite in der Kategorie"
+msgstr ""
+
+msgctxt "app"
+msgid "Gib an, wo Du etwas suchst, z.B. Wo befindet sich die Wohnung, die renoviert werden soll?"
+msgstr ""
+
+msgctxt "app"
+msgid "Gib hier Dein Angebot ab. Klicke auf <span class=\"icon-info-popup\"></span> für weitere Informationen."
+msgstr ""
+
+msgctxt "app"
+msgid "Gib hier Dein Benutzername bzw. E-Mail und Passwort ein, um Dich einzuloggen."
+msgstr ""
+
+msgctxt "app"
+msgid "Gib hier Deine Preisvorstellung ein. Diese dient als Richtwert für die Erstellung der Gebote Deiner Interessenten. Bitte beachte, dass diese Angabe in Euro ist."
+msgstr ""
+
+msgctxt "app"
+msgid "Gib hier Deine preislichen Vorstellungen für das ein, was Du suchst, z.B. Was bist Du bereit für die Renovierung Deiner Wohnung zu zahlen? Dies dient Deinem Helfer als Orientierungshilfe. Suchst Du eine Dienstleistung, gibst du hier den Wert 0 ein."
+msgstr ""
+
+msgctxt "app"
+msgid "Gib hier bitte Dein Passwort für das bereits vorhandene Jugl Konto ein, das Du verknüpfen möchtest."
+msgstr ""
+
+msgctxt "app"
+msgid "Gib hier bitte dein Passwort für das bereits vorhandene Jugl Konto ein, das du verknüpfen möchtest."
+msgstr ""
+
+msgctxt "app"
+msgid "Gib hier den Kaufbonus für Deine/n Käufer an. Nachdem Du den Geldeingang bestätigt hast, erhält der Käufer den Kaufbonus. Der Kaufbonus sollte ca. 1-5% des Kaufpreises sein."
+msgstr ""
+
+msgctxt "app"
+msgid "Gib hier den Ort an, an dem Deine Ware abgeholt werden kann. Wenn Deine Ware nicht zur Selbstabholung angeboten wird, gib hier Deinen Standort an."
+msgstr ""
+
+msgctxt "app"
+msgid "Gib hier den Titel Deiner Anzeige ein. Er ist das Erste, was ein potentieller Interessent liest."
+msgstr ""
+
+msgctxt "app"
+msgid "Gib hier die Bereiche an, in denen Du für andere Mitglieder Aufträge oder Recherchern ausführen möchtest."
+msgstr ""
+
+msgctxt "app"
+msgid "Gib hier die Beschreibung Deiner Anzeige ein. Je detaillierter diese ist, desto genauer wissen potentielle Interessenten, worum es bei Deiner Anzeige geht."
+msgstr ""
+
+msgctxt "app"
+msgid "Gib hier die Beschreibung Deiner Suche ein. Je detaillierter diese ist, umso genau wissen Deine Helfer wie und womit sie Dir zur Seite stehen können."
+msgstr ""
+
+msgctxt "app"
+msgid "Gib hier die Stückzahl ein. Wenn alle Waren verkauft sind, läuft die Anzeige automatisch aus."
+msgstr ""
+
+msgctxt "app"
+msgid "Giropay"
+msgstr ""
+
+msgctxt "app"
+msgid "Glomex"
+msgstr ""
+
+msgctxt "app"
+msgid "Got View Bonus"
+msgstr ""
+
+msgctxt "app"
+msgid "Greece"
+msgstr ""
+
+msgctxt "app"
+msgid "Grenada"
+msgstr ""
+
+msgctxt "app"
+msgid "Group Chat ID"
+msgstr ""
+
+msgctxt "app"
+msgid "Grund"
+msgstr ""
+
+msgctxt "app"
+msgid "Grund:"
+msgstr ""
+
+msgctxt "app"
+msgid "Grund: Lorem ipsum dolor sit amet"
+msgstr ""
+
+msgctxt "app"
+msgid "Gruppenchat"
+msgstr ""
+
+msgctxt "app"
+msgid "Gruppenchat \"{title}\""
+msgstr ""
+
+msgctxt "app"
+msgid "Guatemala"
+msgstr ""
+
+msgctxt "app"
+msgid "Guinea"
+msgstr ""
+
+msgctxt "app"
+msgid "Guinea-Bissau"
+msgstr ""
+
+msgctxt "app"
+msgid "Guthaben aufladen"
+msgstr ""
+
+msgctxt "app"
+msgid "Guyana"
+msgstr ""
+
+msgctxt "app"
+msgid "Gültig"
+msgstr ""
+
+msgctxt "app"
+msgid "Gültigkeit"
+msgstr ""
+
+msgctxt "app"
+msgid "Haiti"
+msgstr ""
+
+msgctxt "app"
+msgid "Hallo"
+msgstr ""
+
+msgctxt "app"
+msgid "Hallo,\nwir wollten Dich nur noch einmal höflich daran erinnern, dass Du Dich noch nicht in der JuglApp eingeloggt hast."
+msgstr ""
+
+msgctxt "app"
+msgid "Hallo, {user}"
+msgstr ""
+
+msgctxt "app"
+msgid "Handel abgeschlossen"
+msgstr ""
+
+msgctxt "app"
+msgid "Handel abschlie&szlig;en"
+msgstr ""
+
+msgctxt "app"
+msgid "Handel bewerten"
+msgstr ""
+
+msgctxt "app"
+msgid "Handelsbewertung"
+msgstr ""
+
+msgctxt "app"
+msgid "Handynummer"
+msgstr ""
+
+msgctxt "app"
+msgid "Hat Dein Angebot auf den Suchauftrag [searchRequest:{searchRequestId}]\"{searchRequestTitle}\"[/searchRequest]  angenommen. Du erhältst einen Vermittlungsbonus von [sum][/sum]"
+msgstr ""
+
+msgctxt "app"
+msgid "Hat Dein Produkt [offer:{offerId}]\"{offerTitle}\"[/offer] gekauft und erhältst einen Kaufbonus von {sum} [jugl][/jugl]"
+msgstr ""
+
+msgctxt "app"
+msgid "Hat Dein Produkt [offer:{offerId}]\"{offerTitle}\"[/offer] gekauft. Du erhältst dafür {sum} [jugl][/jugl]"
+msgstr ""
+
+msgctxt "app"
+msgid "Hat Dein Produkt [offer:{offerId}]{offerTitle}[/offer] gekauft. Du erhältst dafür {sum} [jugl][/jugl]"
+msgstr ""
+
+msgctxt "app"
+msgid "Hat Dich zu jugl.net eingeladen. Deshalb gibst Du [sum][/sum] Deiner Einnahmen für Du hast Werbung gelesen und einen Werbebonus erhalten“ an [user][/user] ab"
+msgstr ""
+
+msgctxt "app"
+msgid "Hat Dich zu jugl.net eingeladen. Deshalb gibst Du [sum][/sum] Deiner Einnahmen für „{user} hat Dein Angebot auf einen Suchauftrag angenommen“ an [user][/user] ab"
+msgstr ""
+
+msgctxt "app"
+msgid "Hat Dich zu jugl.net eingeladen. Deshalb gibst Du [sum][/sum] Deiner Einnahmen für „{user} hat Werbung gelesen“ an [user][/user]"
+msgstr ""
+
+msgctxt "app"
+msgid "Hat Dich zu jugl.net eingeladen. Deshalb gibst Du [sum][/sum] Deiner Einnahmen für „{user} hat ein Mitglied eingeladen“ an [user][/user] ab"
+msgstr ""
+
+msgctxt "app"
+msgid "Hat Dich zu jugl.net eingeladen. Deshalb gibst Du [sum][/sum] Deiner Einnahmen für „{user} hat ein Produkt verkauft und Du hast eine Kaufbonus-Provision erhalten“ an [user][/user] ab"
+msgstr ""
+
+msgctxt "app"
+msgid "Hat Dich zu jugl.net eingeladen. Deshalb gibst Du [sum][/sum] Deiner Einnahmen für „{user} hat sich registriert“ an [user][/user] ab"
+msgstr ""
+
+msgctxt "app"
+msgid "Hat Dich zu jugl.net eingeladen. Deshalb gibst Du [sum][/sum] Deiner Einnahmen von \"ExtraCash\" an [user][/user] ab"
+msgstr ""
+
+msgctxt "app"
+msgid "Hat Dich zu jugl.net eingeladen. Deshalb gibst Du {sum} [jugl][/jugl] ({percent}% vom Kaufbonus von [offer:{offerId}]\"{offerTitle}\"[/offer]) an {name} ab"
+msgstr ""
+
+msgctxt "app"
+msgid "Hat ExtraCashBonus für erhalten \"ExtraCash\" angeschaut. Dafür erhältst Du anteilig [sum][/sum]"
+msgstr ""
+
+msgctxt "app"
+msgid "Hat das Produkt [offer:{offerId}]\"{offerTitle}\"[/offer] verkauft. Da Du dieses Mitglied eingeladen hast, erhälst Du eine Kaufbonus-Provision von [sum][/sum]"
+msgstr ""
+
+msgctxt "app"
+msgid "Hat das Video  [video:{videoid}]\"{videoTitle}\"[/video] angeschaut. Dafür erhältst Du anteilig [sum][/sum]"
+msgstr ""
+
+msgctxt "app"
+msgid "Hat die Werbung [offer:{offerId}]\"{offerTitle}\"[/offer] gelesen. Dafür erhältst Du anteilig [sum][/sum]"
+msgstr ""
+
+msgctxt "app"
+msgid "Hat die [advertising:{advertisingid}]\"Banner Werbung\"[/advertising] angeschaut. Dafür erhältst Du anteilig [sum][/sum]"
+msgstr ""
+
+msgctxt "app"
+msgid "Hat ein Upgrade zu Premium gemacht. Dafür erhältst Du [sum][/sum] Jugls"
+msgstr ""
+
+msgctxt "app"
+msgid "Hat ein Upgrade zu PremiumPlus gemacht. Dafür erhältst Du [sum][/sum] Jugls"
+msgstr ""
+
+msgctxt "app"
+msgid "Hat für ein Angebot auf den Suchauftrag [searchRequest:{searchRequestId}]\"{searchRequestTitle}\"[/searchRequest] einen Vermittlungsbonus erhalten. Dafür erhältst Du anteilig [sum][/sum]"
+msgstr ""
+
+msgctxt "app"
+msgid "Hat sich auf Deine Einladung hin bei jugl.net angemeldet. Dafür erhältst Du [sum][/sum]"
+msgstr ""
+
+msgctxt "app"
+msgid "Hat {user} eingeladen. Dafür erhältst Du anteilig [sum][/sum]"
+msgstr ""
+
+msgctxt "app"
+msgid "Hausnummer"
+msgstr ""
+
+msgctxt "app"
+msgid "Hebe Deine Anzeige hervor, um Deine Anzeigen attraktiver zu gestalten. Lade Bilder Deiner Ware hoch. Steigere die Aufmerksamkeit der Jugler und Deine Erfolgsquote."
+msgstr ""
+
+msgctxt "app"
+msgid "Herzlich Willkommen in meinem Netzwerk! Bei allen Fragen stehe ich Dir zukünftig zur Verfügung. Du kannst auch links oben auf das Navigationsfeld klicken und dann auf \"Startseite\". Auf der Startseite findest du das Jugl-Forum. Bitte beachte auch das \"i\" für Information (meist rechts am Rand), einfach draufklicken, dort findest du zur jeweiligen Funktion die entsprechende Beschreibung. Zugegeben, für viele ist Jugl.net nicht leicht zu verstehen, aber Du solltest Dir etwas Zeit nehmen, denn es rentiert sich und hat echt viel Potential.\nUnter folgendem Link findest Du das aktuelle Präsentationsvideo zu Jugl.net: https://youtu.be/d987MsWRcXA\nHast du vielleicht schon eine bestimmte Frage? Dann schreib mir einfach. Lieben Gruß"
+msgstr ""
+
+msgctxt "app"
+msgid "Herzlich willkommen!"
+msgstr ""
+
+msgctxt "app"
+msgid "Herzlichen Glückwunsch!\n\n{user} ist nun in Deinem Netzwerk!\n\nNimm jetzt gleich Kontakt auf und sorge dafür, dass sich {user} gut aufgehoben fühlt und Dein Team nicht verlässt."
+msgstr ""
+
+msgctxt "app"
+msgid "Herzlichen Glückwunsch, der Verkäufer hat Dein Gebot angenommen!"
+msgstr ""
+
+msgctxt "app"
+msgid "Herzlichen Glückwunsch, so einfach und schnell hast Du zum ersten Mal mit der JuglApp Geld verdient. Du hast jetzt die Möglichkeit, mit der Auswahl des PremiumPlus-Pakets (für <b>{{(registeredByCode ? 0:VIPPlusPrice)|priceFormat}}€</b> für 12 Monate) zukünftig 10% mehr Gewinn zu machen, Dein Netzwerk leichter aufzubauen und zu strukturieren und Du erhältst fünfmal so viel für Deine Likes."
+msgstr ""
+
+msgctxt "app"
+msgid "Heute"
+msgstr ""
+
+msgctxt "app"
+msgid "Heute 1/2/3/Alle Jahr(e)"
+msgstr ""
+
+msgctxt "app"
+msgid "Heute Gesamt"
+msgstr ""
+
+msgctxt "app"
+msgid "Hi"
+msgstr ""
+
+msgctxt "app"
+msgid "Hier Code eingeben"
+msgstr ""
+
+msgctxt "app"
+msgid "Hier Handynummer eingeben"
+msgstr ""
+
+msgctxt "app"
+msgid "Hier findest Du eine Liste mit allen Funktionen des Portals. Somit hast du immer den besten Überblick über alles, was Du hier tun kannst. Durchs Klicken auf die entsprechende Funktion wird diese aufgerufen."
+msgstr ""
+
+msgctxt "app"
+msgid "Hier hast Du die M&ouml;glichkeit, Dein Jugls-Guthaben aufzuladen. W&auml;hle einfach die gew&uuml;nschte Anzahl der Jugls und bezahle sicher, einfach und bequem mit der Zahlungsart Deiner Wahl."
+msgstr ""
+
+msgctxt "app"
+msgid "Hier hast Du die M&ouml;glichkeit, Dein Jugls-Guthaben auszuzahlen. W&auml;hle einfach die gew&uuml;nschte Anzahl der Jugls und best&auml;tige Deine Angaben."
+msgstr ""
+
+msgctxt "app"
+msgid "Hier hast Du die Möglichkeit, Jugl-Tokens zu kaufen. Wähle einfach die gewünschte Anzahl der Tokens und bezahle sicher, einfach und bequem mit der Zahlungsart Deiner Wahl."
+msgstr ""
+
+msgctxt "app"
+msgid "Hier hast Du die Möglichkeit, VIP-Codes für kostenfreie PREMIUM-Registrierungen zu erwerben und im Form eines Gutscheins Deinen Freunden, Bekannten und Kollegen zu schenken. Somit werden Deine Freunde in der Lage sein, sich bei jugl.net kostenfrei als PREMIUM-Mitglieder zu registrieren. Auch besonders gut geeignet für Firmen, die sich bei jugl.net registrieren wollen. Damit kannst Du ihnen den Einstieg wesentlich erleichtern. Sie sind dadurch auch automatisch in Deinem Netzwerk."
+msgstr ""
+
+msgctxt "app"
+msgid "Hier hast Du die Möglichkeit, innerhalb von noch"
+msgstr ""
+
+msgctxt "app"
+msgid "Hier hast Du immer den perfekten Überblick über alle Deine Einladungen. Du kannst sehen, wer Deine Einladung akzeptiert hat, wer sich bereits beim jugl.net angemeldet hat und wem Du eventuell noch einmal eine Einladung schicken solltest. <br/><br/>Du erhälst <b>{{settings.directEarn|priceFormat}}<jugl-currency></jugl-currency></b> Guthaben, wenn eine neue Registrierung getätigt wurde."
+msgstr ""
+
+msgctxt "app"
+msgid "Hier kannst Du Deine Interessen verwalten. Das Hinzuf&uuml;gen neuer Interessen ist ganz einfach: allgemeine Interessenkategorie w&auml;hlen -> Unterkategorie aussuchen -> das ganze durch zus&auml;tzliche Themenfilter pr&auml;zisieren. Durch Klicken auf ein Interesse siehst Du dann die entsprechende Interessenhierarchie."
+msgstr ""
+
+msgctxt "app"
+msgid "Hier kannst Du alle Inserate, die es bei Jugl.net gibt, durchsuchen. Hier bekommst Du jedoch keinen Werbebonus für das Ansehen der Anzeigen."
+msgstr ""
+
+msgctxt "app"
+msgid "Hier kannst Du auswählen, ob nur Mitglieder, die schon einmal einen Suchauftrag bei Jugl.net erstellt haben, Deine Werbung sehen können."
+msgstr ""
+
+msgctxt "app"
+msgid "Hier kannst Du auswählen, wie viel Umsatz in Euro ein Mitglied durchschnittlich erzielt haben muss, um Deine Werbung sehen zu können."
+msgstr ""
+
+msgctxt "app"
+msgid "Hier kannst Du dein eigenes Netzwerk verwalten, indem Du Mitglieder aus der ersten Ebene in die tieferen Ebenen verschiebst. "
+msgstr ""
+
+msgctxt "app"
+msgid "Hier kannst Du die Kategorie auswählen, unter der die Anzeige erscheinen soll."
+msgstr ""
+
+msgctxt "app"
+msgid "Hier kannst Du eingeben, wie oft sich ein User Werbung ansieht, bevor dieser einen Artikel kauft. Gibst Du hier z.B. von 50 bis 100 ein, dann zeigst Du Deine Werbung nur Mitgliedern, die auf 50-100 gelesene Werbungen einen Kauf tätigen."
+msgstr ""
+
+msgctxt "app"
+msgid "Hier kannst Du einstellen, ab welcher Gebotshöhe Du eine Benachrichtigung von Jugl.net erhalten möchtest."
+msgstr ""
+
+msgctxt "app"
+msgid "Hier kannst Du zum Beispiel, wenn Du 0-3 eingibst, nur neuen Mitgliedern Deine Werbung zeigen. Gibst Du \"ab 25 Tage\" ein, handelt es sich eher um erfahrene Juglmitglieder"
+msgstr ""
+
+msgctxt "app"
+msgid "Hier siehst Du Deinen aktuellen Kontostand bei jugl.net und eine Übersicht aller getätigten Transaktionen. Ausserdem kannst Du hier Dein Konto mit Jugls aufladen sowie Dir die verdienten Jugls auszahlen lassen."
+msgstr ""
+
+msgctxt "app"
+msgid "Hier siehst Du Deinen aktuellen Kontostand bei jugl.net."
+msgstr ""
+
+msgctxt "app"
+msgid "Hier stehen noch keine Suchaufträge, weil Du noch nicht ausgewählt hast, in welchen Interessenskategorien Du für andere Mitglieder recherchieren mochtest. Bitte klicke dazu auf den Button “Womit kennst Du Dich aus?”"
+msgstr ""
+
+msgctxt "app"
+msgid "Hier steht noch keine Werbung mit Werbebonus, weil Du noch keine Interessenskategorien ausgewählt hast. Bitte klicke dafür auf den Button \"Wofür interessierst Du Dich?\""
+msgstr ""
+
+msgctxt "app"
+msgid "Hier wird dir stets die aktuelle Anzahl der Nutzer mit gleichen Interessen angezeigt"
+msgstr ""
+
+msgctxt "app"
+msgid "Hiermit bestätigen wir Ihnen, dass Ihr Profil bei Jugl.net gelöscht wurde."
+msgstr ""
+
+msgctxt "app"
+msgid "Hilfe"
+msgstr ""
+
+msgctxt "app"
+msgid "Hilfesuchende"
+msgstr ""
+
+msgctxt "app"
+msgid "Historie der Kontoaufladungen"
+msgstr ""
+
+msgctxt "app"
+msgid "Historie der Profiländerungen"
+msgstr ""
+
+msgctxt "app"
+msgid "Historie der Tokenkontoaufladungen"
+msgstr ""
+
+msgctxt "app"
+msgid "Home"
+msgstr ""
+
+msgctxt "app"
+msgid "Honduras"
+msgstr ""
+
+msgctxt "app"
+msgid "House Number"
+msgstr ""
+
+msgctxt "app"
+msgid "Hungary"
+msgstr ""
+
+msgctxt "app"
+msgid "Händler benachrichtigen"
+msgstr ""
+
+msgctxt "app"
+msgid "I can have markup, too2!"
+msgstr ""
+
+msgctxt "app"
+msgid "IBAN"
+msgstr ""
+
+msgctxt "app"
+msgid "ICH SUCHE:"
+msgstr ""
+
+msgctxt "app"
+msgid "ID"
+msgstr ""
+
+msgctxt "app"
+msgid "IP"
+msgstr ""
+
+msgctxt "app"
+msgid "Iceland"
+msgstr ""
+
+msgctxt "app"
+msgid "Ich denke, Dir wird {link} gefallen"
+msgstr ""
+
+msgctxt "app"
+msgid "Ich gebe meine Interessen an (von der Zahnbürste bis zum Luxus Auto), bleibe dabei anonym und bekomme vorwiegend von Händlern, aber auch von Privatpersonen auf meinen Interessen basierende Produktangebote (Werbung). Für jede gelesene Werbung verdienst Du Jugls"
+msgstr ""
+
+msgctxt "app"
+msgid "Ich habe abgemahnt"
+msgstr ""
+
+msgctxt "app"
+msgid "Ich habe angeboten / vermittelt "
+msgstr ""
+
+msgctxt "app"
+msgid "Ich habe auf diese Artikel geboten"
+msgstr ""
+
+msgctxt "app"
+msgid "Ich habe bewertet"
+msgstr ""
+
+msgctxt "app"
+msgid "Ich habe das Angebot bezahlt"
+msgstr ""
+
+msgctxt "app"
+msgid "Ich habe den Artikel [offer:{offerId}]\"{offerTitle}\"[/offer] gekauft"
+msgstr ""
+
+msgctxt "app"
+msgid "Ich habe den Geldeingang bestätigt"
+msgstr ""
+
+msgctxt "app"
+msgid "Ich habe den Handel [offer:{offerId}]\"{offerTitle}\"[/offer] mit {rating} bewertet"
+msgstr ""
+
+msgctxt "app"
+msgid "Ich habe den Handel [searchRequest:{searchRequestId}]\"{searchRequestTitle}\"[/searchRequest] mit {rating} bewertet"
+msgstr ""
+
+msgctxt "app"
+msgid "Ich habe diese Artikel gekauft"
+msgstr ""
+
+msgctxt "app"
+msgid "Ich habe diese Artikel verkauft"
+msgstr ""
+
+msgctxt "app"
+msgid "Ich habe ein [searchRequestOffer:{searchRequestId}:{searchRequestOfferId}]Angebot[/searchRequestOffer] auf die Suchanzeige [searchRequest:{searchRequestId}]\"{searchRequestTitle}\"[/searchRequest] abgegeben"
+msgstr ""
+
+msgctxt "app"
+msgid "Ich habe geboten / gekauft"
+msgstr ""
+
+msgctxt "app"
+msgid "Ich habe mein Gebot auf das Angebot [offer:{offerId}]\"{offerTitle}\"[/offer] von {oldBetPrice}€ auf {betPrice}€ verändert."
+msgstr ""
+
+msgctxt "app"
+msgid "Ich habe mich anders entschieden"
+msgstr ""
+
+msgctxt "app"
+msgid "Ich habe schon bezahlt"
+msgstr ""
+
+msgctxt "app"
+msgid "Ich habe {betPrice}€ auf das Angebot [offer:{offerId}]\"{offerTitle}\"[/offer] geboten."
+msgstr ""
+
+msgctxt "app"
+msgid "Ich komme nicht weiter und benötige Hilfe"
+msgstr ""
+
+msgctxt "app"
+msgid "Ich muss noch bezahlen"
+msgstr ""
+
+msgctxt "app"
+msgid "Ich suche:"
+msgstr ""
+
+msgctxt "app"
+msgid "Ich wurde abgemahnt"
+msgstr ""
+
+msgctxt "app"
+msgid "Ich wurde bewertet"
+msgstr ""
+
+msgctxt "app"
+msgid "Ich wurde eingeladen - Vorgang abbrechen"
+msgstr ""
+
+msgctxt "app"
+msgid "Ich wurde nicht eingeladen - über Jugl.net anmelden"
+msgstr ""
+
+msgctxt "app"
+msgid "Id"
+msgstr ""
+
+msgctxt "app"
+msgid "Identitätsprüfungen"
+msgstr ""
+
+msgctxt "app"
+msgid "Identitätsprüfungen durchführen"
+msgstr ""
+
+msgctxt "app"
+msgid "Ignore User ID"
+msgstr ""
+
+msgctxt "app"
+msgid "Ihr Antwort:"
+msgstr ""
+
+msgctxt "app"
+msgid "Ihr Feedback:"
+msgstr ""
+
+msgctxt "app"
+msgid "Ihr Jugl-Team"
+msgstr ""
+
+msgctxt "app"
+msgid "Ihr Nachricht an der Verkäufer"
+msgstr ""
+
+msgctxt "app"
+msgid "Ihr Profil Gesperrt"
+msgstr ""
+
+msgctxt "app"
+msgid "Ihr Profil wurde geblockt."
+msgstr ""
+
+msgctxt "app"
+msgid "Ihre Daten werden baldm&ouml;glichst &uuml;berpr&uuml;ft. Sie werden von uns benachrichtigt."
+msgstr ""
+
+msgctxt "app"
+msgid "Ihre E-Mail-Adresse wurde vom ausgewählten Verteiler entfernt."
+msgstr ""
+
+msgctxt "app"
+msgid "Ihre Identitätsprüfung wurde erfolgreich abgeschlossen. Sie können sich nun Jugls auszahlen lassen, unter: 'Konto' -> 'Jugls Auszahlen' -> 'Packet auswählen'."
+msgstr ""
+
+msgctxt "app"
+msgid "Ihre Mitgliedschaft"
+msgstr ""
+
+msgctxt "app"
+msgid "Image"
+msgstr ""
+
+msgctxt "app"
+msgid "Immer auf dem Laufendem über Neuheiten"
+msgstr ""
+
+msgctxt "app"
+msgid "Immobilie auswählen:"
+msgstr ""
+
+msgctxt "app"
+msgid "Immobilie für Tokens"
+msgstr ""
+
+msgctxt "app"
+msgid "Immobilien für Tokens"
+msgstr ""
+
+msgctxt "app"
+msgid "Import Dailymotion"
+msgstr ""
+
+msgctxt "app"
+msgid "Import Glomex"
+msgstr ""
+
+msgctxt "app"
+msgid "Import erfolgreich!<br /> Es wurden "
+msgstr ""
+
+msgctxt "app"
+msgid "Impressum"
+msgstr ""
+
+msgctxt "app"
+msgid "In Deinem Browser sind Cookies deaktiviert. Um jugl.net nutzen zu können solltest Du Cookies in Deinem Browser erlauben."
+msgstr ""
+
+msgctxt "app"
+msgid "In Erwartung"
+msgstr ""
+
+msgctxt "app"
+msgid "In den nachfolgenden Feldern kannst Du den Kreis derer einschränken, die Deine Werbung mit Werbebonus (Jugls for view) sehen können. Damit kannst Du Dein Werbebudget ganz gezielt einsetzen."
+msgstr ""
+
+msgctxt "app"
+msgid "In wessen Team möchtest Du wechseln?"
+msgstr ""
+
+msgctxt "app"
+msgid "Incorrect username or password."
+msgstr ""
+
+msgctxt "app"
+msgid "India"
+msgstr ""
+
+msgctxt "app"
+msgid "Individuelle Nachricht"
+msgstr ""
+
+msgctxt "app"
+msgid "Indonesia"
+msgstr ""
+
+msgctxt "app"
+msgid "Info Comment ID"
+msgstr ""
+
+msgctxt "app"
+msgid "Info ID"
+msgstr ""
+
+msgctxt "app"
+msgid "Inhalte und Haftungsausschluss"
+msgstr ""
+
+msgctxt "app"
+msgid "Inserate durchsuchen"
+msgstr ""
+
+msgctxt "app"
+msgid "Inserate mit Werbebonus"
+msgstr ""
+
+msgctxt "app"
+msgid "Inserate ohne Werbebonus durchsuchen"
+msgstr ""
+
+msgctxt "app"
+msgid "Insgesamt im Netzwerk"
+msgstr ""
+
+msgctxt "app"
+msgid "Interessen angeben"
+msgstr ""
+
+msgctxt "app"
+msgid "Interessen bearbeiten"
+msgstr ""
+
+msgctxt "app"
+msgid "Interessen für Suchaufträge"
+msgstr ""
+
+msgctxt "app"
+msgid "Interessen für Werbung"
+msgstr ""
+
+msgctxt "app"
+msgid "Interessenkategorie"
+msgstr ""
+
+msgctxt "app"
+msgid "Interessenten"
+msgstr ""
+
+msgctxt "app"
+msgid "Interessenten können Dir direkt über die Anzeige eine Nachricht senden. Im Messenger wird Dir diese Nachricht als zu der Werbung zugehörig angezeigt."
+msgstr ""
+
+msgctxt "app"
+msgid "Interessenten-/Kundenkreis einschränken"
+msgstr ""
+
+msgctxt "app"
+msgid "Interest"
+msgstr ""
+
+msgctxt "app"
+msgid "Interests"
+msgstr ""
+
+msgctxt "app"
+msgid "Invalid VIP packet"
+msgstr ""
+
+msgctxt "app"
+msgid "Invalid Werbung"
+msgstr ""
+
+msgctxt "app"
+msgid "Invalid invitation"
+msgstr ""
+
+msgctxt "app"
+msgid "Invalid protection code"
+msgstr ""
+
+msgctxt "app"
+msgid "Invalid user specified"
+msgstr ""
+
+msgctxt "app"
+msgid "Ip"
+msgstr ""
+
+msgctxt "app"
+msgid "Iran"
+msgstr ""
+
+msgctxt "app"
+msgid "Iraq"
+msgstr ""
+
+msgctxt "app"
+msgid "Ireland"
+msgstr ""
+
+msgctxt "app"
+msgid "Israel"
+msgstr ""
+
+msgctxt "app"
+msgid "Italy"
+msgstr ""
+
+msgctxt "app"
+msgid "Ivory Coast"
+msgstr ""
+
+msgctxt "app"
+msgid "JUGL.NET beinhaltet drei Themenbereiche mit denen Du Geld verdienen kannst:"
+msgstr ""
+
+msgctxt "app"
+msgid "Ja"
+msgstr ""
+
+msgctxt "app"
+msgid "Ja, weiter"
+msgstr ""
+
+msgctxt "app"
+msgid "Jahr"
+msgstr ""
+
+msgctxt "app"
+msgid "Jahr(e)"
+msgstr ""
+
+msgctxt "app"
+msgid "Jahr:"
+msgstr ""
+
+msgctxt "app"
+msgid "Jamaica"
+msgstr ""
+
+msgctxt "app"
+msgid "Januar"
+msgstr ""
+
+msgctxt "app"
+msgid "Japan"
+msgstr ""
+
+msgctxt "app"
+msgid "Je früher Du einsteigst, desto erfolgreicher kannst Du werden."
+msgstr ""
+
+msgctxt "app"
+msgid "Je früher Du einsteigst, desto erfolgreicher kannst Du werden. "
+msgstr ""
+
+msgctxt "app"
+msgid "Je realistischer der Kaufbonus ist, desto seriöser wirkt Deine Anzeige auf den Käufer."
+msgstr ""
+
+msgctxt "app"
+msgid "Jede erdenkliche Dienstleistung und Hilfe ist möglich!"
+msgstr ""
+
+msgctxt "app"
+msgid "Jede erdenkliche Hilfe & DIenstleistung ist möglich!"
+msgstr ""
+
+msgctxt "app"
+msgid "Jetzt Freunde & Bekannte einladen"
+msgstr ""
+
+msgctxt "app"
+msgid "Jetzt Jugls aufladen"
+msgstr ""
+
+msgctxt "app"
+msgid "Jetzt Mitglied werden!"
+msgstr ""
+
+msgctxt "app"
+msgid "Jetzt auszahlen"
+msgstr ""
+
+msgctxt "app"
+msgid "Jetzt bezahlen"
+msgstr ""
+
+msgctxt "app"
+msgid "Jetzt einlösen"
+msgstr ""
+
+msgctxt "app"
+msgid "Jetzt eintauschen"
+msgstr ""
+
+msgctxt "app"
+msgid "Jetzt kann's losgehen!"
+msgstr ""
+
+msgctxt "app"
+msgid "Jetzt kaufen"
+msgstr ""
+
+msgctxt "app"
+msgid "Jetzt kommt der spannende Teil!"
+msgstr ""
+
+msgctxt "app"
+msgid "Jetzt mit PayPal verbinden"
+msgstr ""
+
+msgctxt "app"
+msgid "Jetzt nicht"
+msgstr ""
+
+msgctxt "app"
+msgid "Jetzt verifizieren"
+msgstr ""
+
+msgctxt "app"
+msgid "Join Us"
+msgstr ""
+
+msgctxt "app"
+msgid "Jordan"
+msgstr ""
+
+msgctxt "app"
+msgid "Jugl Account löschen"
+msgstr ""
+
+msgctxt "app"
+msgid "Jugl Forum"
+msgstr ""
+
+msgctxt "app"
+msgid "Jugl Konto Aufladen"
+msgstr ""
+
+msgctxt "app"
+msgid "Jugl Sum"
+msgstr ""
+
+msgctxt "app"
+msgid "Jugl Sum Fact"
+msgstr ""
+
+msgctxt "app"
+msgid "Jugl auf Youtube"
+msgstr ""
+
+msgctxt "app"
+msgid "Jugl aufladen"
+msgstr ""
+
+msgctxt "app"
+msgid "Jugl einlösen"
+msgstr ""
+
+msgctxt "app"
+msgid "Jugl-Punkte aufladen"
+msgstr ""
+
+msgctxt "app"
+msgid "Jugl-Punkte kaufen"
+msgstr ""
+
+msgctxt "app"
+msgid "Jugl-Punkte verkaufen"
+msgstr ""
+
+msgctxt "app"
+msgid "Jugl-Tokens kaufen"
+msgstr ""
+
+msgctxt "app"
+msgid "Jugl-Wiki"
+msgstr ""
+
+msgctxt "app"
+msgid "Jugl.net - Noch nie war Geld verdienen so einfach!"
+msgstr ""
+
+msgctxt "app"
+msgid "Jugl.net beinhaltet einen Marktplatz mit einzigartigen Verdienstmöglichkeiten. Kinderleicht und profitabel!"
+msgstr ""
+
+msgctxt "app"
+msgid "Jugl.net ist eine große wirtschaftliche und soziale Gemeinschaft, die sich gegenseitig hilft und fördert!"
+msgstr ""
+
+msgctxt "app"
+msgid "Jugl.net ist kostenlos!"
+msgstr ""
+
+msgctxt "app"
+msgid "Jugl.net – Team"
+msgstr ""
+
+msgctxt "app"
+msgid "JuglApp für"
+msgstr ""
+
+msgctxt "app"
+msgid "Jugls"
+msgstr ""
+
+msgctxt "app"
+msgid "Jugls aufladen"
+msgstr ""
+
+msgctxt "app"
+msgid "Jugls auszahlen"
+msgstr ""
+
+msgctxt "app"
+msgid "Jugls jetzt auszahlen"
+msgstr ""
+
+msgctxt "app"
+msgid "Jugls jetzt einlösen"
+msgstr ""
+
+msgctxt "app"
+msgid "Jugls-Guthaben aufladen"
+msgstr ""
+
+msgctxt "app"
+msgid "Jugls-Guthaben auszahlen"
+msgstr ""
+
+msgctxt "app"
+msgid "Juli"
+msgstr ""
+
+msgctxt "app"
+msgid "Juni"
+msgstr ""
+
+msgctxt "app"
+msgid "Kannst Du Dein Gebot für das Angebot \"{title}\" bitte noch einmal wiederholen? Ich würde es gerne annehmen."
+msgstr ""
+
+msgctxt "app"
+msgid "Kategorie"
+msgstr ""
+
+msgctxt "app"
+msgid "Kategorie Deiner Werbung wurde geändert"
+msgstr ""
+
+msgctxt "app"
+msgid "Kategorie darf nicht leer sein"
+msgstr ""
+
+msgctxt "app"
+msgid "Kategorie erstellen"
+msgstr ""
+
+msgctxt "app"
+msgid "Kategorie w&auml;hlen"
+msgstr ""
+
+msgctxt "app"
+msgid "Kategorie ändern"
+msgstr ""
+
+msgctxt "app"
+msgid "Kategorieauswahl"
+msgstr ""
+
+msgctxt "app"
+msgid "Kategorien"
+msgstr ""
+
+msgctxt "app"
+msgid "Kategorien für Forumbeiträge"
+msgstr ""
+
+msgctxt "app"
+msgid "Kauf Einladungsgutschein"
+msgstr ""
+
+msgctxt "app"
+msgid "Kaufbewertungen ansehen"
+msgstr ""
+
+msgctxt "app"
+msgid "Kaufbonus"
+msgstr ""
+
+msgctxt "app"
+msgid "Kaufbonus pro User"
+msgstr ""
+
+msgctxt "app"
+msgid "Kaufbonus: "
+msgstr ""
+
+msgctxt "app"
+msgid "Kaufen"
+msgstr ""
+
+msgctxt "app"
+msgid "Kaufen / Suchergebnisse / Werbung lesen"
+msgstr ""
+
+msgctxt "app"
+msgid "Kaufen / verkaufen, Interessen angeben"
+msgstr ""
+
+msgctxt "app"
+msgid "Kazakhstan"
+msgstr ""
+
+msgctxt "app"
+msgid "Kein Kommentar"
+msgstr ""
+
+msgctxt "app"
+msgid "Keine Abos! Keine Abzocke! Alles echt! - Einfach kostenlos ausprobieren."
+msgstr ""
+
+msgctxt "app"
+msgid "Keine Abos! Keine Abzocke! Alles echt! Einfach ausprobieren."
+msgstr ""
+
+msgctxt "app"
+msgid "Keine Benutzer gefunden"
+msgstr ""
+
+msgctxt "app"
+msgid "Keine Entwürfe vorhanden"
+msgstr ""
+
+msgctxt "app"
+msgid "Keine Kaufmöglichkeit"
+msgstr ""
+
+msgctxt "app"
+msgid "Kenya"
+msgstr ""
+
+msgctxt "app"
+msgid "Key"
+msgstr ""
+
+msgctxt "app"
+msgid "Kiribati"
+msgstr ""
+
+msgctxt "app"
+msgid "Klick Interval - Reload Sperre"
+msgstr ""
+
+msgctxt "app"
+msgid "Klicke zur Bewertung auf die Sterne. 1 Stern = schlecht, 5 Sterne = sehr gut."
+msgstr ""
+
+msgctxt "app"
+msgid "Klicks"
+msgstr ""
+
+msgctxt "app"
+msgid "Klicks zur Vergütung"
+msgstr ""
+
+msgctxt "app"
+msgid "Komm in mein Team!"
+msgstr ""
+
+msgctxt "app"
+msgid "Kommentar"
+msgstr ""
+
+msgctxt "app"
+msgid "Kommentar an den Anbieter verfassen:"
+msgstr ""
+
+msgctxt "app"
+msgid "Kommentare"
+msgstr ""
+
+msgctxt "app"
+msgid "Kommentare insgesamt"
+msgstr ""
+
+msgctxt "app"
+msgid "Kommentare insgesamt "
+msgstr ""
+
+msgctxt "app"
+msgid "Kommentieren"
+msgstr ""
+
+msgctxt "app"
+msgid "Kontakt"
+msgstr ""
+
+msgctxt "app"
+msgid "Kontakt ablehnen"
+msgstr ""
+
+msgctxt "app"
+msgid "Kontakt annehmen"
+msgstr ""
+
+msgctxt "app"
+msgid "Kontakt entfernen"
+msgstr ""
+
+msgctxt "app"
+msgid "Kontakt hinzufügen"
+msgstr ""
+
+msgctxt "app"
+msgid "Kontakte"
+msgstr ""
+
+msgctxt "app"
+msgid "Kontakte & Abonnenten von"
+msgstr ""
+
+msgctxt "app"
+msgid "Kontaktübersicht"
+msgstr ""
+
+msgctxt "app"
+msgid "Konten verknüpfen"
+msgstr ""
+
+msgctxt "app"
+msgid "Konto aufladen"
+msgstr ""
+
+msgctxt "app"
+msgid "Kontoinhaber"
+msgstr ""
+
+msgctxt "app"
+msgid "Kontostand"
+msgstr ""
+
+msgctxt "app"
+msgid "Kontostand (in Jugl-Punkten)"
+msgstr ""
+
+msgctxt "app"
+msgid "Kontostand Zinsen"
+msgstr ""
+
+msgctxt "app"
+msgid "Kontostand ab"
+msgstr ""
+
+msgctxt "app"
+msgid "Kontostand auszahlbar ohne Zinsen"
+msgstr ""
+
+msgctxt "app"
+msgid "Kontostand nicht auszahlbar"
+msgstr ""
+
+msgctxt "app"
+msgid "Kontoübersicht aller User"
+msgstr ""
+
+msgctxt "app"
+msgid "Kontrollstatus"
+msgstr ""
+
+msgctxt "app"
+msgid "Kopieren"
+msgstr ""
+
+msgctxt "app"
+msgid "Korea North"
+msgstr ""
+
+msgctxt "app"
+msgid "Korea South"
+msgstr ""
+
+msgctxt "app"
+msgid "Kosovo"
+msgstr ""
+
+msgctxt "app"
+msgid "Kostenlos inserieren<br /> Verkaufen / Werbung schalten"
+msgstr ""
+
+msgctxt "app"
+msgid "Kreditkarte"
+msgstr ""
+
+msgctxt "app"
+msgid "Kreditkarte (Visa, Mastercard, American Express)"
+msgstr ""
+
+msgctxt "app"
+msgid "Kurzinfos"
+msgstr ""
+
+msgctxt "app"
+msgid "Kurznachricht schreiben"
+msgstr ""
+
+msgctxt "app"
+msgid "Kuwait"
+msgstr ""
+
+msgctxt "app"
+msgid "Kyrgyzstan"
+msgstr ""
+
+msgctxt "app"
+msgid "L&auml;uft"
+msgstr ""
+
+msgctxt "app"
+msgid "Lade Deine Freunde ein, bevor es ein anderer macht!"
+msgstr ""
+
+msgctxt "app"
+msgid "Lade Dir jetzt die Jugl-App herunter und installiere sie auf Deinem Handy. Melde Dich mit Deiner Email-Adresse und Deinem Passwort an."
+msgstr ""
+
+msgctxt "app"
+msgid "Lade je ein Foto der Vorderseite und der Rückseite Deines Ausweises hoch. Mache außerdem ein Foto von Dir mit Deinem Ausweis (Vorderseite) und einem Zettel in der Hand, auf dem \"jugl.net\" und Dein Name steht."
+msgstr ""
+
+msgctxt "app"
+msgid "Lade jetzt Dein Jugl Konto auf oder wähle eine andere Zahlungsart."
+msgstr ""
+
+msgctxt "app"
+msgid "Land"
+msgstr ""
+
+msgctxt "app"
+msgid "Land auswählen"
+msgstr ""
+
+msgctxt "app"
+msgid "Landänderung erlaubt"
+msgstr ""
+
+msgctxt "app"
+msgid "Laos"
+msgstr ""
+
+msgctxt "app"
+msgid "Last Bonus"
+msgstr ""
+
+msgctxt "app"
+msgid "Last Klicks"
+msgstr ""
+
+msgctxt "app"
+msgid "Last Name"
+msgstr ""
+
+msgctxt "app"
+msgid "Last Seen"
+msgstr ""
+
+msgctxt "app"
+msgid "Lattitude"
+msgstr ""
+
+msgctxt "app"
+msgid "Latvia"
+msgstr ""
+
+msgctxt "app"
+msgid "Laufende Auktionen"
+msgstr ""
+
+msgctxt "app"
+msgid "Lebanon"
+msgstr ""
+
+msgctxt "app"
+msgid "Lebenslang Premium Midgliedshaft"
+msgstr ""
+
+msgctxt "app"
+msgid "Lege Dein Budget fest ( mind. {{offer.view_bonus_total_interest}} <span class=\"jugl-icon-light\"></span> ). Nicht verbrauchtes Budget wird sofort wieder gutgeschrieben."
+msgstr ""
+
+msgctxt "app"
+msgid "Lege fest wie lange Dein Suchauftrag bei Jugl.net zu sehen sein soll. Bei fehlender Eingabe ist Dein Auftrag automatisch 6 Monate aktiv. Es sei denn Du deaktivierst sie vorher."
+msgstr ""
+
+msgctxt "app"
+msgid "Lege fest, wie lange Deine Werbung bei Jugl.net zu sehen sein soll."
+msgstr ""
+
+msgctxt "app"
+msgid "Lege fest, wie viel Vermittlungsbonus Du Deinen Helfern für die Vermittlung eines passenden Angebots zahlst. Bitte beachte, dass Du bei der Annahme eines Angebots nicht den darin enthaltenen Artikel kaufst, sondern lediglich für die Recherche zahlst.<br />Der Vermittlungsbonus wird nur fällig, wenn Du das Angebot annimmst."
+msgstr ""
+
+msgctxt "app"
+msgid "Leider gibt es derzeit keine Suchaufträge in den von Dir angegebenen Interessensgebieten."
+msgstr ""
+
+msgctxt "app"
+msgid "Leider gibt es momentan keine Suchaufträge anderer Mitglieder, die Deinen angegebenen Interessen oder Deinem Filter entsprechen."
+msgstr ""
+
+msgctxt "app"
+msgid "Leider gibt es momentan keine Werbung bzw. Produktangebote, die Deinen eingegebenen Interessen entsprechen."
+msgstr ""
+
+msgctxt "app"
+msgid "Leider gibt es momentan keine festgelegte Tokens."
+msgstr ""
+
+msgctxt "app"
+msgid "Leider haben wir keine auf Deinen Interessen basierenden Angebote mit Werbebonus gefunden. Klicke bitte auf den Button \"Inserate ohne Werbebonus durchsuchen\". Dort gibt es weitere Angebote ohne Werbebonus."
+msgstr ""
+
+msgctxt "app"
+msgid "Leider hast Du bisher noch keinen oder nur wenige Freunde zu Jugl.net erfolgreich eingeladen. Lade Deine Freunde ein, bevor es ein anderer macht!"
+msgstr ""
+
+msgctxt "app"
+msgid "Leider hast Du noch keine Suchaufträge erstellt, Du kannst dies mit der „Menschlichen Suchmaschine“ tun (Suchauftrag erstellen)."
+msgstr ""
+
+msgctxt "app"
+msgid "Leider hast Du noch nicht ausreichend Jugl zum Annehmen des Auftrages und auszahlen des Vermittlungsbonus Du kannst dein Jugl-Konto jetzt aufladen."
+msgstr ""
+
+msgctxt "app"
+msgid "Leider hast du noch keine Werbung bzw. Produktangebote eingestellt oder keine passenden Produkte für diesen Filter. Um neue Werbung zu erstellen, gehe auf „Verkaufen / Werbung schalten\"."
+msgstr ""
+
+msgctxt "app"
+msgid "Leider hat der Verkäufer Dein Gebot nicht angenommen"
+msgstr ""
+
+msgctxt "app"
+msgid "Leider lagst Du mit Deiner „Echt / Nicht echt“ Entscheidung für den Nutzer {user} falsch. Bitte sei vorsichtiger bei der Bewertung der Videoidentifikationen anderer Nutzer"
+msgstr ""
+
+msgctxt "app"
+msgid "Leider war die Validierung Deiner Person bei jugl.net nicht erfolgreich. Der Grund dafür ist"
+msgstr ""
+
+msgctxt "app"
+msgid "Lesotho"
+msgstr ""
+
+msgctxt "app"
+msgid "Letzter Login"
+msgstr ""
+
+msgctxt "app"
+msgid "Letzter Spam"
+msgstr ""
+
+msgctxt "app"
+msgid "Level"
+msgstr ""
+
+msgctxt "app"
+msgid "Level1 Interest ID"
+msgstr ""
+
+msgctxt "app"
+msgid "Level2 Interest ID"
+msgstr ""
+
+msgctxt "app"
+msgid "Level3 Interest ID"
+msgstr ""
+
+msgctxt "app"
+msgid "Levels in Deinem Netzwerk"
+msgstr ""
+
+msgctxt "app"
+msgid "Liberia"
+msgstr ""
+
+msgctxt "app"
+msgid "Libya"
+msgstr ""
+
+msgctxt "app"
+msgid "Lieber Jugler, ein Teamwechsel ist nur alle 24h möglich."
+msgstr ""
+
+msgctxt "app"
+msgid "Liechtenstein"
+msgstr ""
+
+msgctxt "app"
+msgid "Lieferzeit"
+msgstr ""
+
+msgctxt "app"
+msgid "Lieferzeit ab Geldeingang"
+msgstr ""
+
+msgctxt "app"
+msgid "Lieferzeit angeben*"
+msgstr ""
+
+msgctxt "app"
+msgid "Likes"
+msgstr ""
+
+msgctxt "app"
+msgid "Likes gestern"
+msgstr ""
+
+msgctxt "app"
+msgid "Likes insgesamt"
+msgstr ""
+
+msgctxt "app"
+msgid "Link"
+msgstr ""
+
+msgctxt "app"
+msgid "Link geklickt:"
+msgstr ""
+
+msgctxt "app"
+msgid "Link nicht mehr aktiv. Bitte wende dich an deinen einladenden Kontakt"
+msgstr ""
+
+msgctxt "app"
+msgid "List"
+msgstr ""
+
+msgctxt "app"
+msgid "Lithuania"
+msgstr ""
+
+msgctxt "app"
+msgid "Log in"
+msgstr ""
+
+msgctxt "app"
+msgid "Login"
+msgstr ""
+
+msgctxt "app"
+msgid "Logout"
+msgstr ""
+
+msgctxt "app"
+msgid "Longitude"
+msgstr ""
+
+msgctxt "app"
+msgid "Luxembourg"
+msgstr ""
+
+msgctxt "app"
+msgid "Läuft bis"
+msgstr ""
+
+msgctxt "app"
+msgid "Löschen"
+msgstr ""
+
+msgctxt "app"
+msgid "Macedonia"
+msgstr ""
+
+msgctxt "app"
+msgid "Mach Deinen Freunden, Bekannten und Kollegen eine Freude...<br/>und Dir selbst auch!"
+msgstr ""
+
+msgctxt "app"
+msgid "Machen oder machen lassen – profitiere! Ob geschäftlich oder privat – Jugl.net ist allumfassend:"
+msgstr ""
+
+msgctxt "app"
+msgid "Madagascar"
+msgstr ""
+
+msgctxt "app"
+msgid "Made with"
+msgstr ""
+
+msgctxt "app"
+msgid "Mahnung"
+msgstr ""
+
+msgctxt "app"
+msgid "Mahnungen"
+msgstr ""
+
+msgctxt "app"
+msgid "Mahnungstexte:"
+msgstr ""
+
+msgctxt "app"
+msgid "Mai"
+msgstr ""
+
+msgctxt "app"
+msgid "Mal"
+msgstr ""
+
+msgctxt "app"
+msgid "Malawi"
+msgstr ""
+
+msgctxt "app"
+msgid "Malaysia"
+msgstr ""
+
+msgctxt "app"
+msgid "Maldives"
+msgstr ""
+
+msgctxt "app"
+msgid "Mali"
+msgstr ""
+
+msgctxt "app"
+msgid "Malta"
+msgstr ""
+
+msgctxt "app"
+msgid "Man"
+msgstr ""
+
+msgctxt "app"
+msgid "Manager"
+msgstr ""
+
+msgctxt "app"
+msgid "Marital Status"
+msgstr ""
+
+msgctxt "app"
+msgid "Mark as sticky"
+msgstr ""
+
+msgctxt "app"
+msgid "Mark payout as processed"
+msgstr ""
+
+msgctxt "app"
+msgid "Mark payout as processed?"
+msgstr ""
+
+msgctxt "app"
+msgid "Married"
+msgstr ""
+
+msgctxt "app"
+msgid "Marshall Islands"
+msgstr ""
+
+msgctxt "app"
+msgid "Match"
+msgstr ""
+
+msgctxt "app"
+msgid "Mauritania"
+msgstr ""
+
+msgctxt "app"
+msgid "Mauritius"
+msgstr ""
+
+msgctxt "app"
+msgid "Max. Budget für Werbeaktion"
+msgstr ""
+
+msgctxt "app"
+msgid "Max. Budget für Werbeaktion muss grösser als Werbebonus pro User sein."
+msgstr ""
+
+msgctxt "app"
+msgid "Maximal gewinnbringend"
+msgstr ""
+
+msgctxt "app"
+msgid "Maximale Aufmerksamkeit für Dich und Dein Produkt! Schalte Deine Annonce auf der Startseite und profitiere von unserem cleveren System. Mit dem Werbebonus = \"Jugls for view\" wird der User von Dir dafür belohnt, dass er sich über Deine Neuigkeiten oder Produkte informiert. Kunden, die Du normalerweise nicht erreicht hättest, werden durch den Werbebonus auf Dein Produkt aufmerksam."
+msgstr ""
+
+msgctxt "app"
+msgid "Mehr Details"
+msgstr ""
+
+msgctxt "app"
+msgid "Mehr erfahren"
+msgstr ""
+
+msgctxt "app"
+msgid "Mein Guthaben"
+msgstr ""
+
+msgctxt "app"
+msgid "Mein Jugl-Konto"
+msgstr ""
+
+msgctxt "app"
+msgid "Mein Kontakt"
+msgstr ""
+
+msgctxt "app"
+msgid "Mein Konto"
+msgstr ""
+
+msgctxt "app"
+msgid "Mein Merkzettel"
+msgstr ""
+
+msgctxt "app"
+msgid "Mein Netzwerk"
+msgstr ""
+
+msgctxt "app"
+msgid "Mein Paypal"
+msgstr ""
+
+msgctxt "app"
+msgid "Mein Profil"
+msgstr ""
+
+msgctxt "app"
+msgid "Mein netzwerk"
+msgstr ""
+
+msgctxt "app"
+msgid "Mein profil"
+msgstr ""
+
+msgctxt "app"
+msgid "Mein profil / Meine daten"
+msgstr ""
+
+msgctxt "app"
+msgid "Meine"
+msgstr ""
+
+msgctxt "app"
+msgid "Meine Aktivitäten"
+msgstr ""
+
+msgctxt "app"
+msgid "Meine Angebote im Bieterverfahren"
+msgstr ""
+
+msgctxt "app"
+msgid "Meine Anzeigen"
+msgstr ""
+
+msgctxt "app"
+msgid "Meine Anzeigen / Werbung verwalten"
+msgstr ""
+
+msgctxt "app"
+msgid "Meine Auktionen"
+msgstr ""
+
+msgctxt "app"
+msgid "Meine Bankverbindung"
+msgstr ""
+
+msgctxt "app"
+msgid "Meine Gebote"
+msgstr ""
+
+msgctxt "app"
+msgid "Meine Interessen"
+msgstr ""
+
+msgctxt "app"
+msgid "Meine Kontakte"
+msgstr ""
+
+msgctxt "app"
+msgid "Meine Käufe"
+msgstr ""
+
+msgctxt "app"
+msgid "Meine Zahlungsinformationen"
+msgstr ""
+
+msgctxt "app"
+msgid "Menschliche Suchmaschine"
+msgstr ""
+
+msgctxt "app"
+msgid "Merken"
+msgstr ""
+
+msgctxt "app"
+msgid "Merkzettel"
+msgstr ""
+
+msgctxt "app"
+msgid "Message"
+msgstr ""
+
+msgctxt "app"
+msgid "Message from Administration"
+msgstr ""
+
+msgctxt "app"
+msgid "Message sent"
+msgstr ""
+
+msgctxt "app"
+msgid "Messenger"
+msgstr ""
+
+msgctxt "app"
+msgid "Messenger / Kontakte"
+msgstr ""
+
+msgctxt "app"
+msgid "Mexico"
+msgstr ""
+
+msgctxt "app"
+msgid "Micronesia"
+msgstr ""
+
+msgctxt "app"
+msgid "Midglied Werden"
+msgstr ""
+
+msgctxt "app"
+msgid "Midglied werden"
+msgstr ""
+
+msgctxt "app"
+msgid "Midglieder"
+msgstr ""
+
+msgctxt "app"
+msgid "Midgliedschaft"
+msgstr ""
+
+msgctxt "app"
+msgid "Min. Budget für Werbeaktion"
+msgstr ""
+
+msgctxt "app"
+msgid "Min. Budget für Werbeaktion "
+msgstr ""
+
+msgctxt "app"
+msgid "Min. Budget für Werbeaktion muss mindestens {offer_view_total_bonus} Jugl betragen."
+msgstr ""
+
+msgctxt "app"
+msgid "Minute"
+msgstr ""
+
+msgctxt "app"
+msgid "Mit Facebook anmelden"
+msgstr ""
+
+msgctxt "app"
+msgid "Mit Facebook registrieren"
+msgstr ""
+
+msgctxt "app"
+msgid "Mit dem Absenden Deines Posts stimmst Du unseren Forumsregeln zu."
+msgstr ""
+
+msgctxt "app"
+msgid "Mit dem Klick auf \"Absenden\" akzeptierst Du unsere <a href=\"{link1}\">Nutzerbedingungen</a> und unsere <a href=\"{link2}\">Datenschutzrichtlinien</a>."
+msgstr ""
+
+msgctxt "app"
+msgid "Mit dem Klick auf \"Absenden\" akzeptierst Du unsere <a href=\"{link}\">Nutzerbedingungen und unsere Datenschutzrichtlinien</a>."
+msgstr ""
+
+msgctxt "app"
+msgid "Mit dem Klick auf \"Mit Facebook registrieren\" akzeptierst Du unsere <a href=\"{link}\">Nutzerbedingungen und unsere Datenschutzrichtlinien</a>."
+msgstr ""
+
+msgctxt "app"
+msgid "Mit dem VIP-Code können Sie Geschäftspartnern den Einstieg bei Jugl.net erleichtern - diese sind dann sofort Premiummitglieder."
+msgstr ""
+
+msgctxt "app"
+msgid "Mit freundlichen Grüßen"
+msgstr ""
+
+msgctxt "app"
+msgid "Mit freundlichen Grüßen,"
+msgstr ""
+
+msgctxt "app"
+msgid "Mit freundlichen Grüßen,<br/>Dein jugl.net Team"
+msgstr ""
+
+msgctxt "app"
+msgid "Mit uns bist Du der Konkurrenz immer eine Nasenlänge voraus!"
+msgstr ""
+
+msgctxt "app"
+msgid "Mitbieter"
+msgstr ""
+
+msgctxt "app"
+msgid "Mitglied bis (Tagen)"
+msgstr ""
+
+msgctxt "app"
+msgid "Mitglied finden"
+msgstr ""
+
+msgctxt "app"
+msgid "Mitglied seit"
+msgstr ""
+
+msgctxt "app"
+msgid "Mitglied seit (in Tagen)"
+msgstr ""
+
+msgctxt "app"
+msgid "Mitglied seit (in Tagen) von"
+msgstr ""
+
+msgctxt "app"
+msgid "Mitglied von (Tagen)"
+msgstr ""
+
+msgctxt "app"
+msgid "Mitglied werden"
+msgstr ""
+
+msgctxt "app"
+msgid "Mitglieder eingeladen (heute)"
+msgstr ""
+
+msgctxt "app"
+msgid "Mitglieder im Netzwerk"
+msgstr ""
+
+msgctxt "app"
+msgid "Mitglieder suchen"
+msgstr ""
+
+msgctxt "app"
+msgid "Mitglieder, die direkt über jugl.net kommen kannst Du in Dein Netzwerk aufnehmen."
+msgstr ""
+
+msgctxt "app"
+msgid "Mitgliedersuche"
+msgstr ""
+
+msgctxt "app"
+msgid "Mitgliederzahl"
+msgstr ""
+
+msgctxt "app"
+msgid "Mitgliedschaft wählen"
+msgstr ""
+
+msgctxt "app"
+msgid "Moderator"
+msgstr ""
+
+msgctxt "app"
+msgid "Moderator User ID"
+msgstr ""
+
+msgctxt "app"
+msgid "Moderator {user} hat den Gruppenchat \"{title}\" geblockt"
+msgstr ""
+
+msgctxt "app"
+msgid "Moderatoren"
+msgstr ""
+
+msgctxt "app"
+msgid "Module"
+msgstr ""
+
+msgctxt "app"
+msgid "Moldova"
+msgstr ""
+
+msgctxt "app"
+msgid "Momentan gibt es noch keine von Dir abgeschlossenen oder dem Filter entsprechenden Geschäfte."
+msgstr ""
+
+msgctxt "app"
+msgid "Monaco"
+msgstr ""
+
+msgctxt "app"
+msgid "Monat"
+msgstr ""
+
+msgctxt "app"
+msgid "Monat:"
+msgstr ""
+
+msgctxt "app"
+msgid "Mongolia"
+msgstr ""
+
+msgctxt "app"
+msgid "Montenegro"
+msgstr ""
+
+msgctxt "app"
+msgid "Morocco"
+msgstr ""
+
+msgctxt "app"
+msgid "Move Down"
+msgstr ""
+
+msgctxt "app"
+msgid "Move Up"
+msgstr ""
+
+msgctxt "app"
+msgid "Mozambique"
+msgstr ""
+
+msgctxt "app"
+msgid "Mr. {first_name} {last_name} ({nick_name}) hat Dir eine Freundschaftsanfrage gesendet."
+msgstr ""
+
+msgctxt "app"
+msgid "Ms"
+msgstr ""
+
+msgctxt "app"
+msgid "Myanmar, (Burma)"
+msgstr ""
+
+msgctxt "app"
+msgid "Männlich"
+msgstr ""
+
+msgctxt "app"
+msgid "März"
+msgstr ""
+
+msgctxt "app"
+msgid "Möchte in Dein Team aufgenommen werden. Seine/Ihre Nachricht: „{text}“ [userTeamRequestAccept:{user_id}][/userTeamRequestAccept][userTeamRequestDecline:{user_id}][/userTeamRequestDecline]"
+msgstr ""
+
+msgctxt "app"
+msgid "Möchte in Dein Team aufgenommen werden. Seine/Ihre Nachricht: „{text}“. [userTeamRequestAccept:{user_id}][/userTeamRequestAccept][userTeamRequestDecline:{user_id}][/userTeamRequestDecline]"
+msgstr ""
+
+msgctxt "app"
+msgid "Möchtest du dein Gebot erhöhen?"
+msgstr ""
+
+msgctxt "app"
+msgid "Möglichkeit"
+msgstr ""
+
+msgctxt "app"
+msgid "NOT_ENOUGH_JUGL"
+msgstr ""
+
+msgctxt "app"
+msgid "Nach Namen suchen..."
+msgstr ""
+
+msgctxt "app"
+msgid "Nach der Testphase werden wir diese Funktion auch in Juglapp integrieren."
+msgstr ""
+
+msgctxt "app"
+msgid "Nachricht"
+msgstr ""
+
+msgctxt "app"
+msgid "Nachricht an alle User senden"
+msgstr ""
+
+msgctxt "app"
+msgid "Nachricht an den Verkäufer"
+msgstr ""
+
+msgctxt "app"
+msgid "Nachricht bezüglich des Angebots \"{title}\""
+msgstr ""
+
+msgctxt "app"
+msgid "Nachricht bezüglich des Angebots auf den Suchauftrag \"{title}\""
+msgstr ""
+
+msgctxt "app"
+msgid "Nachricht entfernen"
+msgstr ""
+
+msgctxt "app"
+msgid "Nachricht schreiben"
+msgstr ""
+
+msgctxt "app"
+msgid "Nachricht senden"
+msgstr ""
+
+msgctxt "app"
+msgid "Nachrichten"
+msgstr ""
+
+msgctxt "app"
+msgid "Nachrichten vom Administrator"
+msgstr ""
+
+msgctxt "app"
+msgid "Nachrichten zulassen"
+msgstr ""
+
+msgctxt "app"
+msgid "Name"
+msgstr ""
+
+msgctxt "app"
+msgid "Name oder Email"
+msgstr ""
+
+msgctxt "app"
+msgid "Namibia"
+msgstr ""
+
+msgctxt "app"
+msgid "Nauru"
+msgstr ""
+
+msgctxt "app"
+msgid "Navigation"
+msgstr ""
+
+msgctxt "app"
+msgid "Nein"
+msgstr ""
+
+msgctxt "app"
+msgid "Nepal"
+msgstr ""
+
+msgctxt "app"
+msgid "Netherlands"
+msgstr ""
+
+msgctxt "app"
+msgid "Netto"
+msgstr ""
+
+msgctxt "app"
+msgid "Networking"
+msgstr ""
+
+msgctxt "app"
+msgid "Netzwerk anzeigen"
+msgstr ""
+
+msgctxt "app"
+msgid "Netzwerk aufbauen"
+msgstr ""
+
+msgctxt "app"
+msgid "Netzwerk erweitern"
+msgstr ""
+
+msgctxt "app"
+msgid "Netzwerk verwalten"
+msgstr ""
+
+msgctxt "app"
+msgid "Netzwerk von "
+msgstr ""
+
+msgctxt "app"
+msgid "Netzwerktiefe (Level)"
+msgstr ""
+
+msgctxt "app"
+msgid "Neu"
+msgstr ""
+
+msgctxt "app"
+msgid "Neu im Netzwerk"
+msgstr ""
+
+msgctxt "app"
+msgid "Neu in deinem Netzwerk"
+msgstr ""
+
+msgctxt "app"
+msgid "Neue Beiträge im Forum"
+msgstr ""
+
+msgctxt "app"
+msgid "Neue Beiträge im Jugl-Wiki"
+msgstr ""
+
+msgctxt "app"
+msgid "Neue Kaufinteresse"
+msgstr ""
+
+msgctxt "app"
+msgid "Neue Mitglieder anzeigen"
+msgstr ""
+
+msgctxt "app"
+msgid "Neue Mitglieder heute"
+msgstr ""
+
+msgctxt "app"
+msgid "Neue Mitglieder im Team"
+msgstr ""
+
+msgctxt "app"
+msgid "Neue Videoidents"
+msgstr ""
+
+msgctxt "app"
+msgid "Neue Werbung erfassen"
+msgstr ""
+
+msgctxt "app"
+msgid "Neues Interesse hinzuf&uuml;gen"
+msgstr ""
+
+msgctxt "app"
+msgid "Neues Kaufinteresse"
+msgstr ""
+
+msgctxt "app"
+msgid "Neues Passwort"
+msgstr ""
+
+msgctxt "app"
+msgid "Neues Passwort wiederholen"
+msgstr ""
+
+msgctxt "app"
+msgid "Neueste werbung"
+msgstr ""
+
+msgctxt "app"
+msgid "New"
+msgstr ""
+
+msgctxt "app"
+msgid "New Messages"
+msgstr ""
+
+msgctxt "app"
+msgid "New Password"
+msgstr ""
+
+msgctxt "app"
+msgid "New Zealand"
+msgstr ""
+
+msgctxt "app"
+msgid "News"
+msgstr ""
+
+msgctxt "app"
+msgid "News erstellen und bearbeiten"
+msgstr ""
+
+msgctxt "app"
+msgid "Nicaragua"
+msgstr ""
+
+msgctxt "app"
+msgid "Nicht Echt"
+msgstr ""
+
+msgctxt "app"
+msgid "Nicht Erlauben"
+msgstr ""
+
+msgctxt "app"
+msgid "Nicht echt"
+msgstr ""
+
+msgctxt "app"
+msgid "Nicht erforderlich"
+msgstr ""
+
+msgctxt "app"
+msgid "Nick Name"
+msgstr ""
+
+msgctxt "app"
+msgid "Nickname"
+msgstr ""
+
+msgctxt "app"
+msgid "Nickname can't contain symbol @"
+msgstr ""
+
+msgctxt "app"
+msgid "Niger"
+msgstr ""
+
+msgctxt "app"
+msgid "Nigeria"
+msgstr ""
+
+msgctxt "app"
+msgid "Noch mehr Freunde einladen"
+msgstr ""
+
+msgctxt "app"
+msgid "Noch nicht bewertet"
+msgstr ""
+
+msgctxt "app"
+msgid "Noch nie war Geld verdienen so einfach, Du kannst nur gewinnen!"
+msgstr ""
+
+msgctxt "app"
+msgid "Norway"
+msgstr ""
+
+msgctxt "app"
+msgid "Not Found"
+msgstr ""
+
+msgctxt "app"
+msgid "November"
+msgstr ""
+
+msgctxt "app"
+msgid "Nummer verifiziert"
+msgstr ""
+
+msgctxt "app"
+msgid "Nur abgelaufene"
+msgstr ""
+
+msgctxt "app"
+msgid "Nur aktive"
+msgstr ""
+
+msgctxt "app"
+msgid "Nur für Kontakte sichtbar"
+msgstr ""
+
+msgctxt "app"
+msgid "Nutzer"
+msgstr ""
+
+msgctxt "app"
+msgid "Nutzer Blockiert"
+msgstr ""
+
+msgctxt "app"
+msgid "Nutzer deren Identität manuell zur Erstauszahlung überprüft werden muss!"
+msgstr ""
+
+msgctxt "app"
+msgid "Nutzer mit ähnlichen Interessen"
+msgstr ""
+
+msgctxt "app"
+msgid "Nutzer-/Kundenkreis"
+msgstr ""
+
+msgctxt "app"
+msgid "Nutzerdaten bearbeiten"
+msgstr ""
+
+msgctxt "app"
+msgid "Nutzerdaten einsehen"
+msgstr ""
+
+msgctxt "app"
+msgid "Nutzerkreis weiter einschränken"
+msgstr ""
+
+msgctxt "app"
+msgid "Nutzername"
+msgstr ""
+
+msgctxt "app"
+msgid "Nutzungsbedingungen"
+msgstr ""
+
+msgctxt "app"
+msgid "Nächstes Video:"
+msgstr ""
+
+msgctxt "app"
+msgid "ODER WEITER MIT DER WEB-VERSION"
+msgstr ""
+
+msgctxt "app"
+msgid "OFFER_REQUEST_STATUS_ACCEPTED"
+msgstr ""
+
+msgctxt "app"
+msgid "OFFER_REQUEST_STATUS_ACTIVE"
+msgstr ""
+
+msgctxt "app"
+msgid "OFFER_REQUEST_STATUS_DELETED"
+msgstr ""
+
+msgctxt "app"
+msgid "OFFER_REQUEST_STATUS_EXPIRED"
+msgstr ""
+
+msgctxt "app"
+msgid "OFFER_REQUEST_STATUS_REJECTED"
+msgstr ""
+
+msgctxt "app"
+msgid "OFFER_STATUS_ACTIVE"
+msgstr ""
+
+msgctxt "app"
+msgid "OFFER_STATUS_CLOSED"
+msgstr ""
+
+msgctxt "app"
+msgid "OFFER_STATUS_DELETED"
+msgstr ""
+
+msgctxt "app"
+msgid "OFFER_STATUS_EXPIRED"
+msgstr ""
+
+msgctxt "app"
+msgid "OFFER_STATUS_REJECTED"
+msgstr ""
+
+msgctxt "app"
+msgid "OK"
+msgstr ""
+
+msgctxt "app"
+msgid "Ob geschäftlich oder privat - Jugl.net ist allumfassend:"
+msgstr ""
+
+msgctxt "app"
+msgid "Objekte"
+msgstr ""
+
+msgctxt "app"
+msgid "Oder Du fragst denjenigen, der Dich zu Jugl.net eingeladen hat.<br>Sollte auch das nicht helfen, komme einfach zu uns ins Jugl-Forum, dort werden wir gerne all Deine Fragen beantworten."
+msgstr ""
+
+msgctxt "app"
+msgid "Oder kurz erklärt „JuglApp“ beinhaltet drei Themenbereiche mit denen Du Geld verdienen kannst:"
+msgstr ""
+
+msgctxt "app"
+msgid "Offen"
+msgstr ""
+
+msgctxt "app"
+msgid "Offer"
+msgstr ""
+
+msgctxt "app"
+msgid "Offer ID"
+msgstr ""
+
+msgctxt "app"
+msgid "Offer Request ID"
+msgstr ""
+
+msgctxt "app"
+msgid "Offer Requests"
+msgstr ""
+
+msgctxt "app"
+msgid "Offer expired"
+msgstr ""
+
+msgctxt "app"
+msgid "Offers"
+msgstr ""
+
+msgctxt "app"
+msgid "Ohne Kaufmöglichkeit"
+msgstr ""
+
+msgctxt "app"
+msgid "Ohne Werbebonus"
+msgstr ""
+
+msgctxt "app"
+msgid "Ok"
+msgstr ""
+
+msgctxt "app"
+msgid "Oktober"
+msgstr ""
+
+msgctxt "app"
+msgid "Oman"
+msgstr ""
+
+msgctxt "app"
+msgid "Online"
+msgstr ""
+
+msgctxt "app"
+msgid "Ort"
+msgstr ""
+
+msgctxt "app"
+msgid "Ortsunabhängig agieren"
+msgstr ""
+
+msgctxt "app"
+msgid "Others"
+msgstr ""
+
+msgctxt "app"
+msgid "Outgoing Chat Message ID"
+msgstr ""
+
+msgctxt "app"
+msgid "PAYOUT_REQUEST_STATUS_ACCEPTED"
+msgstr ""
+
+msgctxt "app"
+msgid "PAYOUT_REQUEST_STATUS_DECLINED"
+msgstr ""
+
+msgctxt "app"
+msgid "PAYOUT_REQUEST_STATUS_NEW"
+msgstr ""
+
+msgctxt "app"
+msgid "PAYOUT_REQUEST_STATUS_PROCESSED"
+msgstr ""
+
+msgctxt "app"
+msgid "PAYOUT_REQUEST_TYPE_JUGLS"
+msgstr ""
+
+msgctxt "app"
+msgid "PAYOUT_REQUEST_TYPE_TOKEN_DEPOSIT"
+msgstr ""
+
+msgctxt "app"
+msgid "PAYOUT_REQUEST_TYPE_TOKEN_DEPOSIT_PERCENT"
+msgstr ""
+
+msgctxt "app"
+msgid "PLZ"
+msgstr ""
+
+msgctxt "app"
+msgid "PLZ / Ort"
+msgstr ""
+
+msgctxt "app"
+msgid "POS."
+msgstr ""
+
+msgctxt "app"
+msgid "Pakistan"
+msgstr ""
+
+msgctxt "app"
+msgid "Palau"
+msgstr ""
+
+msgctxt "app"
+msgid "Panama"
+msgstr ""
+
+msgctxt "app"
+msgid "Papua New Guinea"
+msgstr ""
+
+msgctxt "app"
+msgid "Paraguay"
+msgstr ""
+
+msgctxt "app"
+msgid "Param"
+msgstr ""
+
+msgctxt "app"
+msgid "Param \""
+msgstr ""
+
+msgctxt "app"
+msgid "Param ID"
+msgstr ""
+
+msgctxt "app"
+msgid "Param Value"
+msgstr ""
+
+msgctxt "app"
+msgid "Param Value ID"
+msgstr ""
+
+msgctxt "app"
+msgid "Params parent interests"
+msgstr ""
+
+msgctxt "app"
+msgid "Params subcategories"
+msgstr ""
+
+msgctxt "app"
+msgid "Pass / Ausweis"
+msgstr ""
+
+msgctxt "app"
+msgid "Password"
+msgstr ""
+
+msgctxt "app"
+msgid "Password Repeat"
+msgstr ""
+
+msgctxt "app"
+msgid "Passwort"
+msgstr ""
+
+msgctxt "app"
+msgid "Passwort darf nicht leer sein!"
+msgstr ""
+
+msgctxt "app"
+msgid "Passwort deines Jugl Kontos"
+msgstr ""
+
+msgctxt "app"
+msgid "Passwort vergessen"
+msgstr ""
+
+msgctxt "app"
+msgid "Passwort vergessen?"
+msgstr ""
+
+msgctxt "app"
+msgid "Passwort wiederholen"
+msgstr ""
+
+msgctxt "app"
+msgid "Passwort wurde erfolgreich ge&auml;ndert"
+msgstr ""
+
+msgctxt "app"
+msgid "PayPal"
+msgstr ""
+
+msgctxt "app"
+msgid "Payed and confirmed"
+msgstr ""
+
+msgctxt "app"
+msgid "Payed, waiting for confirmation"
+msgstr ""
+
+msgctxt "app"
+msgid "Payin Packets"
+msgstr ""
+
+msgctxt "app"
+msgid "Payment Method"
+msgstr ""
+
+msgctxt "app"
+msgid "Payment data"
+msgstr ""
+
+msgctxt "app"
+msgid "Payout Packets"
+msgstr ""
+
+msgctxt "app"
+msgid "Payout Requests"
+msgstr ""
+
+msgctxt "app"
+msgid "Payout request accepted"
+msgstr ""
+
+msgctxt "app"
+msgid "Payout request declined"
+msgstr ""
+
+msgctxt "app"
+msgid "Payout request processed"
+msgstr ""
+
+msgctxt "app"
+msgid "Payout requests awaiting acceptance"
+msgstr ""
+
+msgctxt "app"
+msgid "Payout requests awaiting processing"
+msgstr ""
+
+msgctxt "app"
+msgid "Paypal"
+msgstr ""
+
+msgctxt "app"
+msgid "Paypal als Zahlungsmethode ist nicht möglich, da Du Deine Paypal E-Mail-Addresse in Deinem Profil nicht hinterlegt hast"
+msgstr ""
+
+msgctxt "app"
+msgid "Paypal, E-Mail: {email}"
+msgstr ""
+
+msgctxt "app"
+msgid "Per Bank&uuml;berweisung an"
+msgstr ""
+
+msgctxt "app"
+msgid "Per E-Mail einladen"
+msgstr ""
+
+msgctxt "app"
+msgid "Period Months"
+msgstr ""
+
+msgctxt "app"
+msgid "Person Validation failed"
+msgstr ""
+
+msgctxt "app"
+msgid "Person Validation success"
+msgstr ""
+
+msgctxt "app"
+msgid "Personen in Deinem Netzwerk"
+msgstr ""
+
+msgctxt "app"
+msgid "Persönliche Assistenz 24/7 – 90.000 Helfer stark"
+msgstr ""
+
+msgctxt "app"
+msgid "Persönliche Daten"
+msgstr ""
+
+msgctxt "app"
+msgid "Persönliche Daten bearbeiten"
+msgstr ""
+
+msgctxt "app"
+msgid "Persönliche Daten:"
+msgstr ""
+
+msgctxt "app"
+msgid "Persönlicher Einladungslink"
+msgstr ""
+
+msgctxt "app"
+msgid "Peru"
+msgstr ""
+
+msgctxt "app"
+msgid "Philippines"
+msgstr ""
+
+msgctxt "app"
+msgid "Phone"
+msgstr ""
+
+msgctxt "app"
+msgid "Phone numbers"
+msgstr ""
+
+msgctxt "app"
+msgid "Please login"
+msgstr ""
+
+msgctxt "app"
+msgid "Please select validation type"
+msgstr ""
+
+msgctxt "app"
+msgid "Plz"
+msgstr ""
+
+msgctxt "app"
+msgid "Plz / Ort"
+msgstr ""
+
+msgctxt "app"
+msgid "Poland"
+msgstr ""
+
+msgctxt "app"
+msgid "Portugal"
+msgstr ""
+
+msgctxt "app"
+msgid "Position"
+msgstr ""
+
+msgctxt "app"
+msgid "Preis"
+msgstr ""
+
+msgctxt "app"
+msgid "Preis angeben"
+msgstr ""
+
+msgctxt "app"
+msgid "Preis bis"
+msgstr ""
+
+msgctxt "app"
+msgid "Preis in EUR"
+msgstr ""
+
+msgctxt "app"
+msgid "Preis von"
+msgstr ""
+
+msgctxt "app"
+msgid "Preis:"
+msgstr ""
+
+msgctxt "app"
+msgid "Preise"
+msgstr ""
+
+msgctxt "app"
+msgid "Preisvorstellung"
+msgstr ""
+
+msgctxt "app"
+msgid "Preisvorstellung eingeben"
+msgstr ""
+
+msgctxt "app"
+msgid "Preisvorstellung:"
+msgstr ""
+
+msgctxt "app"
+msgid "Premium"
+msgstr ""
+
+msgctxt "app"
+msgid "Premium Midgliedschaft bis"
+msgstr ""
+
+msgctxt "app"
+msgid "Premium Mitgliedschaft"
+msgstr ""
+
+msgctxt "app"
+msgid "Premium Plus"
+msgstr ""
+
+msgctxt "app"
+msgid "Premium-Mitglieder"
+msgstr ""
+
+msgctxt "app"
+msgid "Premium-Mitgliedschaft"
+msgstr ""
+
+msgctxt "app"
+msgid "Premium-upgrade hier klicken"
+msgstr ""
+
+msgctxt "app"
+msgid "PremiumPlus"
+msgstr ""
+
+msgctxt "app"
+msgid "PremiumPlus Mitglieder gesamt"
+msgstr ""
+
+msgctxt "app"
+msgid "PremiumPlus Mitgliedschaft"
+msgstr ""
+
+msgctxt "app"
+msgid "PremiumPlus-Mitglieder"
+msgstr ""
+
+msgctxt "app"
+msgid "Premiummitglieder gesamt"
+msgstr ""
+
+msgctxt "app"
+msgid "Price"
+msgstr ""
+
+msgctxt "app"
+msgid "Privacy Policy"
+msgstr ""
+
+msgctxt "app"
+msgid "Privatsphäreeinstellungen"
+msgstr ""
+
+msgctxt "app"
+msgid "Processed"
+msgstr ""
+
+msgctxt "app"
+msgid "Produkt"
+msgstr ""
+
+msgctxt "app"
+msgid "Profession"
+msgstr ""
+
+msgctxt "app"
+msgid "Profil / Daten / Kontodaten bearbeiten"
+msgstr ""
+
+msgctxt "app"
+msgid "Profil ausgefüllt zu:"
+msgstr ""
+
+msgctxt "app"
+msgid "Profil löschen"
+msgstr ""
+
+msgctxt "app"
+msgid "Profilbild"
+msgstr ""
+
+msgctxt "app"
+msgid "Profilbild geändert"
+msgstr ""
+
+msgctxt "app"
+msgid "Profilbild hochladen"
+msgstr ""
+
+msgctxt "app"
+msgid "Profilbild hochladen/ändern"
+msgstr ""
+
+msgctxt "app"
+msgid "Provider ID"
+msgstr ""
+
+msgctxt "app"
+msgid "Punkte durch Abstimmungen"
+msgstr ""
+
+msgctxt "app"
+msgid "Qatar"
+msgstr ""
+
+msgctxt "app"
+msgid "R.-Datum bis"
+msgstr ""
+
+msgctxt "app"
+msgid "R.-Datum von"
+msgstr ""
+
+msgctxt "app"
+msgid "R.-datum"
+msgstr ""
+
+msgctxt "app"
+msgid "RU"
+msgstr ""
+
+msgctxt "app"
+msgid "Rating"
+msgstr ""
+
+msgctxt "app"
+msgid "Reason: Lorem ipsum dolor sit amet"
+msgstr ""
+
+msgctxt "app"
+msgid "Recherche beauftragen"
+msgstr ""
+
+msgctxt "app"
+msgid "Rechercheauftrag annehmen"
+msgstr ""
+
+msgctxt "app"
+msgid "Rechnung"
+msgstr ""
+
+msgctxt "app"
+msgid "Rechnungsdatum"
+msgstr ""
+
+msgctxt "app"
+msgid "Rechnungsnummer"
+msgstr ""
+
+msgctxt "app"
+msgid "Ref. limit"
+msgstr ""
+
+msgctxt "app"
+msgid "Referral User ID"
+msgstr ""
+
+msgctxt "app"
+msgid "Referrals"
+msgstr ""
+
+msgctxt "app"
+msgid "Registration Codes Count"
+msgstr ""
+
+msgctxt "app"
+msgid "Registration Dt"
+msgstr ""
+
+msgctxt "app"
+msgid "Registration Help Requests"
+msgstr ""
+
+msgctxt "app"
+msgid "Registration IP"
+msgstr ""
+
+msgctxt "app"
+msgid "Registration IP Stats"
+msgstr ""
+
+msgctxt "app"
+msgid "Registration IPs"
+msgstr ""
+
+msgctxt "app"
+msgid "Registration code"
+msgstr ""
+
+msgctxt "app"
+msgid "Registrations"
+msgstr ""
+
+msgctxt "app"
+msgid "Registriert"
+msgstr ""
+
+msgctxt "app"
+msgid "Registrierungen gestern"
+msgstr ""
+
+msgctxt "app"
+msgid "Registrierungen:"
+msgstr ""
+
+msgctxt "app"
+msgid "Reject comment"
+msgstr ""
+
+msgctxt "app"
+msgid "Reject reason"
+msgstr ""
+
+msgctxt "app"
+msgid "Relevance"
+msgstr ""
+
+msgctxt "app"
+msgid "Remember Me"
+msgstr ""
+
+msgctxt "app"
+msgid "Reporter"
+msgstr ""
+
+msgctxt "app"
+msgid "Request doesn't exist or expired"
+msgstr ""
+
+msgctxt "app"
+msgid "Reservierung Werbebudget [offer:{offerId}]\"{offerTitle}\"[/offer]"
+msgstr ""
+
+msgctxt "app"
+msgid "Reset"
+msgstr ""
+
+msgctxt "app"
+msgid "Revert deletion"
+msgstr ""
+
+msgctxt "app"
+msgid "Romania"
+msgstr ""
+
+msgctxt "app"
+msgid "Russian Federation"
+msgstr ""
+
+msgctxt "app"
+msgid "Rwanda"
+msgstr ""
+
+msgctxt "app"
+msgid "Rückbuchung Werbebudget [offer:{offerId}]\"{offerTitle}\"[/offer]"
+msgstr ""
+
+msgctxt "app"
+msgid "SEARCH_REQUEST_OFFER_STATUS_ACCEPTED"
+msgstr ""
+
+msgctxt "app"
+msgid "SEARCH_REQUEST_OFFER_STATUS_CONTACTED"
+msgstr ""
+
+msgctxt "app"
+msgid "SEARCH_REQUEST_OFFER_STATUS_DELETED"
+msgstr ""
+
+msgctxt "app"
+msgid "SEARCH_REQUEST_OFFER_STATUS_NEW"
+msgstr ""
+
+msgctxt "app"
+msgid "SEARCH_REQUEST_OFFER_STATUS_REJECTED"
+msgstr ""
+
+msgctxt "app"
+msgid "SEARCH_REQUEST_STATUS_ACTIVE"
+msgstr ""
+
+msgctxt "app"
+msgid "SEARCH_REQUEST_STATUS_CLOSED"
+msgstr ""
+
+msgctxt "app"
+msgid "SEARCH_REQUEST_STATUS_DELETED"
+msgstr ""
+
+msgctxt "app"
+msgid "SEARCH_REQUEST_STATUS_EXPIRED"
+msgstr ""
+
+msgctxt "app"
+msgid "SEARCH_REQUEST_STATUS_REJECTED"
+msgstr ""
+
+msgctxt "app"
+msgid "SMS sending error!"
+msgstr ""
+
+msgctxt "app"
+msgid "SMS sending error: "
+msgstr ""
+
+msgctxt "app"
+msgid "Saint Vincent & the Grenadines"
+msgstr ""
+
+msgctxt "app"
+msgid "Samoa"
+msgstr ""
+
+msgctxt "app"
+msgid "San Marino"
+msgstr ""
+
+msgctxt "app"
+msgid "Sao Tome & Principe"
+msgstr ""
+
+msgctxt "app"
+msgid "Saudi Arabia"
+msgstr ""
+
+msgctxt "app"
+msgid "Save"
+msgstr ""
+
+msgctxt "app"
+msgid "Schade!\n\nLeider warst Du zu langsam.\n\n{user} war schneller als Du.\n\nVersuche es einfach nochmal beim nächsten Mitglied, das eingeladen werden möchte."
+msgstr ""
+
+msgctxt "app"
+msgid "Schade, dass Du nur {packet} Mitglied bist, wärst du {packet2} Midglied, hättest Du statt {sum} Jugls, {sum2} Jugls erhalten [upgradePacket]"
+msgstr ""
+
+msgctxt "app"
+msgid "Search"
+msgstr ""
+
+msgctxt "app"
+msgid "Search Request"
+msgstr ""
+
+msgctxt "app"
+msgid "Search Request ID"
+msgstr ""
+
+msgctxt "app"
+msgid "Search Request Offer ID"
+msgstr ""
+
+msgctxt "app"
+msgid "Search Request Offers"
+msgstr ""
+
+msgctxt "app"
+msgid "Search Requests"
+msgstr ""
+
+msgctxt "app"
+msgid "Second User ID"
+msgstr ""
+
+msgctxt "app"
+msgid "Sek."
+msgstr ""
+
+msgctxt "app"
+msgid "Sekunden"
+msgstr ""
+
+msgctxt "app"
+msgid "Selbst gelöscht"
+msgstr ""
+
+msgctxt "app"
+msgid "Seller has no enough Jugls to pay Kaufbonus and Provision"
+msgstr ""
+
+msgctxt "app"
+msgid "Send"
+msgstr ""
+
+msgctxt "app"
+msgid "Send by"
+msgstr ""
+
+msgctxt "app"
+msgid "Send message to all users"
+msgstr ""
+
+msgctxt "app"
+msgid "Senden"
+msgstr ""
+
+msgctxt "app"
+msgid "Sender User ID"
+msgstr ""
+
+msgctxt "app"
+msgid "Sending failed"
+msgstr ""
+
+msgctxt "app"
+msgid "Senegal"
+msgstr ""
+
+msgctxt "app"
+msgid "September"
+msgstr ""
+
+msgctxt "app"
+msgid "Serbia"
+msgstr ""
+
+msgctxt "app"
+msgid "Session"
+msgstr ""
+
+msgctxt "app"
+msgid "Session Log"
+msgstr ""
+
+msgctxt "app"
+msgid "Session log"
+msgstr ""
+
+msgctxt "app"
+msgid "Settings"
+msgstr ""
+
+msgctxt "app"
+msgid "Sex"
+msgstr ""
+
+msgctxt "app"
+msgid "Seychelles"
+msgstr ""
+
+msgctxt "app"
+msgid "Sichtbar für User"
+msgstr ""
+
+msgctxt "app"
+msgid "Sichtbarkeit der Auswertung auf der \"Startseite\" des Backends"
+msgstr ""
+
+msgctxt "app"
+msgid "Sichtbarkeit für andere"
+msgstr ""
+
+msgctxt "app"
+msgid "Sichtbarkeit räumlich einschränken:"
+msgstr ""
+
+msgctxt "app"
+msgid "Sie haben 4 Mahnungen, Ihr Profil wurde gesperrt. Bitte melden Sie sich beim Administrator vom jugl.net unter support@jugl.net"
+msgstr ""
+
+msgctxt "app"
+msgid "Sie haben Teamleading bewertet."
+msgstr ""
+
+msgctxt "app"
+msgid "Sie wurden als Spammer gemeldet und Ihr Profil wurde gesperrt. Bitte melden Sie sich beim Administrator vom jugl.net unter support@jugl.net"
+msgstr ""
+
+msgctxt "app"
+msgid "Sierra Leone"
+msgstr ""
+
+msgctxt "app"
+msgid "Sign in"
+msgstr ""
+
+msgctxt "app"
+msgid "Sign up"
+msgstr ""
+
+msgctxt "app"
+msgid "Singapore"
+msgstr ""
+
+msgctxt "app"
+msgid "Single"
+msgstr ""
+
+msgctxt "app"
+msgid "Slovakia"
+msgstr ""
+
+msgctxt "app"
+msgid "Slovenia"
+msgstr ""
+
+msgctxt "app"
+msgid "So einzigartig wie Deine Nachfrage ist, sind die Lösungen Deiner persönlichen Helfer. Die Jugler wissen alles und haben auch auf schwierige Anfragen die passende Antwort!\n\t\t\tGeht nicht, gibt es nicht!"
+msgstr ""
+
+msgctxt "app"
+msgid "So funktioniert Jugl"
+msgstr ""
+
+msgctxt "app"
+msgid "Sofortkauf"
+msgstr ""
+
+msgctxt "app"
+msgid "Sofortüberweisung"
+msgstr ""
+
+msgctxt "app"
+msgid "Solomon Islands"
+msgstr ""
+
+msgctxt "app"
+msgid "Somalia"
+msgstr ""
+
+msgctxt "app"
+msgid "Someone already registered using this invitation"
+msgstr ""
+
+msgctxt "app"
+msgid "Sonst bist Du nicht in seinem Netzwerk."
+msgstr ""
+
+msgctxt "app"
+msgid "Sonstiges"
+msgstr ""
+
+msgctxt "app"
+msgid "Sorry,"
+msgstr ""
+
+msgctxt "app"
+msgid "Sort Order"
+msgstr ""
+
+msgctxt "app"
+msgid "Sortieren"
+msgstr ""
+
+msgctxt "app"
+msgid "Sortieren nach"
+msgstr ""
+
+msgctxt "app"
+msgid "Sortieren:"
+msgstr ""
+
+msgctxt "app"
+msgid "South Africa"
+msgstr ""
+
+msgctxt "app"
+msgid "South Sudan"
+msgstr ""
+
+msgctxt "app"
+msgid "Soziales Netzwerk"
+msgstr ""
+
+msgctxt "app"
+msgid "Spain"
+msgstr ""
+
+msgctxt "app"
+msgid "Spam gemeldet"
+msgstr ""
+
+msgctxt "app"
+msgid "Spam melden"
+msgstr ""
+
+msgctxt "app"
+msgid "Spam reports"
+msgstr ""
+
+msgctxt "app"
+msgid "Spam-Punkte"
+msgstr ""
+
+msgctxt "app"
+msgid "Spamliste"
+msgstr ""
+
+msgctxt "app"
+msgid "Spammer"
+msgstr ""
+
+msgctxt "app"
+msgid "Spammer gemeldet"
+msgstr ""
+
+msgctxt "app"
+msgid "Spammers"
+msgstr ""
+
+msgctxt "app"
+msgid "Spare Zeit - Lass Dir helfen, nutze Deine Zeit und Energie effektiver - für schöne Dinge. Die menschliche Suchmaschine ist einzigartig."
+msgstr ""
+
+msgctxt "app"
+msgid "Speichern"
+msgstr ""
+
+msgctxt "app"
+msgid "Sprache"
+msgstr ""
+
+msgctxt "app"
+msgid "Später"
+msgstr ""
+
+msgctxt "app"
+msgid "Später erinnern"
+msgstr ""
+
+msgctxt "app"
+msgid "Sri Lanka"
+msgstr ""
+
+msgctxt "app"
+msgid "St Kitts & Nevis"
+msgstr ""
+
+msgctxt "app"
+msgid "St Lucia"
+msgstr ""
+
+msgctxt "app"
+msgid "St&uuml;ckzahl"
+msgstr ""
+
+msgctxt "app"
+msgid "Standard"
+msgstr ""
+
+msgctxt "app"
+msgid "Standart"
+msgstr ""
+
+msgctxt "app"
+msgid "Start Date"
+msgstr ""
+
+msgctxt "app"
+msgid "Starten"
+msgstr ""
+
+msgctxt "app"
+msgid "Statistics"
+msgstr ""
+
+msgctxt "app"
+msgid "Status"
+msgstr ""
+
+msgctxt "app"
+msgid "Status (Midgliedshaft)"
+msgstr ""
+
+msgctxt "app"
+msgid "Status Angebote"
+msgstr ""
+
+msgctxt "app"
+msgid "Status:"
+msgstr ""
+
+msgctxt "app"
+msgid "Step"
+msgstr ""
+
+msgctxt "app"
+msgid "Stimmen"
+msgstr ""
+
+msgctxt "app"
+msgid "Stoppen"
+msgstr ""
+
+msgctxt "app"
+msgid "Strasse"
+msgstr ""
+
+msgctxt "app"
+msgid "Straße / Haus-Nr."
+msgstr ""
+
+msgctxt "app"
+msgid "Straße/Nr."
+msgstr ""
+
+msgctxt "app"
+msgid "Street"
+msgstr ""
+
+msgctxt "app"
+msgid "Stunde"
+msgstr ""
+
+msgctxt "app"
+msgid "Stückzahl"
+msgstr ""
+
+msgctxt "app"
+msgid "Stückzahl anzeigen"
+msgstr ""
+
+msgctxt "app"
+msgid "Stückzahl darf nicht 0 sein"
+msgstr ""
+
+msgctxt "app"
+msgid "Subcategories"
+msgstr ""
+
+msgctxt "app"
+msgid "Such- und Werbeaufträge werden automatisch aktiviert"
+msgstr ""
+
+msgctxt "app"
+msgid "Suchanz. Online von"
+msgstr ""
+
+msgctxt "app"
+msgid "Suchanzeige"
+msgstr ""
+
+msgctxt "app"
+msgid "Suchanzeige aufgeben"
+msgstr ""
+
+msgctxt "app"
+msgid "Suchauftrag abgelehnt"
+msgstr ""
+
+msgctxt "app"
+msgid "Suchauftrag erstellen"
+msgstr ""
+
+msgctxt "app"
+msgid "Suchauftrag erstellen / recherchieren / vermitteln"
+msgstr ""
+
+msgctxt "app"
+msgid "Suchauftrag erstellen / recherchieren / vermitteln / Interessen angeben"
+msgstr ""
+
+msgctxt "app"
+msgid "Suchauftrag erstellt"
+msgstr ""
+
+msgctxt "app"
+msgid "Suchauftrag freigegeben"
+msgstr ""
+
+msgctxt "app"
+msgid "Suchaufträge"
+msgstr ""
+
+msgctxt "app"
+msgid "Suchaufträge bearbeiten"
+msgstr ""
+
+msgctxt "app"
+msgid "Suchaufträge bestätigen/ablehnen"
+msgstr ""
+
+msgctxt "app"
+msgid "Suchaufträge einsehen"
+msgstr ""
+
+msgctxt "app"
+msgid "Suchaufträge löschen"
+msgstr ""
+
+msgctxt "app"
+msgid "Suchaufträge zu kontrollieren"
+msgstr ""
+
+msgctxt "app"
+msgid "Suchen"
+msgstr ""
+
+msgctxt "app"
+msgid "Suchen / Interessen angeben"
+msgstr ""
+
+msgctxt "app"
+msgid "Sudan"
+msgstr ""
+
+msgctxt "app"
+msgid "Sum"
+msgstr ""
+
+msgctxt "app"
+msgid "Supervisor"
+msgstr ""
+
+msgctxt "app"
+msgid "Suriname"
+msgstr ""
+
+msgctxt "app"
+msgid "Swaziland"
+msgstr ""
+
+msgctxt "app"
+msgid "Sweden"
+msgstr ""
+
+msgctxt "app"
+msgid "Switzerland"
+msgstr ""
+
+msgctxt "app"
+msgid "Syria"
+msgstr ""
+
+msgctxt "app"
+msgid "TOKEN_DEPOSIT_STATUS_ACTIVE"
+msgstr ""
+
+msgctxt "app"
+msgid "TOKEN_DEPOSIT_STATUS_COMPLETED"
+msgstr ""
+
+msgctxt "app"
+msgid "Tag"
+msgstr ""
+
+msgctxt "app"
+msgid "Tage"
+msgstr ""
+
+msgctxt "app"
+msgid "Taiwan"
+msgstr ""
+
+msgctxt "app"
+msgid "Tajikistan"
+msgstr ""
+
+msgctxt "app"
+msgid "Tanzania"
+msgstr ""
+
+msgctxt "app"
+msgid "Team"
+msgstr ""
+
+msgctxt "app"
+msgid "Team wechseln"
+msgstr ""
+
+msgctxt "app"
+msgid "Team {name} möchte Dich als neues Mitglied werben. Seine/Ihre Nachricht: „{text}“. [userTeamRequestAccept:{user_id}][/userTeamRequestAccept][userTeamRequestDecline:{user_id}][/userTeamRequestDecline]"
+msgstr ""
+
+msgctxt "app"
+msgid "Teamanfrage an"
+msgstr ""
+
+msgctxt "app"
+msgid "Teamleaderbewertungen ansehen"
+msgstr ""
+
+msgctxt "app"
+msgid "Teamleaderbewertungen anzeigen"
+msgstr ""
+
+msgctxt "app"
+msgid "Teamleading bewerten"
+msgstr ""
+
+msgctxt "app"
+msgid "Teams"
+msgstr ""
+
+msgctxt "app"
+msgid "Teamwechsel"
+msgstr ""
+
+msgctxt "app"
+msgid "Teamwechsel anfragen"
+msgstr ""
+
+msgctxt "app"
+msgid "Teamwechsel bereits beantragt"
+msgstr ""
+
+msgctxt "app"
+msgid "Teamwechsel von \"{old_user_parent}\" zu \"{new_user_parent}\""
+msgstr ""
+
+msgctxt "app"
+msgid "Telefonnummer"
+msgstr ""
+
+msgctxt "app"
+msgid "Telefonnummer SMS Verifikation"
+msgstr ""
+
+msgctxt "app"
+msgid "Terms &amp; Conditions"
+msgstr ""
+
+msgctxt "app"
+msgid "Text"
+msgstr ""
+
+msgctxt "app"
+msgid "Text eingeben"
+msgstr ""
+
+msgctxt "app"
+msgid "Text erstellen"
+msgstr ""
+
+msgctxt "app"
+msgid "Texte"
+msgstr ""
+
+msgctxt "app"
+msgid "Texte bearbeiten"
+msgstr ""
+
+msgctxt "app"
+msgid "Texte und Grafiken von jugl.net sind durch das Urheberrecht ebenso geschützt wie der Name Jugl und unser Logo. Wenn Du Grafiken, Texte oder Teile von jugl.net in anderen Medien verwendest, verstößt Du damit gegen die Urheberrechte."
+msgstr ""
+
+msgctxt "app"
+msgid "Thailand"
+msgstr ""
+
+msgctxt "app"
+msgid "Thank you very much,"
+msgstr ""
+
+msgctxt "app"
+msgid "Theme filter"
+msgstr ""
+
+msgctxt "app"
+msgid "Themenfilter"
+msgstr ""
+
+msgctxt "app"
+msgid "This content is straight in the template."
+msgstr ""
+
+msgctxt "app"
+msgid "Time for Teamwechsel is out"
+msgstr ""
+
+msgctxt "app"
+msgid "Titel der Anzeige"
+msgstr ""
+
+msgctxt "app"
+msgid "Titel eingeben*"
+msgstr ""
+
+msgctxt "app"
+msgid "Title"
+msgstr ""
+
+msgctxt "app"
+msgid "To"
+msgstr ""
+
+msgctxt "app"
+msgid "To User ID"
+msgstr ""
+
+msgctxt "app"
+msgid "Togo"
+msgstr ""
+
+msgctxt "app"
+msgid "Token"
+msgstr ""
+
+msgctxt "app"
+msgid "Token Balance"
+msgstr ""
+
+msgctxt "app"
+msgid "Token Deposit Guarantee ID"
+msgstr ""
+
+msgctxt "app"
+msgid "Token Konto aufladen"
+msgstr ""
+
+msgctxt "app"
+msgid "Token Konto aufladung: {sum} Tokens für nutzer {email}. Kommentar:\n{comment}"
+msgstr ""
+
+msgctxt "app"
+msgid "Token Transaktionsübersicht"
+msgstr ""
+
+msgctxt "app"
+msgid "Token-Stand"
+msgstr ""
+
+msgctxt "app"
+msgid "Token-Zahlmethode"
+msgstr ""
+
+msgctxt "app"
+msgid "Tokenanlagen"
+msgstr ""
+
+msgctxt "app"
+msgid "Tokenkontostand auszahlbar"
+msgstr ""
+
+msgctxt "app"
+msgid "Tokenkontostand nicht auszahlbar"
+msgstr ""
+
+msgctxt "app"
+msgid "Tokens"
+msgstr ""
+
+msgctxt "app"
+msgid "Tokens durch Netzwerk"
+msgstr ""
+
+msgctxt "app"
+msgid "Tokens durch eigenen Kauf"
+msgstr ""
+
+msgctxt "app"
+msgid "Tokens eintauschen gegen:"
+msgstr ""
+
+msgctxt "app"
+msgid "Tokens festgelegt"
+msgstr ""
+
+msgctxt "app"
+msgid "Tokens festlegen"
+msgstr ""
+
+msgctxt "app"
+msgid "Tokens kaufen"
+msgstr ""
+
+msgctxt "app"
+msgid "Tokenstand"
+msgstr ""
+
+msgctxt "app"
+msgid "Tokenstand:"
+msgstr ""
+
+msgctxt "app"
+msgid "Tonga"
+msgstr ""
+
+msgctxt "app"
+msgid "Tradetracker Importieren"
+msgstr ""
+
+msgctxt "app"
+msgid "Transaktionen durch"
+msgstr ""
+
+msgctxt "app"
+msgid "Transaktions&uuml;bersicht"
+msgstr ""
+
+msgctxt "app"
+msgid "Transaktionstyp"
+msgstr ""
+
+msgctxt "app"
+msgid "Transaktionsübersicht"
+msgstr ""
+
+msgctxt "app"
+msgid "Trinidad & Tobago"
+msgstr ""
+
+msgctxt "app"
+msgid "Trollbox Message ID"
+msgstr ""
+
+msgctxt "app"
+msgid "Trotz sorgfältiger inhaltlicher Kontrolle Übernehmen wir keine Haftung. Dasselbe gilt für Links, Inhalte der verlinkten Seiten. Dafür sind ausschließlich und nur deren Betreiber verantwortlich."
+msgstr ""
+
+msgctxt "app"
+msgid "Tunisia"
+msgstr ""
+
+msgctxt "app"
+msgid "Turkey"
+msgstr ""
+
+msgctxt "app"
+msgid "Turkmenistan"
+msgstr ""
+
+msgctxt "app"
+msgid "Tuvalu"
+msgstr ""
+
+msgctxt "app"
+msgid "Typ der Auszahlung ändern"
+msgstr ""
+
+msgctxt "app"
+msgid "Typ der Werbung"
+msgstr ""
+
+msgctxt "app"
+msgid "Typ des Handels"
+msgstr ""
+
+msgctxt "app"
+msgid "Type"
+msgstr ""
+
+msgctxt "app"
+msgid "USER_AD_STATUS_AUTO_ALLOW"
+msgstr ""
+
+msgctxt "app"
+msgid "USER_AD_STATUS_AUTO_DISABLE"
+msgstr ""
+
+msgctxt "app"
+msgid "USER_STATUS_ACTIVE"
+msgstr ""
+
+msgctxt "app"
+msgid "USER_STATUS_BLOCKED"
+msgstr ""
+
+msgctxt "app"
+msgid "USER_STATUS_DELETED"
+msgstr ""
+
+msgctxt "app"
+msgid "USER_STATUS_EMAIL_VALIDATION"
+msgstr ""
+
+msgctxt "app"
+msgid "USER_STATUS_LOGINED"
+msgstr ""
+
+msgctxt "app"
+msgid "USER_STATUS_REGISTERED"
+msgstr ""
+
+msgctxt "app"
+msgid "USER_VALIDATION_STATUS_AWAITING"
+msgstr ""
+
+msgctxt "app"
+msgid "USER_VALIDATION_STATUS_FAILURE"
+msgstr ""
+
+msgctxt "app"
+msgid "USER_VALIDATION_STATUS_NOT_VALIDATED"
+msgstr ""
+
+msgctxt "app"
+msgid "USER_VALIDATION_STATUS_SUCCESS"
+msgstr ""
+
+msgctxt "app"
+msgid "USER_VALIDATION_TYPE_PHOTOS"
+msgstr ""
+
+msgctxt "app"
+msgid "USER_VISIBILITY_ALL"
+msgstr ""
+
+msgctxt "app"
+msgid "USER_VISIBILITY_FRIENDS"
+msgstr ""
+
+msgctxt "app"
+msgid "USER_VISIBILITY_NONE"
+msgstr ""
+
+msgctxt "app"
+msgid "USt"
+msgstr ""
+
+msgctxt "app"
+msgid "Uganda"
+msgstr ""
+
+msgctxt "app"
+msgid "Uhr"
+msgstr ""
+
+msgctxt "app"
+msgid "Ukraine"
+msgstr ""
+
+msgctxt "app"
+msgid "Um Deine Auszahlungsanfrage verarbeiten zu können musst Du Dich vorab durch unser Team verifizieren lassen."
+msgstr ""
+
+msgctxt "app"
+msgid "Um eine Video-Identifikation durchführen zu können musst Du sich in unsere {app_link} einloggen."
+msgstr ""
+
+msgctxt "app"
+msgid "Um keine Administrator Emails mehr zu erhalten, klicke auf folgenden Link:"
+msgstr ""
+
+msgctxt "app"
+msgid "Um unsere App nutzen zu können, registriere Dich auf unserer Website www.jugl.net"
+msgstr ""
+
+msgctxt "app"
+msgid "Umkreis"
+msgstr ""
+
+msgctxt "app"
+msgid "Umkreissuche"
+msgstr ""
+
+msgctxt "app"
+msgid "Umsatz bis"
+msgstr ""
+
+msgctxt "app"
+msgid "Umsatz in &euro; bis"
+msgstr ""
+
+msgctxt "app"
+msgid "Umsatz in &euro; von"
+msgstr ""
+
+msgctxt "app"
+msgid "Umsatz in Jugls"
+msgstr ""
+
+msgctxt "app"
+msgid "Umsatz steigern /Passiv-Einkommen aufbauen"
+msgstr ""
+
+msgctxt "app"
+msgid "Umsatz von"
+msgstr ""
+
+msgctxt "app"
+msgid "Unbegrenzt Mitglieder werben für Level 1. (Freigabe nach Prüfung)"
+msgstr ""
+
+msgctxt "app"
+msgid "Ungültiger Aktivierungscode"
+msgstr ""
+
+msgctxt "app"
+msgid "Ungültiges Format beim \"Datum der Veröffentlichung\""
+msgstr ""
+
+msgctxt "app"
+msgid "United Arab Emirates"
+msgstr ""
+
+msgctxt "app"
+msgid "United Kingdom"
+msgstr ""
+
+msgctxt "app"
+msgid "United States"
+msgstr ""
+
+msgctxt "app"
+msgid "Unknown packet"
+msgstr ""
+
+msgctxt "app"
+msgid "Unmark as sticky"
+msgstr ""
+
+msgctxt "app"
+msgid "Unser Tipp: Für nur einmalig 3 € kannst du alle Vorteile von JuglApp uneingeschr&auml;nkt nutzen und Du unterst&uuml;tzt unsere Gemeinschaft und somit Dein eigenes wirtschaftliches Netzwerk. "
+msgstr ""
+
+msgctxt "app"
+msgid "Unsere News"
+msgstr ""
+
+msgctxt "app"
+msgid "Unterkategorie"
+msgstr ""
+
+msgctxt "app"
+msgid "Update"
+msgstr ""
+
+msgctxt "app"
+msgid "Update Advertising"
+msgstr ""
+
+msgctxt "app"
+msgid "Update Feedback"
+msgstr ""
+
+msgctxt "app"
+msgid "Update Video"
+msgstr ""
+
+msgctxt "app"
+msgid "Update comment"
+msgstr ""
+
+msgctxt "app"
+msgid "Updating"
+msgstr ""
+
+msgctxt "app"
+msgid "Updating Admin"
+msgstr ""
+
+msgctxt "app"
+msgid "Updating Bonus"
+msgstr ""
+
+msgctxt "app"
+msgid "Updating News"
+msgstr ""
+
+msgctxt "app"
+msgid "Updating Offer"
+msgstr ""
+
+msgctxt "app"
+msgid "Updating Offer Request"
+msgstr ""
+
+msgctxt "app"
+msgid "Updating Payin Packet"
+msgstr ""
+
+msgctxt "app"
+msgid "Updating Payout Packet"
+msgstr ""
+
+msgctxt "app"
+msgid "Updating Search Request"
+msgstr ""
+
+msgctxt "app"
+msgid "Updating Search Request Offer"
+msgstr ""
+
+msgctxt "app"
+msgid "Updating Setting"
+msgstr ""
+
+msgctxt "app"
+msgid "Updating User"
+msgstr ""
+
+msgctxt "app"
+msgid "Updating question"
+msgstr ""
+
+msgctxt "app"
+msgid "Updating text"
+msgstr ""
+
+msgctxt "app"
+msgid "Upgrade"
+msgstr ""
+
+msgctxt "app"
+msgid "Upgrades gestern"
+msgstr ""
+
+msgctxt "app"
+msgid "Upload Suchaufträge ohne Kontroll"
+msgstr ""
+
+msgctxt "app"
+msgid "Upload Werbungen ohne Kontroll"
+msgstr ""
+
+msgctxt "app"
+msgid "Upload in progess. Please wait and try again"
+msgstr ""
+
+msgctxt "app"
+msgid "Ups! Da waren die anderen Jugler schneller! Das Werbebudget für die Anzeige [offer:{offerId}]\"{offerTitle}\"[/offer] wurde aufgebraucht, während Du Dir die Werbung angesehen hast. Bitte nicht ärgern, es gibt noch viele weitere Möglichkeiten, bei Jugl Geld zu verdienen. Hast Du Dir schon Deinen individuellen Filter gesetzt? Dann ist Deine Chance viel größer, dass Dir das nicht noch einmal passiert."
+msgstr ""
+
+msgctxt "app"
+msgid "Urheberrecht"
+msgstr ""
+
+msgctxt "app"
+msgid "Uruguay"
+msgstr ""
+
+msgctxt "app"
+msgid "User"
+msgstr ""
+
+msgctxt "app"
+msgid "User Bonus"
+msgstr ""
+
+msgctxt "app"
+msgid "User ID"
+msgstr ""
+
+msgctxt "app"
+msgid "User Id"
+msgstr ""
+
+msgctxt "app"
+msgid "User benachrichtigen"
+msgstr ""
+
+msgctxt "app"
+msgid "User id"
+msgstr ""
+
+msgctxt "app"
+msgid "User mit diesem Facebook Konto existiert bereits."
+msgstr ""
+
+msgctxt "app"
+msgid "User mit dieser Emailadresse existiert bereits."
+msgstr ""
+
+msgctxt "app"
+msgid "User mit dieser Telefonnummer existiert bereits."
+msgstr ""
+
+msgctxt "app"
+msgid "User with this E-mail already exists"
+msgstr ""
+
+msgctxt "app"
+msgid "User with this Nickname already exists"
+msgstr ""
+
+msgctxt "app"
+msgid "User with this email doesn't exist"
+msgstr ""
+
+msgctxt "app"
+msgid "User {first_name} {last_name} ({nick_name}) accepted your friendship request."
+msgstr ""
+
+msgctxt "app"
+msgid "User {first_name} {last_name} ({nick_name}) declined your friendship request."
+msgstr ""
+
+msgctxt "app"
+msgid "Users"
+msgstr ""
+
+msgctxt "app"
+msgid "Users Validation"
+msgstr ""
+
+msgctxt "app"
+msgid "Users awaiting validation"
+msgstr ""
+
+msgctxt "app"
+msgid "Uzbekistan"
+msgstr ""
+
+msgctxt "app"
+msgid "VIP - Registrierung"
+msgstr ""
+
+msgctxt "app"
+msgid "VIP-Codes kaufen"
+msgstr ""
+
+msgctxt "app"
+msgid "VIP-Сodes"
+msgstr ""
+
+msgctxt "app"
+msgid "VIP-Сodes für"
+msgstr ""
+
+msgctxt "app"
+msgid "Validating User"
+msgstr ""
+
+msgctxt "app"
+msgid "Validation Details"
+msgstr ""
+
+msgctxt "app"
+msgid "Validation Status"
+msgstr ""
+
+msgctxt "app"
+msgid "Validation Type"
+msgstr ""
+
+msgctxt "app"
+msgid "Value"
+msgstr ""
+
+msgctxt "app"
+msgid "Values"
+msgstr ""
+
+msgctxt "app"
+msgid "Vanuatu"
+msgstr ""
+
+msgctxt "app"
+msgid "Vatican City"
+msgstr ""
+
+msgctxt "app"
+msgid "Venezuela"
+msgstr ""
+
+msgctxt "app"
+msgid "Verbindlich bieten"
+msgstr ""
+
+msgctxt "app"
+msgid "Verdienst aus Einladungen:"
+msgstr ""
+
+msgctxt "app"
+msgid "Verdienst dieses Jahres"
+msgstr ""
+
+msgctxt "app"
+msgid "Verdienst dieses Monats"
+msgstr ""
+
+msgctxt "app"
+msgid "Verdienst durch Netzwerk:"
+msgstr ""
+
+msgctxt "app"
+msgid "Verdienst gestern"
+msgstr ""
+
+msgctxt "app"
+msgid "Verdienst heute"
+msgstr ""
+
+msgctxt "app"
+msgid "Vergeben"
+msgstr ""
+
+msgctxt "app"
+msgid "Vergebene Likes"
+msgstr ""
+
+msgctxt "app"
+msgid "Vergütung in Euro"
+msgstr ""
+
+msgctxt "app"
+msgid "Verh&auml;ltnis gekaufer Artikel zu gelesener Werbung (Kaufbonus erhalten) 1"
+msgstr ""
+
+msgctxt "app"
+msgid "Verhältnis gekaufer Artikel zu gelesener Werbung (Kaufbonus erhalten) 1:"
+msgstr ""
+
+msgctxt "app"
+msgid "Verhältnis gekaufer Artikel zu gelesener Werbung (Kaufbonus erhalten) 1: bis"
+msgstr ""
+
+msgctxt "app"
+msgid "Verhältnis gekaufer Artikel zu gelesener Werbung (Kaufbonus erhalten) 1: von"
+msgstr ""
+
+msgctxt "app"
+msgid "Verifikation abschließen"
+msgstr ""
+
+msgctxt "app"
+msgid "Verifikation code"
+msgstr ""
+
+msgctxt "app"
+msgid "Verifiziere Dein Profil per SMS, damit Du Deine Identität bestätigst und wir Deinem Teamleader den Einladungsbonus auszahlen können."
+msgstr ""
+
+msgctxt "app"
+msgid "Verifizierungsvideos"
+msgstr ""
+
+msgctxt "app"
+msgid "Verify Code"
+msgstr ""
+
+msgctxt "app"
+msgid "Verkaufen / Werbung schalten"
+msgstr ""
+
+msgctxt "app"
+msgid "Verkauft für"
+msgstr ""
+
+msgctxt "app"
+msgid "Verleihe Deinem Auftrag einen aussagekräftigen Titel. Er ist das Erste, was Deine Helfer lesen."
+msgstr ""
+
+msgctxt "app"
+msgid "Vermittlung, Recherche, Assistenz. Egal was Du oder andere suchen. Du bekommst dafür Vermittlungsprovision oder profitierst von den Angeboten."
+msgstr ""
+
+msgctxt "app"
+msgid "Vermittlungsbonus"
+msgstr ""
+
+msgctxt "app"
+msgid "Vermittlungsbonus darf nicht kleiner als {search_request_bonus} sein."
+msgstr ""
+
+msgctxt "app"
+msgid "Versandkosten"
+msgstr ""
+
+msgctxt "app"
+msgid "Versandkosten angeben"
+msgstr ""
+
+msgctxt "app"
+msgid "Versendet am"
+msgstr ""
+
+msgctxt "app"
+msgid "Verwendet Budget für Werbebonus"
+msgstr ""
+
+msgctxt "app"
+msgid "Verwendungszweck"
+msgstr ""
+
+msgctxt "app"
+msgid "Video"
+msgstr ""
+
+msgctxt "app"
+msgid "Video Id"
+msgstr ""
+
+msgctxt "app"
+msgid "Video Ident."
+msgstr ""
+
+msgctxt "app"
+msgid "Video Statistik"
+msgstr ""
+
+msgctxt "app"
+msgid "Video statistics"
+msgstr ""
+
+msgctxt "app"
+msgid "Video-Statistik"
+msgstr ""
+
+msgctxt "app"
+msgid "Videoidentifikation des Users {user}"
+msgstr ""
+
+msgctxt "app"
+msgid "Videolänge"
+msgstr ""
+
+msgctxt "app"
+msgid "Videos"
+msgstr ""
+
+msgctxt "app"
+msgid "Videos geschaut gesamt"
+msgstr ""
+
+msgctxt "app"
+msgid "Videos geschaut gestern"
+msgstr ""
+
+msgctxt "app"
+msgid "Videos heute"
+msgstr ""
+
+msgctxt "app"
+msgid "Videotitel"
+msgstr ""
+
+msgctxt "app"
+msgid "Vielen Dank für Dein Interesse an Jugl.net.<br>Du bist gerade dabei, Dich zu registrieren, über den Einladungslink von"
+msgstr ""
+
+msgctxt "app"
+msgid "Vielen Dank für Deine Abstimmung"
+msgstr ""
+
+msgctxt "app"
+msgid "Vielen Dank für Deine Registrierung bei jugl.net. Um Deine Registrierung abschließen zu können, klicke bitte auf den nachfolgenden Link:"
+msgstr ""
+
+msgctxt "app"
+msgid "Vielen Dank für Deine Registrierung! Wir wünschen Dir viel Spaß und Erfolg  bei Jugl.net."
+msgstr ""
+
+msgctxt "app"
+msgid "Vielen Dank für das Anschauen des Videos."
+msgstr ""
+
+msgctxt "app"
+msgid "Vielen Dank für das Anschauen unseres Angebotes."
+msgstr ""
+
+msgctxt "app"
+msgid "Vielen Dank!"
+msgstr ""
+
+msgctxt "app"
+msgid "Vielen Dank,"
+msgstr ""
+
+msgctxt "app"
+msgid "Vielen Dank, deine Hilfe-Anfrage wurde an unser Team weitergeleitet. Wir werden uns mit dir in Kürze in Verbindung setzen."
+msgstr ""
+
+msgctxt "app"
+msgid "Vietnam"
+msgstr ""
+
+msgctxt "app"
+msgid "View"
+msgstr ""
+
+msgctxt "app"
+msgid "Views"
+msgstr ""
+
+msgctxt "app"
+msgid "Views zur Vergütung"
+msgstr ""
+
+msgctxt "app"
+msgid "Visa, Mastercard, American Express"
+msgstr ""
+
+msgctxt "app"
+msgid "Visibility About"
+msgstr ""
+
+msgctxt "app"
+msgid "Visibility Address1"
+msgstr ""
+
+msgctxt "app"
+msgid "Visibility Address2"
+msgstr ""
+
+msgctxt "app"
+msgid "Visibility Marital Status"
+msgstr ""
+
+msgctxt "app"
+msgid "Visibility Profession"
+msgstr ""
+
+msgctxt "app"
+msgid "Vorrübergehend aktivieren"
+msgstr ""
+
+msgctxt "app"
+msgid "Vorrübergehend deaktivieren"
+msgstr ""
+
+msgctxt "app"
+msgid "Vorschau ansehen"
+msgstr ""
+
+msgctxt "app"
+msgid "Vorübergehend sperren"
+msgstr ""
+
+msgctxt "app"
+msgid "Vote"
+msgstr ""
+
+msgctxt "app"
+msgid "Votes Down"
+msgstr ""
+
+msgctxt "app"
+msgid "Votes Up"
+msgstr ""
+
+msgctxt "app"
+msgid "W&auml;hle die gew&uuml;nschte Anzahl der Jugls:"
+msgstr ""
+
+msgctxt "app"
+msgid "W&auml;hle die gew&uuml;nschte Zahlungsart:"
+msgstr ""
+
+msgctxt "app"
+msgid "W&auml;hle die gewünschte Zahlungsart:"
+msgstr ""
+
+msgctxt "app"
+msgid "Waiting for payment"
+msgstr ""
+
+msgctxt "app"
+msgid "Wartet auf Veröffentlichung"
+msgstr ""
+
+msgctxt "app"
+msgid "Was auch immer Dein Begehren ist, ob die günstigste Reise, die coolste Party oder der beste Handwerker. Lehn Dich zurück und lass es geschehen."
+msgstr ""
+
+msgctxt "app"
+msgid "Was auch immer Du möchtest, ob Haus, Auto, Urlaub oder einfach Kleidung u.v.m., Dein Wunsch ist uns Befehl."
+msgstr ""
+
+msgctxt "app"
+msgid "Was habe ich anderen angeboten / vermittelt?"
+msgstr ""
+
+msgctxt "app"
+msgid "Was habe ich anderen vermittelt / angeboten ?"
+msgstr ""
+
+msgctxt "app"
+msgid "Was habe ich anderen vermittelt / angeboten?"
+msgstr ""
+
+msgctxt "app"
+msgid "Was habe ich erfolgreich angeboten / vermittelt?"
+msgstr ""
+
+msgctxt "app"
+msgid "Was ist jugl.net?"
+msgstr ""
+
+msgctxt "app"
+msgid "Was können wir für Dich tun?"
+msgstr ""
+
+msgctxt "app"
+msgid "Was suchen andere"
+msgstr ""
+
+msgctxt "app"
+msgid "Was suchen andere?"
+msgstr ""
+
+msgctxt "app"
+msgid "Was wird mir angeboten"
+msgstr ""
+
+msgctxt "app"
+msgid "Was wird mir angeboten / vermittelt?"
+msgstr ""
+
+msgctxt "app"
+msgid "Was wird mir angeboten?"
+msgstr ""
+
+msgctxt "app"
+msgid "Wechseln"
+msgstr ""
+
+msgctxt "app"
+msgid "Weiblich"
+msgstr ""
+
+msgctxt "app"
+msgid "Weiter"
+msgstr ""
+
+msgctxt "app"
+msgid "Weitere Angebote des Anbieters anzeigen"
+msgstr ""
+
+msgctxt "app"
+msgid "Weitere Anzeigen des Anbieters anzeigen"
+msgstr ""
+
+msgctxt "app"
+msgid "Weitere Bankverbindingen zeigen"
+msgstr ""
+
+msgctxt "app"
+msgid "Weitere Bankverbindung erstellen"
+msgstr ""
+
+msgctxt "app"
+msgid "Weitere Details"
+msgstr ""
+
+msgctxt "app"
+msgid "Weitere Dienste"
+msgstr ""
+
+msgctxt "app"
+msgid "Weitere Einladungen versenden"
+msgstr ""
+
+msgctxt "app"
+msgid "Weitere Liferadressen zeigen"
+msgstr ""
+
+msgctxt "app"
+msgid "Weiterlesen"
+msgstr ""
+
+msgctxt "app"
+msgid "Welchen Auftrag können wir für Dich erledigen?"
+msgstr ""
+
+msgctxt "app"
+msgid "Weltweite Kontakte"
+msgstr ""
+
+msgctxt "app"
+msgid "Wenn Du Deine Ware versenden möchtest, dann gib hier bitte die Lieferzeit ein, die Dein Paket bis zum Empfänger benötigt und wie viel der Versand kosten soll. Wenn Du Deine Ware nur zur Selbstabholung anbietest, dann gib hier bitte jeweils eine 0 ein."
+msgstr ""
+
+msgctxt "app"
+msgid "Wenn Du Dich wunderst, warum Du noch keinen Bonus für die Einladung von {user} bekommen hast, welcher sich direkt über Deinen Registrationslink angemeldet hat, erkläre ihm bitte, dass er folgende Punkte erfüllen muss:[br][/br][br][/br] 1. sich die App herunterladen und sich einloggen[br][/br] 2. seine Daten vervollständigen[br][/br] 3. eine Aktion in der App ausführen[br][/br] 4. Mitgliedschaft auswählen[br][/br] 5. seine Telefonnummer via SMS Verifizierung bestätigen[br][/br][br][/br] Sobald {user} diese Punkte erfüllt hat, wobei hier die Reihenfolge unerheblich ist, erhältst Du den Bonus."
+msgstr ""
+
+msgctxt "app"
+msgid "Wenn Du dies nicht willst, setze hier einen Haken:"
+msgstr ""
+
+msgctxt "app"
+msgid "Wenn Du hier ein Häkchen setzt, dann wird in Deiner Anzeige die noch verfügbare Stückzahl Deiner Ware angezeigt."
+msgstr ""
+
+msgctxt "app"
+msgid "Wenn Du mal nicht weiter weißt, drücke einfach auf das jeweilige <span class=\"icon-info-popup\"></span> - Symbol, dann geht ein Erklärungstext auf."
+msgstr ""
+
+msgctxt "app"
+msgid "Wenn Du von einem Freund eingeladen wurdest, dann brich diesen Vorgang bitte ab und melde Dich über seinen Einladungslink an."
+msgstr ""
+
+msgctxt "app"
+msgid "Wer hat gelöscht"
+msgstr ""
+
+msgctxt "app"
+msgid "Wer hat mich geliket"
+msgstr ""
+
+msgctxt "app"
+msgid "Wer ist neu in meinem Netzwerk?"
+msgstr ""
+
+msgctxt "app"
+msgid "Werbebonus"
+msgstr ""
+
+msgctxt "app"
+msgid "Werbebonus belohnt, wenn Du innerhalb von "
+msgstr ""
+
+msgctxt "app"
+msgid "Werbebonus pro User"
+msgstr ""
+
+msgctxt "app"
+msgid "Werbebonus pro User darf nicht kleiner als {offer_view_bonus} sein."
+msgstr ""
+
+msgctxt "app"
+msgid "Werbebonus pro User darf nicht kleiner als {view_bonus} sein."
+msgstr ""
+
+msgctxt "app"
+msgid "Werbebonus: "
+msgstr ""
+
+msgctxt "app"
+msgid "Werbebudget ist zu klein"
+msgstr ""
+
+msgctxt "app"
+msgid "Werbung Detail - Zwischen der Werbung mit Werbebonus"
+msgstr ""
+
+msgctxt "app"
+msgid "Werbung Detail - Zwischen der Werbung ohne Werbebonus"
+msgstr ""
+
+msgctxt "app"
+msgid "Werbung Id"
+msgstr ""
+
+msgctxt "app"
+msgid "Werbung abgelehnt"
+msgstr ""
+
+msgctxt "app"
+msgid "Werbung angeschaut"
+msgstr ""
+
+msgctxt "app"
+msgid "Werbung einstellen"
+msgstr ""
+
+msgctxt "app"
+msgid "Werbung erstellt"
+msgstr ""
+
+msgctxt "app"
+msgid "Werbung freigegeben"
+msgstr ""
+
+msgctxt "app"
+msgid "Werbung lesen / Etwas kaufen"
+msgstr ""
+
+msgctxt "app"
+msgid "Werbung löschen"
+msgstr ""
+
+msgctxt "app"
+msgid "Werbung ohne Werbebonus schalten"
+msgstr ""
+
+msgctxt "app"
+msgid "Werbung schalten"
+msgstr ""
+
+msgctxt "app"
+msgid "Werbung verwalten"
+msgstr ""
+
+msgctxt "app"
+msgid "Werbungen"
+msgstr ""
+
+msgctxt "app"
+msgid "Wert"
+msgstr ""
+
+msgctxt "app"
+msgid "Wertung"
+msgstr ""
+
+msgctxt "app"
+msgid "What is Jugl"
+msgstr ""
+
+msgctxt "app"
+msgid "Whitepaper"
+msgstr ""
+
+msgctxt "app"
+msgid "Wie funktioniert Jugl.net?"
+msgstr ""
+
+msgctxt "app"
+msgid "Wie funktioniert jugl.net"
+msgstr ""
+
+msgctxt "app"
+msgid "Wie kann ich Geld verdienen?"
+msgstr ""
+
+msgctxt "app"
+msgid "Wie kann ich mit der Jugl APP Geld verdienen?"
+msgstr ""
+
+msgctxt "app"
+msgid "Wiederherstellen"
+msgstr ""
+
+msgctxt "app"
+msgid "Wieviel Likes Basis"
+msgstr ""
+
+msgctxt "app"
+msgid "Wieviel Likes Premium"
+msgstr ""
+
+msgctxt "app"
+msgid "Wieviel Likes Premium Plus"
+msgstr ""
+
+msgctxt "app"
+msgid "Willkommen bei JUGL.NET"
+msgstr ""
+
+msgctxt "app"
+msgid "Willkommen, "
+msgstr ""
+
+msgctxt "app"
+msgid "Willst Du die freigegebenen Tokens gegen Eur eintauschen?"
+msgstr ""
+
+msgctxt "app"
+msgid "Willst Du die freigegebenen Tokens gegen Jugls eintauschen?"
+msgstr ""
+
+msgctxt "app"
+msgid "Wir freuen uns darauf, mit Dir ein neues, gigantisches Netzwerk aufzubauen, bei dem nicht immer nur die Großen profitieren, sondern auch jeder einzelne User für sein Engagement belohnt wird."
+msgstr ""
+
+msgctxt "app"
+msgid "Wir freuen uns darauf, mit euch ein neues, gigantisches Netzwerk aufzubauen, bei dem nicht immer nur die Großen profitieren, sondern jeder einzelne User reich werden kann."
+msgstr ""
+
+msgctxt "app"
+msgid "Wir geben keinerlei Garantien oder Gewährleistungen. Dafür sind ausschließlich die entsprechenden Anbieter verantwortlich."
+msgstr ""
+
+msgctxt "app"
+msgid "Wir gratulieren! Dein Videoident wurde soeben von unserem Community erfolgreich verifiziert."
+msgstr ""
+
+msgctxt "app"
+msgid "Wir gründen jetzt unser eigenes Netzwerk bei dem jeder profitiert!"
+msgstr ""
+
+msgctxt "app"
+msgid "Wir sind 90.000 HELFER stark."
+msgstr ""
+
+msgctxt "app"
+msgid "Wir sind ein deutsches Start-Up-Unternehmen aus Berlin in der Testphase.<br/>Alles ist aus eigenen Mitteln finanziert."
+msgstr ""
+
+msgctxt "app"
+msgid "Wir sind {{countTotalUsers|priceFormat}} Helfer stark!"
+msgstr ""
+
+msgctxt "app"
+msgid "Wir verkaufen keinerlei Daten unserer User an Dritte. Du behältst die Rechte an all Deinen Texten und Bildern. Unser sozial-wirtschaftliches Netzwerk ist so aufgebaut, dass dies nicht nötig ist."
+msgstr ""
+
+msgctxt "app"
+msgid "Wir würden uns sehr freuen, wenn Du Dich für eine PremiumPlus-Mitgliedschaft entscheidest. Mit einem Beitrag von nur<br><b>{{(registeredByCode ? 0:VIPPlusPrice)|priceFormat}}€</b> <br> investierst Du nicht nur in Dich selbst und erhältst dadurch höhere Gewinne, sondern unterstützt auch den reibungslosen Betrieb der Plattform und somit auch Dein eigenes wirtschaftliches Netzwerk. Deine <b>{{(registeredByCode ? 0:VIPPlusPrice)|priceFormat}}€</b> sind eine Investition für's Leben."
+msgstr ""
+
+msgctxt "app"
+msgid "Wird freigegeben am"
+msgstr ""
+
+msgctxt "app"
+msgid "Wird geprüft"
+msgstr ""
+
+msgctxt "app"
+msgid "Woche"
+msgstr ""
+
+msgctxt "app"
+msgid "Woman"
+msgstr ""
+
+msgctxt "app"
+msgid "Worauf habe ich geboten?"
+msgstr ""
+
+msgctxt "app"
+msgid "Wurde angenommen am {{::dealOffer.closed_dt|date:\"dd.MM.yyyy\"}} von"
+msgstr ""
+
+msgctxt "app"
+msgid "Wähle aus, was Du anbieten kannst:"
+msgstr ""
+
+msgctxt "app"
+msgid "Wähle die gewünschte Anzahl der Tokens:"
+msgstr ""
+
+msgctxt "app"
+msgid "Wähle die gewünschte Anzahl der VIP-Сodes:"
+msgstr ""
+
+msgctxt "app"
+msgid "Wähle die gewünschte Zahlungsart:"
+msgstr ""
+
+msgctxt "app"
+msgid "Wähle einen Mitglied Deines Netzwerks, in dessen Struktur <b>{{user|userName}}</b> verschoben werden soll."
+msgstr ""
+
+msgctxt "app"
+msgid "Wähle nun Deine Mitgliedschaft"
+msgstr ""
+
+msgctxt "app"
+msgid "Wähle nun die von Dir akzeptierten Zahlungsmethoden aus. Bitte beachte, dass Du eine Zahlung per Überweisung oder Paypal nur angeben kannst, wenn Du die dazugehörigen Daten in Deinem Profil (Menüleiste -> Mein Profil / Meine Daten) hinterlegt hast."
+msgstr ""
+
+msgctxt "app"
+msgid "Yemen"
+msgstr ""
+
+msgctxt "app"
+msgid "Yesterday incoming"
+msgstr ""
+
+msgctxt "app"
+msgid "Yesterday registrations"
+msgstr ""
+
+msgctxt "app"
+msgid "Yesterday users active"
+msgstr ""
+
+msgctxt "app"
+msgid "You already accepted this friendship request"
+msgstr ""
+
+msgctxt "app"
+msgid "You already rejected this friendship request"
+msgstr ""
+
+msgctxt "app"
+msgid "You already reported this item as spam"
+msgstr ""
+
+msgctxt "app"
+msgid "You already sent request to this user"
+msgstr ""
+
+msgctxt "app"
+msgid "You are not moderator"
+msgstr ""
+
+msgctxt "app"
+msgid "You have not enough amount of jugls {sum}"
+msgstr ""
+
+msgctxt "app"
+msgid "You have not enough funds"
+msgstr ""
+
+msgctxt "app"
+msgid "Your account is blocked, please contact support."
+msgstr ""
+
+msgctxt "app"
+msgid "Your payout request for {sum} was accepted and your jugl balance was updated. You will be notified when payout will be processed."
+msgstr ""
+
+msgctxt "app"
+msgid "Your payout request for {sum} was declined"
+msgstr ""
+
+msgctxt "app"
+msgid "Your payout request for {sum} was processed"
+msgstr ""
+
+msgctxt "app"
+msgid "Your payout request saved. After processing payout by our staff you will see it in your balance log"
+msgstr ""
+
+msgctxt "app"
+msgid "Zahlung mit Jugls"
+msgstr ""
+
+msgctxt "app"
+msgid "Zahlung per Bank&uuml;berweisung"
+msgstr ""
+
+msgctxt "app"
+msgid "Zahlung per Banküberweisung"
+msgstr ""
+
+msgctxt "app"
+msgid "Zahlung per Paypal"
+msgstr ""
+
+msgctxt "app"
+msgid "Zahlungarten"
+msgstr ""
+
+msgctxt "app"
+msgid "Zahlungsart"
+msgstr ""
+
+msgctxt "app"
+msgid "Zambia"
+msgstr ""
+
+msgctxt "app"
+msgid "Zeige Deine Anzeige nur Nutzern, die schon einmal Artikel in dieser Kategorie gekauft haben."
+msgstr ""
+
+msgctxt "app"
+msgid "Zeige Deine Werbung nur Mitgliedern, die genügend Punkte auf ihrem Jugl-Konto haben, um Deine Waren erwerben zu können."
+msgstr ""
+
+msgctxt "app"
+msgid "Zeige Deine Werbung nur aktiven Mitgliedern, die regelmäßig Nachrichten schreiben."
+msgstr ""
+
+msgctxt "app"
+msgid "Zeit in Sekunden im Popup"
+msgstr ""
+
+msgctxt "app"
+msgid "Zeitpause"
+msgstr ""
+
+msgctxt "app"
+msgid "Zeitraum"
+msgstr ""
+
+msgctxt "app"
+msgid "Zeitraum festlegen:"
+msgstr ""
+
+msgctxt "app"
+msgid "Zeitraum wählen"
+msgstr ""
+
+msgctxt "app"
+msgid "Zeitvesetzt"
+msgstr ""
+
+msgctxt "app"
+msgid "Zielgruppe definieren"
+msgstr ""
+
+msgctxt "app"
+msgid "Zimbabwe"
+msgstr ""
+
+msgctxt "app"
+msgid "Zinsertrag"
+msgstr ""
+
+msgctxt "app"
+msgid "Zinsertrag aus den festgelegten Tokens {sum} für {date}"
+msgstr ""
+
+msgctxt "app"
+msgid "Zinsertrag in Jugls"
+msgstr ""
+
+msgctxt "app"
+msgid "Zinssatz"
+msgstr ""
+
+msgctxt "app"
+msgid "Zinssatz p.a."
+msgstr ""
+
+msgctxt "app"
+msgid "Zip"
+msgstr ""
+
+msgctxt "app"
+msgid "Zu kontrollieren"
+msgstr ""
+
+msgctxt "app"
+msgid "Zu welchem Preis gekauft"
+msgstr ""
+
+msgctxt "app"
+msgid "Zuletzt eingeloggt"
+msgstr ""
+
+msgctxt "app"
+msgid "Zum Zur&uuml;cksetzen Deines Passwortes bitte den folgenden Link klicken"
+msgstr ""
+
+msgctxt "app"
+msgid "Zum jugl.net"
+msgstr ""
+
+msgctxt "app"
+msgid "Zur Verifizierung auf die Buttons klicken"
+msgstr ""
+
+msgctxt "app"
+msgid "Zur&uuml;ck"
+msgstr ""
+
+msgctxt "app"
+msgid "Zur&uuml;ck zur Interessen&uuml;bersicht"
+msgstr ""
+
+msgctxt "app"
+msgid "Zur&uuml;ck zur vorherigen Seite"
+msgstr ""
+
+msgctxt "app"
+msgid "Zurück"
+msgstr ""
+
+msgctxt "app"
+msgid "Zurück zur Übersicht"
+msgstr ""
+
+msgctxt "app"
+msgid "Zurückgestellt"
+msgstr ""
+
+msgctxt "app"
+msgid "Zuwiderhandeln werden wir gerichtlich, strafrechtlich, sowie zivilrechtlich verfolgen."
+msgstr ""
+
+msgctxt "app"
+msgid "[user][/user] Hat Dich zu jugl.net eingeladen. Deshalb gibst Du [sum][/sum] Deiner Einnahmen für das Anschauen der [advertising:{advertisingid}]\"Banner Werbung\"[/advertising] an [user][/user]"
+msgstr ""
+
+msgctxt "app"
+msgid "[user][/user] Hat Dich zu jugl.net eingeladen. Deshalb gibst Du [sum][/sum] Deiner Einnahmen für das Anschauen des Videos [video:{videoid}]\"{videoTitle}\"[/video] an [user][/user]"
+msgstr ""
+
+msgctxt "app"
+msgid "ab"
+msgstr ""
+
+msgctxt "app"
+msgid "abwerben"
+msgstr ""
+
+msgctxt "app"
+msgid "alle"
+msgstr ""
+
+msgctxt "app"
+msgid "alphabetisch"
+msgstr ""
+
+msgctxt "app"
+msgid "am"
+msgstr ""
+
+msgctxt "app"
+msgid "anbei erhälst Du die aktuelle jugl-Rechnung."
+msgstr ""
+
+msgctxt "app"
+msgid "anzeigen"
+msgstr ""
+
+msgctxt "app"
+msgid "assessmentDate"
+msgstr ""
+
+msgctxt "app"
+msgid "attributableCommission"
+msgstr ""
+
+msgctxt "app"
+msgid "attributionModel"
+msgstr ""
+
+msgctxt "app"
+msgid "ausgewählt"
+msgstr ""
+
+msgctxt "app"
+msgid "ausgezahlt"
+msgstr ""
+
+msgctxt "app"
+msgid "basis-mitglieder"
+msgstr ""
+
+msgctxt "app"
+msgid "bearbeiten"
+msgstr ""
+
+msgctxt "app"
+msgid "bereits bei jugl.net registriert"
+msgstr ""
+
+msgctxt "app"
+msgid "bis"
+msgstr ""
+
+msgctxt "app"
+msgid "campaign_name"
+msgstr ""
+
+msgctxt "app"
+msgid "cat id"
+msgstr ""
+
+msgctxt "app"
+msgid "clickToConversion"
+msgstr ""
+
+msgctxt "app"
+msgid "commission"
+msgstr ""
+
+msgctxt "app"
+msgid "conversion_id"
+msgstr ""
+
+msgctxt "app"
+msgid "countryCode"
+msgstr ""
+
+msgctxt "app"
+msgid "create date"
+msgstr ""
+
+msgctxt "app"
+msgid "currency"
+msgstr ""
+
+msgctxt "app"
+msgid "daf&uuml;r bewertet mit"
+msgstr ""
+
+msgctxt "app"
+msgid "davon Basis"
+msgstr ""
+
+msgctxt "app"
+msgid "davon Premium"
+msgstr ""
+
+msgctxt "app"
+msgid "davon PremiumPlus"
+msgstr ""
+
+msgctxt "app"
+msgid "davon durch Gutscheincode"
+msgstr ""
+
+msgctxt "app"
+msgid "davon durch Upgrade"
+msgstr ""
+
+msgctxt "app"
+msgid "davon durch Upgrade Premium"
+msgstr ""
+
+msgctxt "app"
+msgid "davon durch Upgrade PremiumPlus"
+msgstr ""
+
+msgctxt "app"
+msgid "der Bezahlvorgang wurde erfolgreich abgeschlossen!"
+msgstr ""
+
+msgctxt "app"
+msgid "der Bezahlvorgang wurde nicht abgeschlossen."
+msgstr ""
+
+msgctxt "app"
+msgid "des Kaufbonus-Wertes erhält derjenige, der Dich zu Jugl.net eingeladen hat, nachdem Du den Geldeingang bestätigst"
+msgstr ""
+
+msgctxt "app"
+msgid "description"
+msgstr ""
+
+msgctxt "app"
+msgid "diesen Bonus abholst."
+msgstr ""
+
+msgctxt "app"
+msgid "dt"
+msgstr ""
+
+msgctxt "app"
+msgid "duplicate Entry"
+msgstr ""
+
+msgctxt "app"
+msgid "echt"
+msgstr ""
+
+msgctxt "app"
+msgid "eingeladen"
+msgstr ""
+
+msgctxt "app"
+msgid "einmalig"
+msgstr ""
+
+msgctxt "app"
+msgid "entspricht <span class=\"res-eur\"></span> EUR / <span class=\"res-jugl\"></span> Jugls"
+msgstr ""
+
+msgctxt "app"
+msgid "erhält ( mind. {{offer.view_bonus_interest}} ). 1 Jugl = 1 Cent."
+msgstr ""
+
+msgctxt "app"
+msgid "externe Anwendungen"
+msgstr ""
+
+msgctxt "app"
+msgid "freizugebende Anzeigen"
+msgstr ""
+
+msgctxt "app"
+msgid "freizugebende Suchaufträge"
+msgstr ""
+
+msgctxt "app"
+msgid "freizugebende kostenfreie Anzeigen"
+msgstr ""
+
+msgctxt "app"
+msgid "friendship request declined"
+msgstr ""
+
+msgctxt "app"
+msgid "friendship request to this user was already sent and user declined it"
+msgstr ""
+
+msgctxt "app"
+msgid "gekaufte Artikel"
+msgstr ""
+
+msgctxt "app"
+msgid "hat Dein Angebot [offer:{offerId}]\"{offerTitle}\"[/offer] angenommen"
+msgstr ""
+
+msgctxt "app"
+msgid "hat Dein Angebot [offer:{offerId}]\"{offerTitle}\"[/offer] per {pay_data} bezahlt. Die Lieferadresse lautet: {delivery_address}."
+msgstr ""
+
+msgctxt "app"
+msgid "hat Dein Angebot [offer:{offerId}]\"{offerTitle}\"[/offer] per {pay_data} bezahlt. Die Lieferadresse lautet: {delivery_address}. [offerPayConfirm:{offerId}:{offerRequestId}]"
+msgstr ""
+
+msgctxt "app"
+msgid "hat Dein Handel [offer:{offerId}]\"{offerTitle}\"[/offer] mit {rating} bewertet"
+msgstr ""
+
+msgctxt "app"
+msgid "hat Dein Handel [searchRequest:{searchRequestId}]\"{searchRequestTitle}\"[/searchRequest] mit {rating} bewertet"
+msgstr ""
+
+msgctxt "app"
+msgid "hat Dein Interesse an dem Angebot [offer:{offerId}]\"{offerTitle}\"[/offer] angenommen [offerPay:{offerId}:{offerRequestId}]"
+msgstr ""
+
+msgctxt "app"
+msgid "hat Dein Team verlassen."
+msgstr ""
+
+msgctxt "app"
+msgid "hat Dein [searchRequestOffer:{searchRequestId}:{searchRequestOfferId}]Angebot[/searchRequestOffer] auf die Suchanzeige [searchRequest:{searchRequestId}]\"{searchRequestTitle}\"[/searchRequest] abgelehnt. Grund: {rejectReason}. {rejectComment}"
+msgstr ""
+
+msgctxt "app"
+msgid "hat Dein [searchRequestOffer:{searchRequestId}:{searchRequestOfferId}]Angebot[/searchRequestOffer] auf die Suchanzeige [searchRequest:{searchRequestId}]\"{searchRequestTitle}\"[/searchRequest] akzeptiert"
+msgstr ""
+
+msgctxt "app"
+msgid "hat Deine Anfrage zum Teamfestlegen abgelehnt."
+msgstr ""
+
+msgctxt "app"
+msgid "hat Deine Anfrage zum Teamwechsel abgelehnt."
+msgstr ""
+
+msgctxt "app"
+msgid "hat Deine Anfrage zum Teamwechsel akzeptiert."
+msgstr ""
+
+msgctxt "app"
+msgid "hat Deine Anfrage zum Teamwechsel angenommen. Du bist jetzt im Team von {name}."
+msgstr ""
+
+msgctxt "app"
+msgid "hat Deine Einladung akzeptiert und sich bei jugl.net registriert"
+msgstr ""
+
+msgctxt "app"
+msgid "hat Deine Kontaktanfrage bestätigt"
+msgstr ""
+
+msgctxt "app"
+msgid "hat Deinen Antrag auf Aufnahme ins Team abgelehnt. Möglicherweise sind derzeit keine freien Kapazitäten vorhanden. Wir bitten um Verständnis. [teamChangeUserSearch]Hier findest Du ein anderes Team[/teamChangeUserSearch]"
+msgstr ""
+
+msgctxt "app"
+msgid "hat Dir ein [searchRequestOffer:{searchRequestId}:{searchRequestOfferId}]Angebot[/searchRequestOffer] auf Deiner Suchanzeige [searchRequest:{searchRequestId}]\"{searchRequestTitle}\"[/searchRequest] geschickt"
+msgstr ""
+
+msgctxt "app"
+msgid "hat Dir eine Kontaktanfrage gesendet"
+msgstr ""
+
+msgctxt "app"
+msgid "hat Geldeingang bestätigt. Deine Ware wird geliefert."
+msgstr ""
+
+msgctxt "app"
+msgid "hat die Teamleaderübernahme für {name} abgelehnt."
+msgstr ""
+
+msgctxt "app"
+msgid "hat ein Angebot auf [searchRequest:{searchRequestId}]'{searchRequestTitle}'[/searchRequest] abgegeben"
+msgstr ""
+
+msgctxt "app"
+msgid "hat ein Gebot auf [offer:{offerId}]'{offerTitle}'[/offer] abgegeben"
+msgstr ""
+
+msgctxt "app"
+msgid "hat ein [myOfferRequest:{offerRequestId}]Gebot in Höhe von {betPrice}€[/myOfferRequest] auf das Angebot [offer:{offerId}]\"{offerTitle}\"[/offer] abgegeben."
+msgstr ""
+
+msgctxt "app"
+msgid "hat eine neue Werbung [offer:{offerId}]'{offerTitle}'[/offer] veröffentlicht"
+msgstr ""
+
+msgctxt "app"
+msgid "hat einen neuen Mitglied in seinem Team: [userProfile:{userId}]\"{userName}\"[/userProfile]"
+msgstr ""
+
+msgctxt "app"
+msgid "hat einen neuen Suchauftrag [searchRequest:{searchRequestId}]'{searchRequestTitle}'[/searchRequest]"
+msgstr ""
+
+msgctxt "app"
+msgid "hat einen neuen [groupChat:{groupChatId}]Beitrag[/groupChat] im Forum gepostet"
+msgstr ""
+
+msgctxt "app"
+msgid "hat einen neuen [info:{infoView}]Beitrag[/info] in Jugl-Wiki gepostet"
+msgstr ""
+
+msgctxt "app"
+msgid "hat folgendes gekauft: [offer:{offerId}]'{offerTitle}'[/offer]"
+msgstr ""
+
+msgctxt "app"
+msgid "hat nicht auf Deine Anfrage zum Teamfestlegen geantwortet. Es ist nun wieder für alle Mitglieder von jugl.net zum Abwerben sichtbar."
+msgstr ""
+
+msgctxt "app"
+msgid "hat sein [myOfferRequest:{offerRequestId}]Gebot[/myOfferRequest] auf das Angebot [offer:{offerId}]\"{offerTitle}\"[/offer] von {oldBetPrice}€ auf {betPrice}€ verändert."
+msgstr ""
+
+msgctxt "app"
+msgid "heute neu:"
+msgstr ""
+
+msgctxt "app"
+msgid "hier Gutschein-Code eingeben"
+msgstr ""
+
+msgctxt "app"
+msgid "i-Informationen"
+msgstr ""
+
+msgctxt "app"
+msgid "ich habe abgemahnt"
+msgstr ""
+
+msgctxt "app"
+msgid "ich wurde abgemahnt"
+msgstr ""
+
+msgctxt "app"
+msgid "innerhalb von"
+msgstr ""
+
+msgctxt "app"
+msgid "invalid code"
+msgstr ""
+
+msgctxt "app"
+msgid "invalid offerview"
+msgstr ""
+
+msgctxt "app"
+msgid "invalid time"
+msgstr ""
+
+msgctxt "app"
+msgid "ist im Team von"
+msgstr ""
+
+msgctxt "app"
+msgid "ist jetzt in Deinem Netzwerk. Bitte nimm über den Messenger Kontakt zu Deinem neuen Mitglied auf und erkläre ihm, wie Jugl funktioniert."
+msgstr ""
+
+msgctxt "app"
+msgid "ist nun fest in Deinem Team."
+msgstr ""
+
+msgctxt "app"
+msgid "km"
+msgstr ""
+
+msgctxt "app"
+msgid "mind."
+msgstr ""
+
+msgctxt "app"
+msgid "mit"
+msgstr ""
+
+msgctxt "app"
+msgid "mit Dir, Deinem Ausweis und dem Zettel, auf dem \"jugl.net\" und Dein Name steht"
+msgstr ""
+
+msgctxt "app"
+msgid "mobile"
+msgstr ""
+
+msgctxt "app"
+msgid "n.v."
+msgstr ""
+
+msgctxt "app"
+msgid "nach Datum"
+msgstr ""
+
+msgctxt "app"
+msgid "nicht echt"
+msgstr ""
+
+msgctxt "app"
+msgid "noch {amount} verf&uuml;gbar"
+msgstr ""
+
+msgctxt "app"
+msgid "numTouchPointsAttributed"
+msgstr ""
+
+msgctxt "app"
+msgid "numTouchPointsTotal"
+msgstr ""
+
+msgctxt "app"
+msgid "offline"
+msgstr ""
+
+msgctxt "app"
+msgid "online"
+msgstr ""
+
+msgctxt "app"
+msgid "orderAmount"
+msgstr ""
+
+msgctxt "app"
+msgid "originatingClickDate"
+msgstr ""
+
+msgctxt "app"
+msgid "paidOut"
+msgstr ""
+
+msgctxt "app"
+msgid "per Jugls"
+msgstr ""
+
+msgctxt "app"
+msgid "per PayPal an"
+msgstr ""
+
+msgctxt "app"
+msgid "please select jugls amount"
+msgstr ""
+
+msgctxt "app"
+msgid "please select payin method"
+msgstr ""
+
+msgctxt "app"
+msgid "please select payout method"
+msgstr ""
+
+msgctxt "app"
+msgid "please specify max {max} emails at one time"
+msgstr ""
+
+msgctxt "app"
+msgid "please specify max {max} phones at one time"
+msgstr ""
+
+msgctxt "app"
+msgid "premium-mitglieder"
+msgstr ""
+
+msgctxt "app"
+msgid "premiumPlus-mitglieder"
+msgstr ""
+
+msgctxt "app"
+msgid "provider ID"
+msgstr ""
+
+msgctxt "app"
+msgid "provider id"
+msgstr ""
+
+msgctxt "app"
+msgid "registrationDate"
+msgstr ""
+
+msgctxt "app"
+msgid "rejectionReason"
+msgstr ""
+
+msgctxt "app"
+msgid "suchen..."
+msgstr ""
+
+msgctxt "app"
+msgid "the payment has been processed successfully!"
+msgstr ""
+
+msgctxt "app"
+msgid "the payment has not been processed."
+msgstr ""
+
+msgctxt "app"
+msgid "this user is already your friend"
+msgstr ""
+
+msgctxt "app"
+msgid "transactionStatus"
+msgstr ""
+
+msgctxt "app"
+msgid "transactionType"
+msgstr ""
+
+msgctxt "app"
+msgid "und wird sich mit dir in Verbindung setzen."
+msgstr ""
+
+msgctxt "app"
+msgid "update date"
+msgstr ""
+
+msgctxt "app"
+msgid "user doesn't exists"
+msgstr ""
+
+msgctxt "app"
+msgid "user_id"
+msgstr ""
+
+msgctxt "app"
+msgid "verkaufte Artikel"
+msgstr ""
+
+msgctxt "app"
+msgid "veröffentlichen"
+msgstr ""
+
+msgctxt "app"
+msgid "von"
+msgstr ""
+
+msgctxt "app"
+msgid "von selbst und du erhältst automatisch deine Belohnung wenn du dir für diese Zeit die Bannerwerbung ansiehst. Nicht hinter jedem Banner ist eine Belohnung versteckt."
+msgstr ""
+
+msgctxt "app"
+msgid "vorhandenes Jugl Konto"
+msgstr ""
+
+msgctxt "app"
+msgid "wenn Du innerhalb von"
+msgstr ""
+
+msgctxt "app"
+msgid "wählen"
+msgstr ""
+
+msgctxt "app"
+msgid "you already got werbebonus"
+msgstr ""
+
+msgctxt "app"
+msgid "z.B. +4917612345678"
+msgstr ""
+
+msgctxt "app"
+msgid "zum"
+msgstr ""
+
+msgctxt "app"
+msgid "zum Jugl-Forum"
+msgstr ""
+
+msgctxt "app"
+msgid "zur Startseite"
+msgstr ""
+
+msgctxt "app"
+msgid "{attribute} is invalid\"."
+msgstr ""
+
+msgctxt "app"
+msgid "{jugl_sum} Tokens für {currency_sum} Jugls gekauft"
+msgstr ""
+
+msgctxt "app"
+msgid "{param} darf nicht leer sein."
+msgstr ""
+
+msgctxt "app"
+msgid "{tokens} Tokens für {jugls} Jugls festgelegt"
+msgstr ""
+
+msgctxt "app"
+msgid "{tokens} Tokens für {jugls} Jugls gekauft"
+msgstr ""
+
+msgctxt "app"
+msgid "{user} hat Dein Teamleading bewertet. [teamFeedbacks]"
+msgstr ""
+
+msgctxt "app"
+msgid "{user} hat den Chat \"{title}\" gelöscht."
+msgstr ""
+
+msgctxt "app"
+msgid "{user} hat seine Teamleadingbewertung geändert. [teamFeedbacks]"
+msgstr ""
+
+msgctxt "app"
+msgid "   Übersetzer    "
+msgstr ""
+
+msgctxt "app"
+msgid "Änderungsprotokoll"
+msgstr ""
+
+msgctxt "app"
+msgid "Über"
+msgstr ""
+
+msgctxt "app"
+msgid "Über Jugl von<br/><a href=\"{link}\">{name}</a>"
+msgstr ""
+
+msgctxt "app"
+msgid "Über Uns"
+msgstr ""
+
+msgctxt "app"
+msgid "Über dieses Gerät wurde bereits ein Jugl-Profil erstellt.\nPro User ist nur eine Mitgliedschaft gestattet.\nWenn Du Mitglied werden möchtest und kein Smartphone hast, lass Dir von einem Freund einen VIP-Code für Jugl zusenden.\nDiesen erhält er unter www.jugl.net."
+msgstr ""
+
+msgctxt "app"
+msgid "Über dieses Gerät wurde bereits ein Jugl-Profil erstellt.\nPro User ist nur eine Mitgliedschaft gestattet.Über 'Mitglied werden' kannst du dein Facebook Konto mit deinem vorhandenen Jugl Konto verknüpfen."
+msgstr ""
+
+msgctxt "app"
+msgid "Überblick Einladungen"
+msgstr ""
+
+msgctxt "app"
+msgid "Übersetzer"
+msgstr ""
+
+msgctxt "app"
+msgid "Übersetzungen"
+msgstr ""
+
+msgctxt "app"
+msgid "Überweisung durch den Administrator {admin}"
+msgstr ""
+
+msgctxt "app"
+msgid "übernimmt die Teamleaderschaft für {name}."
+msgstr ""
+
+msgctxt "app"
+msgid "Аngenommen"
+msgstr ""
+

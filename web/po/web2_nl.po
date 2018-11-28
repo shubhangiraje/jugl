@@ -1,0 +1,1247 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"PO-Revision-Date: 2018-05-29 16:53+0000\n"
+"Last-Translator: Koos Boot <kosende@yahoo.de>\n"
+"Language-Team: Dutch <http://jugl.pimentagroup.de/projects/jugl-website/jugl-"
+"web-client/nl/>\n"
+"Language: nl\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.20-dev\n"
+
+#: services/InviteService.js:11
+msgid ""
+"<p>Wenn Du auf 'Einverstanden' klickst, bist Du verpflichtet, dieses "
+"Mitglied zu betreuen, d.h. Kontakt zu ihm aufzunehmen und ihm Jugl.net zu "
+"erklären.</p><p>Erkläre ihm Jugl.net daher genau, damit Dein Netzwerk ein "
+"aktives Mitglied gewinnt.</p>"
+msgstr ""
+"<p>Wanneer je op  'Accepteren' klikt, ben je verplicht, dit lid te helpen, "
+"dat betekend, Contact opnemen en Jugl.net goed uitleggen.</p><p>Verklaar "
+"goed hoe Jugl.net werkt, zodat jouw netwerk er een actief lid bij krijgt.</p>"
+
+#: directives/eventText.js:37 directives/eventText.js:87
+msgid "Ablehnen"
+msgstr "Afkeuren"
+
+#: directives/eventText.js:63
+msgid "Abmahnen"
+msgstr "Waarschuwen"
+
+#: controllers/ActivityLogCtrl.js:155
+msgid ""
+"Achtung! Durch die Annahme dieser Teamanfrage verlässt Du Dein aktuelles "
+"Team.- Tu dies nur, wenn Du mit Deinem aktuellen Teamleiter unzufrieden bist."
+msgstr ""
+"Let op! Door het aannemen van deze Teamwissel, verlaat je jouw actuele team. "
+"Doe dit alleen, wanneer je met je huidige teamleider ontevreden bent."
+
+#: country.php:4
+msgid "Afghanistan"
+msgstr "Afganistan"
+
+#: country.php:5
+msgid "Albania"
+msgstr "Albanië"
+
+#: country.php:6
+msgid "Algeria"
+msgstr "Algerije"
+
+#: country.php:7
+msgid "Andorra"
+msgstr "Andorra"
+
+#: country.php:8
+msgid "Angola"
+msgstr "Angola"
+
+#: directives/eventText.js:35
+msgid "Annehmen"
+msgstr "Aannemen"
+
+#: country.php:9
+msgid "Antigua & Deps"
+msgstr "Antigua & Barbuda"
+
+#: country.php:10
+msgid "Argentina"
+msgstr "Argentinië"
+
+#: country.php:11
+msgid "Armenia"
+msgstr "Armenië"
+
+#: country.php:12
+msgid "Australia"
+msgstr "Australië"
+
+#: country.php:2
+msgid "Austria"
+msgstr "Oostenrijk"
+
+#: country.php:13
+msgid "Azerbaijan"
+msgstr "Azerbeidzjan"
+
+#: country.php:14
+msgid "Bahamas"
+msgstr "Bahama's"
+
+#: country.php:15
+msgid "Bahrain"
+msgstr "Bahrein"
+
+#: country.php:16
+msgid "Bangladesh"
+msgstr "Bangladesch"
+
+#: country.php:17
+msgid "Barbados"
+msgstr "Barbados"
+
+#: country.php:18
+msgid "Belarus"
+msgstr "Wit-Rusland"
+
+#: country.php:19
+msgid "Belgium"
+msgstr "België"
+
+#: country.php:20
+msgid "Belize"
+msgstr "Belize"
+
+#: country.php:21
+msgid "Benin"
+msgstr "Benin"
+
+#: directives/eventText.js:41 directives/eventText.js:43
+#: directives/eventText.js:45 directives/eventText.js:47
+#: directives/eventText.js:49 directives/eventText.js:51
+msgid "Bewerten"
+msgstr "Beoordelen"
+
+#: country.php:22
+msgid "Bhutan"
+msgstr "Bhutan"
+
+#: controllers/AllFunctionsCtrl.js:4
+msgid ""
+"Bitte sende uns eine Email mit der Begründung, warum du den Account löschen "
+"möchtest an juglapp@gmx.de"
+msgstr ""
+"Stuur ons alsjeblieft een email met de reden, waarom je je account op wilt "
+"heffen, aan JuglApp@gmx.de"
+
+#: country.php:23
+msgid "Bolivia"
+msgstr "Bolivia"
+
+#: country.php:24
+msgid "Bosnia Herzegovina"
+msgstr "Bosnië Herzegovina"
+
+#: country.php:25
+msgid "Botswana"
+msgstr "Botswana"
+
+#: country.php:26
+msgid "Brazil"
+msgstr "Brazilië"
+
+#: country.php:27
+msgid "Brunei"
+msgstr "Brunei"
+
+#: country.php:28
+msgid "Bulgaria"
+msgstr "Bulgarije"
+
+#: country.php:29
+msgid "Burkina"
+msgstr "Burkina"
+
+#: country.php:30
+msgid "Burundi"
+msgstr "Burundi"
+
+#: country.php:31
+msgid "Cambodia"
+msgstr "Cambodja"
+
+#: country.php:32
+msgid "Cameroon"
+msgstr "Kameroen"
+
+#: services/ModalService.js:126
+msgid "Can't connect to server. Check your internet connection"
+msgstr "Kan niet verbinden met de server. Check je internet verbinding"
+
+#: country.php:33
+msgid "Canada"
+msgstr "Canada"
+
+#: services/InviteService.js:41 services/ModalService.js:55
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: country.php:34
+msgid "Cape Verde"
+msgstr "Kaapverdie"
+
+#: country.php:35
+msgid "Central African Rep"
+msgstr "Centraal Afrikaanse Republiek"
+
+#: country.php:36
+msgid "Chad"
+msgstr "Tsjaad"
+
+#: country.php:37
+msgid "Chile"
+msgstr "Chili"
+
+#: country.php:38
+msgid "China"
+msgstr "China"
+
+#: country.php:39
+msgid "Colombia"
+msgstr "Colombia"
+
+#: country.php:40
+msgid "Comoros"
+msgstr "Comoren"
+
+#: services/ModalService.js:40
+msgid "Confirm the action"
+msgstr "Actie bevestigen"
+
+#: country.php:41
+msgid "Congo"
+msgstr "Congo"
+
+#: country.php:42
+msgid "Congo {Democratic Rep}"
+msgstr "Congo {Democratische Rep}"
+
+#: country.php:43
+msgid "Costa Rica"
+msgstr "Costa Rica"
+
+#: country.php:44
+msgid "Croatia"
+msgstr "Kroatië"
+
+#: country.php:45
+msgid "Cuba"
+msgstr "Cuba"
+
+#: country.php:46
+msgid "Cyprus"
+msgstr "Cyprus"
+
+#: country.php:47
+msgid "Czech Republic"
+msgstr "Tsjechië"
+
+#: controllers/FavoritesCtrl.js:30
+msgid "Delete favorite?"
+msgstr "verwijder favorieten?"
+
+#: country.php:48
+msgid "Denmark"
+msgstr "Denemarken"
+
+#: services/InviteService.js:51
+msgid "Diese Funktion ist nur für Premium-Mitglieder."
+msgstr "Deze functie is alleen voor Premium-deelnemers."
+
+#: controllers/UserProfileCtrl.js:145
+msgid "Diese Funktion steht nur Premium Mitgliedern zur Verfügung."
+msgstr "Deze functie is alleen beschikbaar voor Premium-leden."
+
+#: country.php:49
+msgid "Djibouti"
+msgstr "Djibouti"
+
+#: country.php:50
+msgid "Dominica"
+msgstr "Dominica"
+
+#: country.php:51
+msgid "Dominican Republic"
+msgstr "Dominicaanse republiek"
+
+#: controllers/SearchRequestAddCtrl.js:90
+msgid ""
+"Du hast Deine Suchanzeige erfolgreich erstellt. Du findest Deine Anzeige "
+"unter \"Suchauftrag -> Was wird mir angeboten\""
+msgstr ""
+"Je hebt je zoekopdracht succesvol opgegeven. Je kunt je advertentie onder "
+"\"Zoekopdracht -> wat wordt mij aangeboden\""
+
+#: controllers/OfferAddCtrl.js:222 controllers/OfferPreviewCtrl.js:57
+msgid ""
+"Du hast Deine Werbung erfolgreich geschaltet. Du findest Deine Werbung unter "
+"\"Werbung schalten - Werbung verwalten\""
+msgstr ""
+"Je hebt je advertentie succesvol opgegeven. Je kunt je advertentie onder "
+"\"Advertentie opgeven - Advertentie beheren\""
+
+#: controllers/OfferDetailsCtrl.js:31
+msgid ""
+"Du hast bereits auf diesen Artikel geboten, bist du dir sicher, dass du ein "
+"weiteres Gebot abgeben möchtest?"
+msgstr ""
+"Je hebt al op dit artikel geboden, ben je zeker, dat je een verder bot wil "
+"doen?"
+
+#: controllers/SearchRequestOfferAddCtrl.js:49
+msgid "Du hast ein Angebot auf diese Suchanzeige erfolgreich abgegeben!"
+msgstr "Je hebt een aanbod op deze zoekopdracht afgegeven!"
+
+#: controllers/OfferMyListCtrl.js:38
+msgid ""
+"Du hast erfolgreich einen Kaufinteressenten akzeptiert. Er wurde "
+"benachrichtigt."
+msgstr ""
+"Je hebt een potentiele koper geaccepteerd, hij/zij heeft een bericht "
+"ontvangen."
+
+#: controllers/InterestsAddStep1Ctrl.js:17
+#: controllers/InterestsAddStep2Ctrl.js:18
+#: controllers/InterestsAddStep2Ctrl.js:41
+#: controllers/InterestsAddStep3Ctrl.js:40
+msgid "Du hast erfolgreich neue Interessen hinzugef&uuml;gt."
+msgstr "Je hebt succesvol een nieuwe interesse toegevoegd."
+
+#: controllers/TrollboxCtrl.js:248
+msgid "Du wurdest für alle Foren von einem Moderator gesperrt"
+msgstr "Je bent door een Moderator voor alle Fora geblokkeerd"
+
+#: country.php:52
+msgid "East Timor"
+msgstr "Oost Timor"
+
+#: country.php:53
+msgid "Ecuador"
+msgstr "Ecuador"
+
+#: country.php:54
+msgid "Egypt"
+msgstr "Egypte"
+
+#: services/InviteService.js:15
+msgid "Einverstanden"
+msgstr "Geaccepteerd"
+
+#: country.php:55
+msgid "El Salvador"
+msgstr "El Salvador"
+
+#: country.php:56
+msgid "Equatorial Guinea"
+msgstr "Equatoriaal-Guinea"
+
+#: country.php:57
+msgid "Eritrea"
+msgstr "Eritrea"
+
+#: directives/eventText.js:33
+msgid "Erneut erwerben"
+msgstr "opnieuw verkrijgen"
+
+#: services/ModalService.js:119
+msgid "Error"
+msgstr "Fout!"
+
+#: services/ModalService.js:120
+msgid "Error while performing server request (code )"
+msgstr "Fout bij server aanvraag ( code)"
+
+#: country.php:58
+msgid "Estonia"
+msgstr "Estland"
+
+#: country.php:59
+msgid "Ethiopia"
+msgstr "Ethiopië"
+
+#: country.php:60
+msgid "Fiji"
+msgstr "Fuji"
+
+#: app.js:1467 app.js:1493 app.js:1540
+msgid "File is too big, max file size is 50MB"
+msgstr "Bestand is te groot, maximale bestandsgrote 50 MB"
+
+#: country.php:61
+msgid "Finland"
+msgstr "Finland"
+
+#: country.php:62
+msgid "France"
+msgstr "Frankrijk"
+
+#: country.php:63
+msgid "Gabon"
+msgstr "Gabon"
+
+#: country.php:64
+msgid "Gambia"
+msgstr "Gambia"
+
+#: directives/eventText.js:61
+msgid "Geldeingang bestätigen"
+msgstr "Betaling bevestigen"
+
+#: controllers/ActivityLogCtrl.js:212
+msgid "Geldeingang wurde erfolgreich bestätigt"
+msgstr "Betaling is met succes bevestigd"
+
+#: country.php:65
+msgid "Georgia"
+msgstr "Georgië"
+
+#: country.php:1
+msgid "Germany"
+msgstr "Duitsland"
+
+#: country.php:66
+msgid "Ghana"
+msgstr "Ghana"
+
+#: country.php:67
+msgid "Greece"
+msgstr "Griekenland"
+
+#: country.php:68
+msgid "Grenada"
+msgstr "Grenada"
+
+#: country.php:69
+msgid "Guatemala"
+msgstr "Guatemala"
+
+#: country.php:70
+msgid "Guinea"
+msgstr "Guinea"
+
+#: country.php:71
+msgid "Guinea-Bissau"
+msgstr "Guinea-Bissau"
+
+#: country.php:72
+msgid "Guyana"
+msgstr "Guyana"
+
+#: country.php:73
+msgid "Haiti"
+msgstr "Haïti"
+
+#: controllers/FriendsInvitationInviteCtrl.js:11
+#: controllers/FriendsInvitationInviteCtrl.js:7
+msgid ""
+"Hallo, schau Dir diese neue App an und gib mir bitte ein Feedback. Liebe "
+"Grüße\n"
+"{link}\n"
+"\n"
+"\n"
+"Und hier noch das Video dazu:\n"
+"https://youtu.be/X5h0JSLQP-Y"
+msgstr ""
+"Hallo, Bekijk deze nieuwe App eens, en geef me Feedback. Vriendelijke groet\n"
+"{link}\n"
+"\n"
+"\n"
+"En hier nog een bijbehorende video:\n"
+"https://youtu.be/X5h0JSLQP-Y"
+
+#: controllers/OfferAddCtrl.js:238
+msgid ""
+"Hinweis für Händler! Bitte achte darauf, dass Du bei Jugl nichts teurer "
+"anbietest, als Du es auf anderen Websites tust."
+msgstr ""
+"Aanwijzing voor handelaren! Denk er s.v.p. aan, Bied bij Jugl uw producten "
+"niet duurder aan als dat u dat op andere websites doet."
+
+#: country.php:74
+msgid "Honduras"
+msgstr "Honduras"
+
+#: country.php:75
+msgid "Hungary"
+msgstr "Hongarije"
+
+#: country.php:76
+msgid "Iceland"
+msgstr "Ijsland"
+
+#: services/UserStatusService.js:98
+msgid "Ihre Sprach- und Landeinstellungen wurden automatisch angepasst"
+msgstr ""
+
+#: app.js:1484 app.js:1492
+msgid "Image and video upload"
+msgstr "foto en video upload"
+
+#: app.js:1458 app.js:1466 app.js:1531 app.js:1539
+msgid "Image upload"
+msgstr "Afbeelding versturen"
+
+#: country.php:77
+msgid "India"
+msgstr "India"
+
+#: country.php:78
+msgid "Indonesia"
+msgstr "Indonesië"
+
+#: country.php:79
+msgid "Iran"
+msgstr "Iran"
+
+#: country.php:80
+msgid "Iraq"
+msgstr "Iraq"
+
+#: country.php:81
+msgid "Ireland {Republic}"
+msgstr "Ierland (republiek)"
+
+#: country.php:82
+msgid "Israel"
+msgstr "Israël"
+
+#: country.php:83
+msgid "Italy"
+msgstr "Italië"
+
+#: country.php:84
+msgid "Ivory Coast"
+msgstr "Ivoorkust"
+
+#: directives/eventText.js:81
+msgid "Ja"
+msgstr "Ja"
+
+#: controllers/ActivityLogCtrl.js:156
+msgid "Ja, Teamleiter wechseln"
+msgstr "Ja, teamleider wisselen"
+
+#: country.php:85
+msgid "Jamaica"
+msgstr "Jamaica"
+
+#: country.php:86
+msgid "Japan"
+msgstr "Japan"
+
+#: directives/eventText.js:59
+msgid "Jetzt Bezahlen"
+msgstr "Direct betalen"
+
+#: controllers/UserProfileCtrl.js:149
+msgid "Jetzt Premium-Mitglied werden"
+msgstr "Nu Premium-gebruiker worden"
+
+#: directives/eventText.js:23
+msgid "Jetzt Premium/PremiumPlus Midglied werden"
+msgstr "Nu Premium/PremiumPlus-lid worden"
+
+#: directives/eventText.js:22
+msgid "Jetzt PremiumPlus Midglied werden"
+msgstr "Nu PremiumPlus deelnemer worden"
+
+#: services/InviteService.js:55
+msgid "Jetzt PremiumPlus-Mitglied werden"
+msgstr "Nu PremiumPlus-lid worden"
+
+#: country.php:87
+msgid "Jordan"
+msgstr "Jordanië"
+
+#: controllers/SearchRequestOfferDetailsCtrl.js:15
+msgid "Jugls aufladen"
+msgstr "Jugls opwaarderen"
+
+#: controllers/OfferMyListCtrl.js:48
+msgid ""
+"Kannst Du Dein Gebot für das Angebot \"{{title}}\" bitte noch einmal "
+"wiederholen? Ich würde es gerne annehmen."
+msgstr ""
+"Kun je jouw bod voor de aanbieding van \"{{title}}\" s.v.p. nog een keer "
+"doen? Ik wil je bod graag aannemen."
+
+#: country.php:88
+msgid "Kazakhstan"
+msgstr "Kazachstan"
+
+#: country.php:89
+msgid "Kenya"
+msgstr "Kenia"
+
+#: country.php:90
+msgid "Kiribati"
+msgstr "Kiribati"
+
+#: country.php:91
+msgid "Korea North"
+msgstr "Noord Korea"
+
+#: country.php:92
+msgid "Korea South"
+msgstr "Zuid Korea"
+
+#: country.php:93
+msgid "Kosovo"
+msgstr "Kosovo"
+
+#: country.php:94
+msgid "Kuwait"
+msgstr "Koeweit"
+
+#: country.php:95
+msgid "Kyrgyzstan"
+msgstr "Kirgizische Republiek"
+
+#: country.php:96
+msgid "Laos"
+msgstr "Laos"
+
+#: country.php:97
+msgid "Latvia"
+msgstr "Letland (Republiek)"
+
+#: country.php:98
+msgid "Lebanon"
+msgstr "Libanon"
+
+#: controllers/InfoPopupCtrl.js:77
+msgid ""
+"Leider hast Du keine Premium-Mitgliedschaft um diese Funktion nutzen zu "
+"können."
+msgstr ""
+"Helaas heb je geen Premium-lidmaatschap, dat is nodig, om deze functie te "
+"kunnen gebruiken."
+
+#: country.php:99
+msgid "Lesotho"
+msgstr "Lesotho (Koninkrijk)"
+
+#: country.php:100
+msgid "Liberia"
+msgstr "Liberia"
+
+#: country.php:101
+msgid "Libya"
+msgstr "Libië (Staat)"
+
+#: controllers/UserProfileCtrl.js:170
+msgid "Lieber Jugler, ein Teamwechsel ist nur alle 24h möglich."
+msgstr "Beste Jugler, een teamwissel is maar 1 keer per 24 uur mogelijk."
+
+#: country.php:102
+msgid "Liechtenstein"
+msgstr "Liechtenstein"
+
+#: country.php:103
+msgid "Lithuania"
+msgstr "Litouwen (Republiek)"
+
+#: country.php:104
+msgid "Luxembourg"
+msgstr "Luxemburg"
+
+#: country.php:105
+msgid "Macedonia"
+msgstr "Macedonia"
+
+#: country.php:106
+msgid "Madagascar"
+msgstr "Madagascar"
+
+#: controllers/OfferRequestPaymentComplaintPopupCtrl.js:11
+msgid "Mahnung erfolgreich gesendet"
+msgstr "Betalingsherinnering succesvol verstuurd"
+
+#: country.php:107
+msgid "Malawi"
+msgstr "Malawi"
+
+#: country.php:108
+msgid "Malaysia"
+msgstr "Maleisië"
+
+#: country.php:109
+msgid "Maldives"
+msgstr "Maldiven (Republiek der Maldiven)"
+
+#: country.php:110
+msgid "Mali"
+msgstr "Mali"
+
+#: country.php:111
+msgid "Malta"
+msgstr "Malta"
+
+#: country.php:112
+msgid "Marshall Islands"
+msgstr "Marshalleilanden (Republiek der)"
+
+#: country.php:113
+msgid "Mauritania"
+msgstr "Mauritanië"
+
+#: country.php:114
+msgid "Mauritius"
+msgstr "Mauritius (Republiek)"
+
+#: country.php:115
+msgid "Mexico"
+msgstr "Mexico"
+
+#: country.php:116
+msgid "Micronesia"
+msgstr "Micronesia (Federale Staten van)"
+
+#: directives/eventText.js:31
+msgid "Mitgliedschaft jetzt verlängern"
+msgstr "Lidmaatschap nu verlengen"
+
+#: country.php:117
+msgid "Moldova"
+msgstr "Moldavië (Republiek)"
+
+#: country.php:118
+msgid "Monaco"
+msgstr "Monaco"
+
+#: country.php:119
+msgid "Mongolia"
+msgstr "Mongolië"
+
+#: country.php:120
+msgid "Montenegro"
+msgstr "Montenegro"
+
+#: country.php:121
+msgid "Morocco"
+msgstr "Marokko (Koninkrijk)"
+
+#: country.php:122
+msgid "Mozambique"
+msgstr "Mozambique (Republiek)"
+
+#: country.php:123
+msgid "Myanmar, {Burma}"
+msgstr "Myanmar / Birma (Republiek Unie van)"
+
+#: controllers/ActivityLogCtrl.js:198
+msgid "Möchten sie wirklich Geldeingang bestätigen?"
+msgstr "Wil je de betaling bevestigen?"
+
+#: controllers/ActivityLogCtrl.js:222
+msgid "Möchten sie wirklich Spammeldung zurücknehmen?"
+msgstr "Wil je echt je spammelding intrekken?"
+
+#: controllers/UserProfileCtrl.js:348 controllers/UserProfileCtrl.js:374
+msgid "Möchtest Du  wirklich aus Deinen Kontakten entfernen?"
+msgstr "Wil je   werkelijk uit je contacten verwijderen?"
+
+#: controllers/DealsCompletedCtrl.js:116
+#: controllers/SearchRequestDraftCtrl.js:49
+#: controllers/SearchRequestMyListCtrl.js:22
+msgid "Möchtest Du Deine Suchanzeige endgültig löschen?"
+msgstr "Wil je echt je zoekopdracht definitief verwijderen?"
+
+#: controllers/RegistrationPaymentCtrl.js:29
+msgid ""
+"Möchtest Du wirklich das Standard-Paket wählen? Dadurch verzichtest Du auf "
+"viele Vorteile des Premium-Pakets wie z.B. höhere Provisionen und geringere "
+"Abgaben. Bitte beachte, das eine nachträgliche Änderung des gewählten Pakets "
+"möglich ist, jedoch nicht mehr zu diesem Preis."
+msgstr ""
+"Wil je echt het standaard-pakket kiezen? daardoor zie je af van veel "
+"voordelen die het Premium-pakket heeft, zoals meer inkomsten en minder "
+"afdracht. Let op, je kunt naderhand altijd nog een upgrade doen, echter niet "
+"voor deze prijs."
+
+#: services/MessengerService.js:35
+msgid "Möchtest Du wirklich die gewählten Nachrichten löschen?"
+msgstr "Wil je echt de geselecteerde berichten verwijderen?"
+
+#: controllers/FriendsInvitationInvitationsCtrl.js:47
+msgid "Möchtest du die Einladung löschen?"
+msgstr "Wil je de uitnodiging annuleren?"
+
+#: controllers/SearchRequestMyListCtrl.js:43
+msgid ""
+"Nachdem Du deine Suchanzeige abschaltest, landet sie unter \"Geschäfte & "
+"Bewertungen\". Möchtest Du die Anzeige wirklich abschalten?"
+msgstr ""
+"Nadat je jouw zoekadvertentie uitzet, komt deze onder \"Zaken & Beoordelingen"
+"\". Wil je deze advertentie echt uitzetten?"
+
+#: country.php:124
+msgid "Namibia"
+msgstr "Namibië (Republiek)"
+
+#: country.php:125
+msgid "Nauru"
+msgstr "Nauru (Republiek)"
+
+#: directives/eventText.js:83
+msgid "Nein"
+msgstr "Nee"
+
+#: controllers/ActivityLogCtrl.js:157
+msgid "Nein, beim aktuellen Teamleiter bleiben"
+msgstr "Nee, bij de huidige teamleider blijven"
+
+#: country.php:126
+msgid "Nepal"
+msgstr "Nepal"
+
+#: country.php:127
+msgid "Netherlands"
+msgstr "Nederland"
+
+#: country.php:128
+msgid "New Zealand"
+msgstr "Nieuw-Zeeland"
+
+#: country.php:129
+msgid "Nicaragua"
+msgstr "Nicaragua (Republiek)"
+
+#: country.php:130
+msgid "Niger"
+msgstr "Niger"
+
+#: country.php:131
+msgid "Nigeria"
+msgstr "Nigeria"
+
+#: country.php:132
+msgid "Norway"
+msgstr "Noorwegen"
+
+#: controllers/UserProfileCtrl.js:157 services/InviteService.js:63
+#: services/ModalService.js:47
+msgid "Ok"
+msgstr "Ok"
+
+#: country.php:133
+msgid "Oman"
+msgstr "Oman"
+
+#: country.php:134
+msgid "Pakistan"
+msgstr "Pakistan"
+
+#: country.php:135
+msgid "Palau"
+msgstr "Palau (Republiek)"
+
+#: country.php:136
+msgid "Panama"
+msgstr "Panama"
+
+#: country.php:137
+msgid "Papua New Guinea"
+msgstr "Papoea-Nieuw-Guinea"
+
+#: country.php:138
+msgid "Paraguay"
+msgstr "Paraguay (Republiek)"
+
+#: country.php:139
+msgid "Peru"
+msgstr "Peru"
+
+#: country.php:140
+msgid "Philippines"
+msgstr "Filipijnen (Republiek)"
+
+#: country.php:141
+msgid "Poland"
+msgstr "Polen"
+
+#: country.php:142
+msgid "Portugal"
+msgstr "Portugal"
+
+#: controllers/RegistrationPaymentCtrl.js:32
+msgid "Premium-Paket wählen"
+msgstr "Premium-pakket kiezen"
+
+#: services/ModalService.js:125 services/ModalService.js:93
+msgid "Problem"
+msgstr "Probleem"
+
+#: country.php:143
+msgid "Qatar"
+msgstr "Qatar"
+
+#: country.php:144
+msgid "Romania"
+msgstr "Roemenië"
+
+#: country.php:145
+msgid "Russian Federation"
+msgstr "Russische Federatie (Rusland)"
+
+#: country.php:146
+msgid "Rwanda"
+msgstr "Rwanda (republiek)"
+
+#: country.php:149
+msgid "Saint Vincent & the Grenadines"
+msgstr "Saint Vincent en de Grenadines"
+
+#: country.php:150
+msgid "Samoa"
+msgstr "Samoa"
+
+#: country.php:151
+msgid "San Marino"
+msgstr "San Marino (Republiek)"
+
+#: country.php:152
+msgid "Sao Tome & Principe"
+msgstr "Sao Tomé en Principe"
+
+#: country.php:153
+msgid "Saudi Arabia"
+msgstr "Saoedi-Arabië"
+
+#: country.php:154
+msgid "Senegal"
+msgstr "Senegal"
+
+#: country.php:155
+msgid "Serbia"
+msgstr "Servië"
+
+#: country.php:156
+msgid "Seychelles"
+msgstr "Seychellen (Republiek)"
+
+#: app.js:1532
+msgid ""
+"Sie können nur Bilder oder Videos mit folgenden Erweiterungen hochladen: ."
+"JPG, .JPEG, .PNG, .MP4"
+msgstr ""
+"Je kunt alleen afbeeldingen of video's versturen met de volgende extensies: ."
+"JPG, .JPEG, .PNG, .MP4"
+
+#: country.php:157
+msgid "Sierra Leone"
+msgstr "Sierra Leone (republiek)"
+
+#: country.php:158
+msgid "Singapore"
+msgstr "Singapore"
+
+#: country.php:159
+msgid "Slovakia"
+msgstr "Slowakije (Slovakije)"
+
+#: country.php:160
+msgid "Slovenia"
+msgstr "Slovenië (Republiek)"
+
+#: country.php:161
+msgid "Solomon Islands"
+msgstr "Salomonseilanden"
+
+#: country.php:162
+msgid "Somalia"
+msgstr "Somalië (Republiek)"
+
+#: country.php:163
+msgid "South Africa"
+msgstr "Zuid Afrika"
+
+#: country.php:164
+msgid "South Sudan"
+msgstr "Zuid-Soedan"
+
+#: country.php:165
+msgid "Spain"
+msgstr "Spanje"
+
+#: directives/eventText.js:25
+msgid "Spammeldung zurücknehmen"
+msgstr "Spammelding intrekken"
+
+#: controllers/SearchRequestOfferDetailsCtrl.js:23
+msgid "Später aufladen"
+msgstr "Later Opladen"
+
+#: country.php:166
+msgid "Sri Lanka"
+msgstr "Sri Lanka (republiek)"
+
+#: country.php:147
+msgid "St Kitts & Nevis"
+msgstr "Saint Kitts en Nevis / Saint Christopher (federatie)"
+
+#: country.php:148
+msgid "St Lucia"
+msgstr "Saint Lucia"
+
+#: controllers/RegistrationPaymentCtrl.js:43
+msgid "Standard-Paket wählen"
+msgstr "Standaardpakket kiezen"
+
+#: country.php:167
+msgid "Sudan"
+msgstr "Sudan (Republiek Soedan)"
+
+#: country.php:168
+msgid "Suriname"
+msgstr "Suriname"
+
+#: country.php:169
+msgid "Swaziland"
+msgstr "Swaziland (Koninkrijk eSwatini)"
+
+#: country.php:170
+msgid "Sweden"
+msgstr "Zweden"
+
+#: country.php:3
+msgid "Switzerland"
+msgstr "Zwitserland"
+
+#: country.php:171
+msgid "Syria"
+msgstr "Syrië"
+
+#: country.php:172
+msgid "Taiwan"
+msgstr "Taiwan (Republiek China)"
+
+#: country.php:173
+msgid "Tajikistan"
+msgstr "Tadzjikistan (Republiek)"
+
+#: country.php:174
+msgid "Tanzania"
+msgstr "Tanzania"
+
+#: directives/eventText.js:27
+msgid "Teamanfragen erlauben"
+msgstr "Teamaanvragen toestaan"
+
+#: directives/eventText.js:27
+msgid "Teamanfragen stoppen"
+msgstr "Teamaanvragen stoppen"
+
+#: country.php:175
+msgid "Thailand"
+msgstr "Thailand"
+
+#: country.php:176
+msgid "Togo"
+msgstr "Togo"
+
+#: country.php:177
+msgid "Tonga"
+msgstr "Tonga"
+
+#: country.php:178
+msgid "Trinidad & Tobago"
+msgstr "Trinidad en Tobago"
+
+#: country.php:179
+msgid "Tunisia"
+msgstr "Tunesië"
+
+#: country.php:180
+msgid "Turkey"
+msgstr "Turkije"
+
+#: country.php:181
+msgid "Turkmenistan"
+msgstr "Turkmenistan"
+
+#: country.php:182
+msgid "Tuvalu"
+msgstr "Tuvalu"
+
+#: country.php:183
+msgid "Uganda"
+msgstr "Oeganda"
+
+#: country.php:184
+msgid "Ukraine"
+msgstr "Oekraïne"
+
+#: controllers/ProfileUpdateCtrl.js:77 controllers/ProfileUpdateCtrl.js:82
+msgid ""
+"Um Dein Profil zu löschen, stelle bitte einen schriftlichen Antrag auf "
+"Löschung mit der eMail Adresse mit der Du Dich registriert hast. Bitte mit "
+"Vor- und Nachnamen, vollständiger Anschrift und deiner Unterschrift an "
+"juglapp@gmx.de. Wir bitten um Verständnis, dass wir dies fordern, um "
+"Missbrauch zu vermeiden."
+msgstr ""
+"Om je profiel te wissen, dien je schriftelijk (via email) daarvoor een "
+"aanvraag in te dienen vanaf het emailadres waarmee je geregistreerd hebt. S."
+"v.p. met voor en achternaam, volledige adres en jouw handtekening aan "
+"juglapp@gmx.de Wij vragen om begrip dat we deze gegevens nodig hebben. Dit "
+"uiteraard om misbruik te voorkomen."
+
+#: country.php:185
+msgid "United Arab Emirates"
+msgstr "Verenigde Arabische Emiraten"
+
+#: country.php:186
+msgid "United Kingdom"
+msgstr "Verenigd Koninkrijk (van Groot-Brittannië en Noord-Ierland)"
+
+#: country.php:187
+msgid "United States"
+msgstr "Verenigde Staten (Amerika)"
+
+#: country.php:188
+msgid "Uruguay"
+msgstr "Uruguay (Republiek)"
+
+#: country.php:189
+msgid "Uzbekistan"
+msgstr "Oezbekistan (Republiek)"
+
+#: country.php:190
+msgid "Vanuatu"
+msgstr "Vanuatu (Republiek)"
+
+#: country.php:191
+msgid "Vatican City"
+msgstr "Vatikaanstad"
+
+#: country.php:192
+msgid "Venezuela"
+msgstr "Venezuela (republiek)"
+
+#: controllers/OfferAddCtrl.js:220 controllers/OfferPreviewCtrl.js:55
+msgid ""
+"Vielen Dank, dass Sie bei Jugl annoncieren. Ihre Anzeige wird "
+"schnellstmöglich geprüft. Mit freundlichen Grüßen, Ihr Jugl-Team."
+msgstr ""
+"Hartelijk dank, dat je bij Jugl wil adverteren. Jouw advertentie zal zo snel "
+"mogelijk gecontroleerd worden. Met vriendelijke groet, Jouw Jugl-Team."
+
+#: controllers/ProfileUpdateCtrl.js:45
+msgid ""
+"Vielen Dank, deine Hilfe-Anfrage wurde an unser Team weitergeleitet. Wir "
+"werden uns mit dir in Kürze in Verbindung setzen."
+msgstr ""
+"Dank voor je hulp-aanvraag, het is doorgestuurd naar het team. Die nemen zo "
+"snel mogelijk contact met je op."
+
+#: controllers/SearchRequestAddCtrl.js:88
+msgid ""
+"Vielen Dank. Ihr Suchauftrag wird schnellstmöglich geprüft. Mit freundlichen "
+"Grüßen, Ihr Jugl-Team."
+msgstr ""
+"Hartelijk dank voor je zoekopdracht, deze zal zo snel mogelijk gecontroleerd "
+"worden. Met vriendelijke groet, het Jugl-Team."
+
+#: country.php:193
+msgid "Vietnam"
+msgstr "Vietnam"
+
+#: controllers/OfferDraftCtrl.js:49
+msgid "Willst Du Deine Werbung endgültig löschen?"
+msgstr ""
+
+#: controllers/UserProfileCtrl.js:497
+msgid "Willst Du Deinen Beitrag wirklich löschen?"
+msgstr "Wil je jouw bijdrage echt wissen?"
+
+#: controllers/DashboardNewCtrl.js:490 controllers/TrollboxCtrl.js:364
+#: controllers/UserProfileCtrl.js:565 services/MessengerService.js:118
+msgid "Willst Du wirklich den Benutzer für alle Foren entsperren?"
+msgstr "Wil je deze gebruiker echt voor alle fora DE-blokkeren?"
+
+#: controllers/DashboardNewCtrl.js:176 controllers/TrollboxCtrl.js:343
+#: controllers/UserProfileCtrl.js:544 services/MessengerService.js:97
+msgid "Willst Du wirklich den Benutzer für alle Foren sperren?"
+msgstr "Wil je deze gebruiker echt voor alle fora blokkeren?"
+
+#: services/MessengerService.js:77
+msgid "Willst Du wirklich den Benutzer für dieses Gruppenchat entsperren?"
+msgstr "Wil je deze gebruiker echt voor deze groeps-chat vrijgeven?"
+
+#: services/MessengerService.js:56
+msgid "Willst Du wirklich den Benutzer für dieses Gruppenchat sperren?"
+msgstr "Wil je deze gebruiker echt voor deze groeps-chat blokkeren?"
+
+#: controllers/MessengerCtrl.js:102
+msgid "Willst Du wirklich diese Chat entfernen?"
+msgstr "Wil je echt dit chatverloop verwijderen?"
+
+#: services/MessengerService.js:16
+msgid "Willst Du wirklich diese Nachricht entfernen?"
+msgstr "Wil je echt dit bericht verwijderen?"
+
+#: controllers/DealsCompletedCtrl.js:97 controllers/OfferMyListCtrl.js:52
+msgid "Willst du Dein Angebot endgültig löschen?"
+msgstr "Wil je deze aanbieding definitief wissen?"
+
+#: controllers/ProfileUpdateCtrl.js:71
+msgid "Willst du wirklich dein Profil löschen?"
+msgstr "Wil je echt je profiel verwijderen?"
+
+#: country.php:194
+msgid "Yemen"
+msgstr "Jemen (Republiek)"
+
+#: app.js:1459
+msgid "You can upload only files with jpg, jpeg and png extensions."
+msgstr "Je kunt alleen bestanden uploaden met jpg, jpeg of png extensie."
+
+#: app.js:1485
+msgid "You can upload only files with jpg, jpeg, png and mp4 extensions."
+msgstr "Je kunt alleen bestanden uploaden met jpg, jpeg, png of MP4 extensie."
+
+#: controllers/FriendsCtrl.js:73 controllers/UserProfileCtrl.js:227
+msgid "You really want to delete this user from friends?"
+msgstr "Wil je echt deze gebruiker van je vriendenlijst verwijderen?"
+
+#: controllers/UserInterestsCtrl.js:6
+#: controllers/UserInterestsUpdateCtrl.js:30
+#: controllers/UserInterestsUpdateCtrl.js:8
+msgid "You really want to delete this user from interest?"
+msgstr "Wil je deze interesse werkelijk uit je lijst verwijderen?"
+
+#: country.php:195
+msgid "Zambia"
+msgstr "Zambia (Republiek)"
+
+#: country.php:196
+msgid "Zimbabwe"
+msgstr "Zimbabwe (Republiek)"
+
+#: directives/eventText.js:85
+msgid "Zustimmen"
+msgstr "Toestemmen"
+
+#: controllers/ActivityLogCtrl.js:8
+msgid "dd MMMM 'um' HH:mm"
+msgstr "dd MMMM 'om' HH:mm"
+
+#: controllers/OfferHistoryViewPopupCtrl.js:8
+msgid "dd.MM.yyyy 'um' HH:mm"
+msgstr "dd.MM.yyyy 'om' HH:mm"
+
+#: controllers/OfferDetailsCtrl.js:14
+msgid "„Mit OK bestätigst Du den verbindlichen Kauf des Angebots.“"
+msgstr "„Met OK bevestig je de definitieve koop van het product.“"

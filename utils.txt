@@ -1,0 +1,23 @@
+select * from remote_log where session in (select session from remote_log where id in (select max(id) from remote_log)) order by dt asc
+
+
+http://download.geonames.org/export/zip/
+#get sql to import in zip_import_table
+awk -F "\t" '{print "insert into zip_import(zip,lattitude,longitude) values (#" $2 "#,#" $10 "#,#" $11 "#);"}' DE.txt | sed "s/#/'/g" >de.sql
+# aggregate items from zip_import and insert into zip_coords
+insert into zip_coords (country_id,zip,lattitude,longitude) (select 64,zip,avg(lattitude),avg(longitude) from zip_import group by zip)
+
+# formula for distance calculation
+3956 * 2 * ASIN(SQRT(POWER(SIN((@orig_lat - abs(dest.lat)) * pi()/180 / 2),2) + COS(@orig_lat * pi()/180 ) * COS(abs(dest.lat) *pi()/180) * POWER(SIN((@orig_lon - dest.lon) *pi()/180 / 2), 2) )) as distance
+
+
+and destination.longitude between lon1 and lon2
+and destination.latitude between lat1 and lat2
+
+set lon1 = mylon-dist/abs(cos(radians(mylat))*69);
+set lon2 = mylon+dist/abs(cos(radians(mylat))*69);
+set lat1 = mylat-(dist/69);
+set lat2 = mylat+(dist/69);
+
+
+

@@ -1,0 +1,605 @@
+#profile-page .account-friends-list {
+    padding: 0 25px 30px;
+}
+
+#profile-page .account-friends-list .account-friends-element {
+    width: 33.33%;
+}
+
+.profile-user-info-block {
+    margin: 0 -15px;
+}
+
+
+.account-box.user-profile-info-box,
+.profile-user-info-main {
+    /*min-height: 800px;*/
+}
+
+.profile-user-info {
+    padding: 0 40px 35px 40px;
+}
+
+.profile-user-info .data {
+    font-size: 19px;
+    line-height: 36px;
+    font-weight: 300;
+    color: #32404d;
+    margin-top: 12px;
+}
+
+.profile-user-info .data:first-child {
+    margin-top: 0;
+}
+
+.profile-user-info .data.about {
+    margin-top: 60px;
+    white-space: pre-wrap;
+}
+
+.profile-user-info .data b {
+    color: #32404d;
+    font-weight: 400;
+}
+
+.profile-user-info .data.about b {
+    display: block;
+    margin-bottom: 15px;
+}
+
+.profile-user-info-main {
+    background: #e5ebf0;
+    border-radius: 15px;
+    text-align: center;
+    padding: 46px 20px 45px 20px;
+    margin-bottom: 31px;
+}
+
+.profile-user-info-main .btn-profile-update {
+    margin-bottom: 65px;
+}
+
+.profile-user-info-main .btn-profile-update:before {
+    content: '\e901';
+    font-family: 'icons';
+    margin-right: 15px;
+    position: relative;
+    top: 2px;
+    left: -5px;
+}
+
+.profile-user-info-main .avatar-box {
+    position: relative;
+    font-size: 0;
+    max-width: 298px;
+    height: auto;
+    margin: auto;
+}
+
+.profile-user-info-main .avatar-box img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 50%;
+}
+
+.profile-user-info-main .avatar-box .myfriends-icon {
+    display: inline-block;
+    font-size: 14px;
+    line-height: 18px;
+    font-weight: 400;
+    color: #ffffff;
+    background: #00bbd1;
+    padding: 0 12px 1px;
+    border-radius: 10px;
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    margin-left: -55px;
+}
+
+
+.profile-user-info-main .avatar-box .count-user-photos {
+    position: absolute;
+    right: 40px;
+    top: 10px;
+    background: #cad5dd;
+    color: #32404d;
+    display: block;
+    font-size: 19px;
+    font-weight: 400;
+    line-height: normal;
+    padding: 0 10px;
+    height: 24px;
+    border-radius: 12px;
+}
+
+
+.profile-user-info-main .user-profile-packet {
+    margin: 15px 7px 0;
+    background: #e34a0e;
+    border-radius: .7em;
+    position: relative;
+    padding: 1px 10px 1px 30px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    color: #ffffff;
+    display: inline-block;
+    z-index: 0;
+}
+
+
+.profile-user-info-main .user-profile-packet:before {
+    content: '';
+    width: 20px;
+    height: 20px;
+    background: #e5ebf0;
+    border-radius: 50px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+
+.profile-user-info-main .user-profile-packet:after {
+    content: '\e900';
+    color: #e34a0e;
+    font-size: 35px;
+    font-family: 'icons';
+    line-height: normal;
+    position: absolute;
+    z-index: 2;
+    top: -3px;
+    left: -8px;
+    text-shadow: 2px 0 0 rgba(229, 235, 240, 1);
+}
+
+.profile-user-info-main .user-profile-packet-vip-plus {
+    margin-top: 20px;
+}
+
+.profile-user-info-main .user-profile-packet-vip-plus:before {
+    content: url("/static/images/account/vip-plus.png");
+    display: inline-block;
+}
+
+.profile-user-info-main .user-profile-company {
+    margin: 15px 7px 0;
+    background: #00bbd1;
+    border-radius: .7em;
+    position: relative;
+    padding: 1px 10px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    color: #ffffff;
+    display: inline-block;
+}
+
+
+.profile-user-info-main .name {
+    font-size: 25px;
+    font-weight: 500;
+    color: #32404d;
+    margin: 33px 0 0 0;
+}
+
+.profile-user-info-main .name .flag {
+    margin-bottom: -8px;
+}
+
+.profile-user-info-main .logged {
+    font-size: 19px;
+    font-weight: 300;
+    color: #32404d;
+    margin: 8px 0 0 0;
+}
+
+.profile-user-info-main .logged a {
+    color: #32404d;
+    text-decoration: none;
+}
+
+.profile-user-info-main .user-rating {
+    padding: 12px 0 10px;
+}
+
+.profile-user-info-main .user-rating .star-rating {
+    font-size: 20px;
+    display: inline-block;
+}
+
+.profile-user-info-main .user-rating .user-feedback-count {
+    display: inline-block;
+    font-size: 13px;
+    font-weight: 300;
+    color: #8b9dae;
+    line-height: 20px;
+    margin-left: 7px;
+    vertical-align: top;
+}
+
+
+.profile-user-info-main .logged b {
+    font-weight: 400;
+}
+
+.profile-user-info-main .status {
+    margin-top: 20px;
+}
+
+.profile-user-info-main .status div {
+    display: inline-block;
+    font-size: 15px;
+    line-height: 18px;
+    font-weight: 400;
+    color: #ffffff;
+    background: #8b9dae;
+    padding: 0 12px 1px;
+    border-radius: 10px;
+}
+
+.profile-user-info-main .status div.online {
+    background: #21ce99;
+}
+
+.profile-user-info-main .buttons {
+    margin-top: 50px;
+}
+
+.profile-user-info-main .buttons button {
+    display: inline-block;
+    font-size: 19px;
+    font-weight: 500;
+    color: #ffffff;
+    cursor: pointer;
+    padding: 11px 30px 12px 30px;
+    text-align: center;
+    border-radius: 30px;
+    margin-bottom: 35px;
+    position: relative;
+}
+
+.profile-user-info-main .buttons button:last-child {
+    margin-bottom: 0;
+}
+
+.profile-user-info-main .buttons button.friend,
+.profile-user-info-main .buttons button.friend-del,
+.profile-user-info-main .buttons button.friend-block {
+    background: #0092df;
+}
+
+.profile-user-info-main .buttons button.message {
+    background: #21ce99;
+}
+
+.profile-user-info-main .buttons button:before {
+    font-family: 'icons';
+    position: relative;
+    top: 1px;
+    margin-right: 15px;
+}
+
+.profile-user-info-main .buttons button.friend-del:before {
+    content: '\e90d';
+}
+
+.profile-user-info-main .buttons button.friend-block:before {
+    content: '\e90a';
+}
+
+.profile-user-info-main .buttons button.message:before {
+    content: '\e613';
+}
+
+button.friend-network-change-block:before {
+    content: '\e912';
+    font-family: 'icons';
+    position: relative;
+    top: 1px;
+    margin-right: 15px;
+}
+
+.profile-user-info-main .buttons button.user-blocked {
+    background: #c4cfd8;
+    cursor: auto;
+}
+
+
+@media (max-width: 1000px) {
+    #profile-page .account-friends-list .account-friends-element {
+        width: 50%;
+    }
+
+    #profile-page .account-column {
+        width: auto;
+        float: none;
+        margin-top: 30px;
+    }
+
+    #profile-page .account-column:first-child {
+        margin-top: 0;
+    }
+
+    .account-box.user-profile-info-box,
+    .profile-user-info-main {
+        min-height: 0;
+    }
+}
+
+@media (max-width: 768px) {
+    #profile-page .account-friends-list .account-friends-element {
+        width: 100%;
+    }
+}
+
+
+@media (max-width: 479px) {
+    .profile-user-info-main .avatar img {
+        width: 250px;
+        height: 250px;
+    }
+
+    .profile-user-info {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    #profile-page .account-friends-list {
+        padding-right: 25px;
+        padding-left: 25px;
+    }
+
+}
+
+
+
+/* FEEDBACK USER PROFILE */
+
+.feedback-collapse-title {
+    font-size: 21px;
+    font-weight: 500;
+    line-height: normal;
+    margin-top: 10px;
+    margin-bottom: 40px;
+    cursor: pointer;
+    padding-left: 36px;
+    position: relative;
+}
+
+.feedback-collapse-title .user-feedback-rating-box {
+    float: right;
+    margin-top: 2px;
+}
+
+.user-feedback-rating-box .star-rating {
+    font-size: 20px;
+    line-height: normal;
+}
+
+.user-feedback-rating-box>div {
+    display: inline-block;
+}
+
+.user-feedback-rating-box .feedback-count {
+    color: #8b9dae;
+    line-height: normal;
+    font-weight: 300;
+    font-size: 15px;
+    vertical-align: top;
+    margin-left: 4px;
+    margin-top: 3px;
+}
+
+
+.icon-collapse {
+    -moz-transform: rotate(-90deg);
+    -webkit-transform: rotate(-90deg);
+    -o-transform: rotate(-90deg);
+    -ms-transform: rotate(-90deg);
+    transform: rotate(-90deg);
+    display: inline-block;
+    height: 22px;
+    width: 22px;
+}
+
+.open .icon-collapse {
+    -moz-transform: rotate(0);
+    -webkit-transform: rotate(0);
+    -o-transform: rotate(0);
+    -ms-transform: rotate(0);
+    transform: rotate(0);
+}
+
+.icon-collapse:before {
+    content: '\e90c';
+    font-family: 'icons';
+    font-size: 22px;
+}
+
+.feedback-collapse-title .icon-collapse {
+    position: absolute;
+    left: 0;
+    top: 50%;
+    margin-top: -11px;
+}
+
+
+.feedback-profile-box {
+    padding: 0 40px 5px;
+    background: #ffffff;
+    border-radius: 15px;
+}
+
+.feedback-profile-box .feedback-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.feedback-list>li {
+    padding: 20px 30px;
+    background: #f2f6f9;
+    border-radius: 15px;
+    position: relative;
+    margin-bottom: 30px;
+}
+
+.feedback-list .feedback-list-left {
+    border: 1px solid;
+    display: inline-block;
+    float: left;
+}
+
+.feedback-list .feedback-list-right {
+    border: 1px solid;
+    float: right;
+    display: inline-block;
+}
+
+
+.feedback-date-and-rating {
+    display: inline-block;
+    position: absolute;
+    top: 20px;
+    right: 30px;
+}
+
+.feedback-date-and-rating .star-rating {
+    font-size: 20px;
+    line-height: normal;
+    float: left;
+    margin-right: 15px;
+}
+
+.feedback-date-and-rating .feedback-date {
+    font-size: 13px;
+    font-weight: 300;
+    color: #8b9dae;
+    float: left;
+    padding-top: 2px;
+}
+
+.feedback-text {
+    padding-top: 15px;
+    padding-left: 55px;
+}
+
+.feedback-text>p {
+    font-size: 17px;
+    font-weight: 300;
+    color: #32404d;
+    margin: 0;
+    white-space: pre-wrap;
+}
+
+.feedback-text a {
+    word-break: break-all;
+}
+
+.feedback-response-box {
+    list-style: none;
+    padding: 0;
+    margin: 30px 0 0 0;
+}
+
+.offer-user-box .feedback-response-dt {
+    font-size: 13px;
+    font-weight: 300;
+    color: #8b9dae;
+}
+
+
+.user-profile-change-network-box .countdown-change-network {
+    font-size: 25px;
+    line-height: normal;
+    font-weight: 500;
+    margin: 40px 0;
+}
+
+.user-profile-change-network-box .text-change-network {
+    font-size: 21px;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.user-profile-change-network-box .offer-user-box {
+    margin: 40px 0;
+}
+
+@media (max-width: 768px) {
+    .feedback-text {
+        padding-left: 0;
+    }
+
+    .feedback-date-and-rating {
+        position: relative;
+        padding-top: 15px;
+        top: 0; right: 0; left: 0;
+    }
+
+    .feedback-response-box {
+        padding-left: 30px;
+    }
+
+    .feedback-collapse-title {
+        font-size: 19px;
+    }
+
+    .feedback-collapse-title .user-feedback-rating-box {
+        float: none;
+    }
+
+}
+
+@media (max-width: 480px) {
+    .feedback-profile-box {
+        padding-left: 25px;
+        padding-right: 25px;
+    }
+}
+
+.user-profile-validation-status ul {
+    display: inline-block;
+    text-align: left;
+    margin: 0;
+    padding: 0;
+}
+
+.user-profile-validation-status ul li {
+    font-size: 17px;
+    font-weight: 300;
+    position: relative;
+    padding: 5px 0;
+}
+
+.user-profile-validation-status ul li .icon-checked,
+.user-profile-validation-status ul li .icon-no-checked {
+    margin-right: 10px;
+    position: relative;
+    top: 2px;
+}
+
+.user-profile-validation-status ul li button {
+    margin: 5px 0;
+}
+
+.user-profile-trollbox-messages-box {
+    padding: 0 40px 20px;
+}
+
+.user-profile-trollbox-messages-box .trollbox-message-box {
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+
+.trollbox-main-btn-box {
+    margin-top: 30px;
+    text-align: center;
+}
+
+.trollbox-main-btn-box>button {
+    margin: 10px 20px;
+}

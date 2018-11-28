@@ -1,0 +1,555 @@
+.smiles-sprite {
+  background-image: url('../images/sprite-smiles.png');
+  background-repeat: no-repeat;
+}
+
+.smile-sm {
+  width: 16px;
+  height: 16px;
+  position: relative;
+  top: 4px;
+  display: inline-block;
+  background-size: 16px 784px;
+}
+
+.smile-lg {
+  width: 32px;
+  height: 32px;
+  display: inline-block;
+  background-size: 32px 1568px;
+}
+
+.smile-xl {
+  width: 64px;
+  height: 64px;
+  display: inline-block;
+  background-size: 64px 3136px;
+}
+
+.smile-sm.smile-1 {
+  background-position: 0px 0px;
+}
+
+.smile-lg.smile-1 {
+  background-position: 0px 0px;
+}
+
+.smile-xl.smile-1 {
+  background-position: 0px 0px;
+}
+
+.smile-sm.smile-2 {
+  background-position: 0px -16px;
+}
+
+.smile-lg.smile-2 {
+  background-position: 0px -32px;
+}
+
+.smile-xl.smile-2 {
+  background-position: 0px -64px;
+}
+
+.smile-sm.smile-3 {
+  background-position: 0px -32px;
+}
+
+.smile-lg.smile-3 {
+  background-position: 0px -64px;
+}
+
+.smile-xl.smile-3 {
+  background-position: 0px -128px;
+}
+
+.smile-sm.smile-4 {
+  background-position: 0px -48px;
+}
+
+.smile-lg.smile-4 {
+  background-position: 0px -96px;
+}
+
+.smile-xl.smile-4 {
+  background-position: 0px -192px;
+}
+
+.smile-sm.smile-5 {
+  background-position: 0px -64px;
+}
+
+.smile-lg.smile-5 {
+  background-position: 0px -128px;
+}
+
+.smile-xl.smile-5 {
+  background-position: 0px -256px;
+}
+
+.smile-sm.smile-6 {
+  background-position: 0px -80px;
+}
+
+.smile-lg.smile-6 {
+  background-position: 0px -160px;
+}
+
+.smile-xl.smile-6 {
+  background-position: 0px -320px;
+}
+
+.smile-sm.smile-7 {
+  background-position: 0px -96px;
+}
+
+.smile-lg.smile-7 {
+  background-position: 0px -192px;
+}
+
+.smile-xl.smile-7 {
+  background-position: 0px -384px;
+}
+
+.smile-sm.smile-8 {
+  background-position: 0px -112px;
+}
+
+.smile-lg.smile-8 {
+  background-position: 0px -224px;
+}
+
+.smile-xl.smile-8 {
+  background-position: 0px -448px;
+}
+
+.smile-sm.smile-9 {
+  background-position: 0px -128px;
+}
+
+.smile-lg.smile-9 {
+  background-position: 0px -256px;
+}
+
+.smile-xl.smile-9 {
+  background-position: 0px -512px;
+}
+
+.smile-sm.smile-10 {
+  background-position: 0px -144px;
+}
+
+.smile-lg.smile-10 {
+  background-position: 0px -288px;
+}
+
+.smile-xl.smile-10 {
+  background-position: 0px -576px;
+}
+
+.smile-sm.smile-11 {
+  background-position: 0px -160px;
+}
+
+.smile-lg.smile-11 {
+  background-position: 0px -320px;
+}
+
+.smile-xl.smile-11 {
+  background-position: 0px -640px;
+}
+
+.smile-sm.smile-12 {
+  background-position: 0px -176px;
+}
+
+.smile-lg.smile-12 {
+  background-position: 0px -352px;
+}
+
+.smile-xl.smile-12 {
+  background-position: 0px -704px;
+}
+
+.smile-sm.smile-13 {
+  background-position: 0px -192px;
+}
+
+.smile-lg.smile-13 {
+  background-position: 0px -384px;
+}
+
+.smile-xl.smile-13 {
+  background-position: 0px -768px;
+}
+
+.smile-sm.smile-14 {
+  background-position: 0px -208px;
+}
+
+.smile-lg.smile-14 {
+  background-position: 0px -416px;
+}
+
+.smile-xl.smile-14 {
+  background-position: 0px -832px;
+}
+
+.smile-sm.smile-15 {
+  background-position: 0px -224px;
+}
+
+.smile-lg.smile-15 {
+  background-position: 0px -448px;
+}
+
+.smile-xl.smile-15 {
+  background-position: 0px -896px;
+}
+
+.smile-sm.smile-16 {
+  background-position: 0px -240px;
+}
+
+.smile-lg.smile-16 {
+  background-position: 0px -480px;
+}
+
+.smile-xl.smile-16 {
+  background-position: 0px -960px;
+}
+
+.smile-sm.smile-17 {
+  background-position: 0px -256px;
+}
+
+.smile-lg.smile-17 {
+  background-position: 0px -512px;
+}
+
+.smile-xl.smile-17 {
+  background-position: 0px -1024px;
+}
+
+.smile-sm.smile-18 {
+  background-position: 0px -272px;
+}
+
+.smile-lg.smile-18 {
+  background-position: 0px -544px;
+}
+
+.smile-xl.smile-18 {
+  background-position: 0px -1088px;
+}
+
+.smile-sm.smile-19 {
+  background-position: 0px -288px;
+}
+
+.smile-lg.smile-19 {
+  background-position: 0px -576px;
+}
+
+.smile-xl.smile-19 {
+  background-position: 0px -1152px;
+}
+
+.smile-sm.smile-20 {
+  background-position: 0px -304px;
+}
+
+.smile-lg.smile-20 {
+  background-position: 0px -608px;
+}
+
+.smile-xl.smile-20 {
+  background-position: 0px -1216px;
+}
+
+.smile-sm.smile-21 {
+  background-position: 0px -320px;
+}
+
+.smile-lg.smile-21 {
+  background-position: 0px -640px;
+}
+
+.smile-xl.smile-21 {
+  background-position: 0px -1280px;
+}
+
+.smile-sm.smile-22 {
+  background-position: 0px -336px;
+}
+
+.smile-lg.smile-22 {
+  background-position: 0px -672px;
+}
+
+.smile-xl.smile-22 {
+  background-position: 0px -1344px;
+}
+
+.smile-sm.smile-23 {
+  background-position: 0px -352px;
+}
+
+.smile-lg.smile-23 {
+  background-position: 0px -704px;
+}
+
+.smile-xl.smile-23 {
+  background-position: 0px -1408px;
+}
+
+.smile-sm.smile-24 {
+  background-position: 0px -368px;
+}
+
+.smile-lg.smile-24 {
+  background-position: 0px -736px;
+}
+
+.smile-xl.smile-24 {
+  background-position: 0px -1472px;
+}
+
+.smile-sm.smile-25 {
+  background-position: 0px -384px;
+}
+
+.smile-lg.smile-25 {
+  background-position: 0px -768px;
+}
+
+.smile-xl.smile-25 {
+  background-position: 0px -1536px;
+}
+
+.smile-sm.smile-26 {
+  background-position: 0px -400px;
+}
+
+.smile-lg.smile-26 {
+  background-position: 0px -800px;
+}
+
+.smile-xl.smile-26 {
+  background-position: 0px -1600px;
+}
+
+.smile-sm.smile-27 {
+  background-position: 0px -416px;
+}
+
+.smile-lg.smile-27 {
+  background-position: 0px -832px;
+}
+
+.smile-xl.smile-27 {
+  background-position: 0px -1664px;
+}
+
+.smile-sm.smile-28 {
+  background-position: 0px -432px;
+}
+
+.smile-lg.smile-28 {
+  background-position: 0px -864px;
+}
+
+.smile-xl.smile-28 {
+  background-position: 0px -1728px;
+}
+
+.smile-sm.smile-29 {
+  background-position: 0px -448px;
+}
+
+.smile-lg.smile-29 {
+  background-position: 0px -896px;
+}
+
+.smile-xl.smile-29 {
+  background-position: 0px -1792px;
+}
+
+.smile-sm.smile-30 {
+  background-position: 0px -464px;
+}
+
+.smile-lg.smile-30 {
+  background-position: 0px -928px;
+}
+
+.smile-xl.smile-30 {
+  background-position: 0px -1856px;
+}
+
+.smile-sm.smile-31 {
+  background-position: 0px -480px;
+}
+
+.smile-lg.smile-31 {
+  background-position: 0px -960px;
+}
+
+.smile-xl.smile-31 {
+  background-position: 0px -1920px;
+}
+
+.smile-sm.smile-32 {
+  background-position: 0px -496px;
+}
+
+.smile-lg.smile-32 {
+  background-position: 0px -992px;
+}
+
+.smile-xl.smile-32 {
+  background-position: 0px -1984px;
+}
+
+.smile-sm.smile-33 {
+  background-position: 0px -512px;
+}
+
+.smile-lg.smile-33 {
+  background-position: 0px -1024px;
+}
+
+.smile-xl.smile-33 {
+  background-position: 0px -2048px;
+}
+
+.smile-sm.smile-34 {
+  background-position: 0px -528px;
+}
+
+.smile-lg.smile-34 {
+  background-position: 0px -1056px;
+}
+
+.smile-xl.smile-34 {
+  background-position: 0px -2112px;
+}
+
+.smile-sm.smile-35 {
+  background-position: 0px -544px;
+}
+
+.smile-lg.smile-35 {
+  background-position: 0px -1088px;
+}
+
+.smile-xl.smile-35 {
+  background-position: 0px -2176px;
+}
+
+.smile-sm.smile-36 {
+  background-position: 0px -560px;
+}
+
+.smile-lg.smile-36 {
+  background-position: 0px -1120px;
+}
+
+.smile-xl.smile-36 {
+  background-position: 0px -2240px;
+}
+
+.smile-sm.smile-37 {
+  background-position: 0px -576px;
+}
+
+.smile-lg.smile-37 {
+  background-position: 0px -1152px;
+}
+
+.smile-xl.smile-37 {
+  background-position: 0px -2304px;
+}
+
+.smile-sm.smile-38 {
+  background-position: 0px -592px;
+}
+
+.smile-lg.smile-38 {
+  background-position: 0px -1184px;
+}
+
+.smile-xl.smile-38 {
+  background-position: 0px -2368px;
+}
+
+.smile-sm.smile-39 {
+  background-position: 0px -608px;
+}
+
+.smile-lg.smile-39 {
+  background-position: 0px -1216px;
+}
+
+.smile-xl.smile-39 {
+  background-position: 0px -2432px;
+}
+
+.smile-sm.smile-40 {
+  background-position: 0px -624px;
+}
+
+.smile-lg.smile-40 {
+  background-position: 0px -1248px;
+}
+
+.smile-xl.smile-40 {
+  background-position: 0px -2496px;
+}
+
+.smile-sm.smile-41 {
+  background-position: 0px -640px;
+}
+
+.smile-lg.smile-41 {
+  background-position: 0px -1280px;
+}
+
+.smile-xl.smile-41 {
+  background-position: 0px -2560px;
+}
+
+.smile-sm.smile-42 {
+  background-position: 0px -656px;
+}
+
+.smile-lg.smile-42 {
+  background-position: 0px -1312px;
+}
+
+.smile-xl.smile-42 {
+  background-position: 0px -2624px;
+}
+
+.smile-sm.smile-43 {
+  background-position: 0px -672px;
+}
+
+.smile-lg.smile-43 {
+  background-position: 0px -1344px;
+}
+
+.smile-xl.smile-43 {
+  background-position: 0px -2688px;
+}
+
+.smile-sm.smile-44 {
+  background-position: 0px -688px;
+}
+
+.smile-lg.smile-44 {
+  background-position: 0px -1376px;
+}
+
+.smile-xl.smile-44 {
+  background-position: 0px -2752px;
+}

@@ -1,0 +1,1734 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+
+#: services/InviteService.js:11
+msgid ""
+"<p>Wenn Du auf 'Einverstanden' klickst, bist Du verpflichtet, dieses "
+"Mitglied zu betreuen, d.h. Kontakt zu ihm aufzunehmen und ihm Jugl.net zu "
+"erklären.</p><p>Erkläre ihm Jugl.net daher genau, damit Dein Netzwerk ein "
+"aktives Mitglied gewinnt.</p>"
+msgstr ""
+
+#: directives/eventText.js:37 directives/eventText.js:87
+msgid "Ablehnen"
+msgstr ""
+
+#: directives/eventText.js:63
+msgid "Abmahnen"
+msgstr ""
+
+#: controllers/ActivityLogCtrl.js:155
+msgid ""
+"Achtung! Durch die Annahme dieser Teamanfrage verlässt Du Dein aktuelles "
+"Team.- Tu dies nur, wenn Du mit Deinem aktuellen Teamleiter unzufrieden bist."
+msgstr ""
+
+#: country.php:4
+msgid "Afghanistan"
+msgstr "Afghanistan"
+
+#: country.php:5
+msgid "Albania"
+msgstr "Albanien"
+
+#: country.php:6
+msgid "Algeria"
+msgstr "Algerien"
+
+#: country.php:7
+msgid "Andorra"
+msgstr "Andorra"
+
+#: country.php:8
+msgid "Angola"
+msgstr "Angola"
+
+#: directives/eventText.js:35
+msgid "Annehmen"
+msgstr ""
+
+#: country.php:9
+msgid "Antigua & Deps"
+msgstr "Antigua & Deps"
+
+#: country.php:10
+msgid "Argentina"
+msgstr "Argentinien"
+
+#: country.php:11
+msgid "Armenia"
+msgstr "Armenien"
+
+#: country.php:12
+msgid "Australia"
+msgstr "Australien"
+
+#: country.php:2
+msgid "Austria"
+msgstr "Österreich"
+
+#: country.php:13
+msgid "Azerbaijan"
+msgstr "Aserbaidschan"
+
+#: country.php:14
+msgid "Bahamas"
+msgstr "Bahamas"
+
+#: country.php:15
+msgid "Bahrain"
+msgstr "Bahrein"
+
+#: country.php:16
+msgid "Bangladesh"
+msgstr "Bangladesch"
+
+#: country.php:17
+msgid "Barbados"
+msgstr "Barbados"
+
+#: country.php:18
+msgid "Belarus"
+msgstr "Weißrussland"
+
+#: country.php:19
+msgid "Belgium"
+msgstr "Belgien"
+
+#: country.php:20
+msgid "Belize"
+msgstr "Belize"
+
+#: country.php:21
+msgid "Benin"
+msgstr "Benin"
+
+#: directives/eventText.js:41 directives/eventText.js:43
+#: directives/eventText.js:45 directives/eventText.js:47
+#: directives/eventText.js:49 directives/eventText.js:51
+msgid "Bewerten"
+msgstr ""
+
+#: country.php:22
+msgid "Bhutan"
+msgstr "Bhutan"
+
+#: controllers/AllFunctionsCtrl.js:4
+msgid ""
+"Bitte sende uns eine Email mit der Begründung, warum du den Account löschen "
+"möchtest an juglapp@gmx.de"
+msgstr ""
+"<p>Bitte sende uns eine Email mit Deinem Wunsch und der Begründung, warum Du "
+"den Account löschen möchtest, an juglapp@gmx.de.</p>"
+
+#: country.php:23
+msgid "Bolivia"
+msgstr "Bolivien"
+
+#: country.php:24
+msgid "Bosnia Herzegovina"
+msgstr "Bosnien-Herzegowina"
+
+#: country.php:25
+msgid "Botswana"
+msgstr "Botswana"
+
+#: country.php:26
+msgid "Brazil"
+msgstr "Brasilien"
+
+#: country.php:27
+msgid "Brunei"
+msgstr "Brunei"
+
+#: country.php:28
+msgid "Bulgaria"
+msgstr "Bulgarien"
+
+#: country.php:29
+msgid "Burkina"
+msgstr "Burkina"
+
+#: country.php:30
+msgid "Burundi"
+msgstr "Burundi"
+
+#: country.php:31
+msgid "Cambodia"
+msgstr "Kambodscha"
+
+#: country.php:32
+msgid "Cameroon"
+msgstr "Kamerun"
+
+#: services/ModalService.js:126
+msgid "Can't connect to server. Check your internet connection"
+msgstr "Keine Verbindung zum Server. Bitte überprüfe Deine Internetverbindung."
+
+#: country.php:33
+msgid "Canada"
+msgstr "Kanada"
+
+#: services/InviteService.js:41 services/ModalService.js:55
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: country.php:34
+msgid "Cape Verde"
+msgstr "Kap Verde"
+
+#: country.php:35
+msgid "Central African Rep"
+msgstr "Zentralafrikanische Republik"
+
+#: country.php:36
+msgid "Chad"
+msgstr "Tschad"
+
+#: country.php:37
+msgid "Chile"
+msgstr "Chile"
+
+#: country.php:38
+msgid "China"
+msgstr "China"
+
+#: country.php:39
+msgid "Colombia"
+msgstr "Kolumbien"
+
+#: country.php:40
+msgid "Comoros"
+msgstr "Komoren"
+
+#: services/ModalService.js:40
+msgid "Confirm the action"
+msgstr "Aktion bestätigen"
+
+#: country.php:41
+msgid "Congo"
+msgstr "Kongo"
+
+#: country.php:42
+msgid "Congo {Democratic Rep}"
+msgstr "Kongo (Demokratische Republik)"
+
+#: country.php:43
+msgid "Costa Rica"
+msgstr "Costa Rica"
+
+#: country.php:44
+msgid "Croatia"
+msgstr "Kroatien"
+
+#: country.php:45
+msgid "Cuba"
+msgstr "Kuba"
+
+#: country.php:46
+msgid "Cyprus"
+msgstr "Zypern"
+
+#: country.php:47
+msgid "Czech Republic"
+msgstr "Tschechien"
+
+#: controllers/FavoritesCtrl.js:30
+msgid "Delete favorite?"
+msgstr "Faovriten löschen?"
+
+#: country.php:48
+msgid "Denmark"
+msgstr "Dänemark"
+
+#: services/InviteService.js:51
+msgid "Diese Funktion ist nur für Premium-Mitglieder."
+msgstr ""
+
+#: controllers/UserProfileCtrl.js:145
+msgid "Diese Funktion steht nur Premium Mitgliedern zur Verfügung."
+msgstr ""
+
+#: country.php:49
+msgid "Djibouti"
+msgstr "Dschibuti"
+
+#: country.php:50
+msgid "Dominica"
+msgstr "Dominica"
+
+#: country.php:51
+msgid "Dominican Republic"
+msgstr "Dominikanische Republik"
+
+#: controllers/SearchRequestAddCtrl.js:90
+msgid ""
+"Du hast Deine Suchanzeige erfolgreich erstellt. Du findest Deine Anzeige "
+"unter \"Suchauftrag -> Was wird mir angeboten\""
+msgstr ""
+"Du hast Deinen Suchauftrag erfolgreich erstellt. Du findest ihn unter "
+"\"Suchauftrag -> Was wird mir angeboten / vermittelt?\"."
+
+#: controllers/OfferAddCtrl.js:222 controllers/OfferPreviewCtrl.js:57
+msgid ""
+"Du hast Deine Werbung erfolgreich geschaltet. Du findest Deine Werbung unter "
+"\"Werbung schalten - Werbung verwalten\""
+msgstr ""
+"Du hast Deine Werbung erfolgreich geschaltet. Du findest Deine Werbung unter "
+"\"Meine Anzeigen / Werbung verwalten\""
+
+#: controllers/OfferDetailsCtrl.js:31
+msgid ""
+"Du hast bereits auf diesen Artikel geboten, bist du dir sicher, dass du ein "
+"weiteres Gebot abgeben möchtest?"
+msgstr ""
+"Du hast bereits auf diesen Artikel geboten. Bist Du Dir sicher, dass Du ein "
+"weiteres Gebot abgeben möchtest?"
+
+#: controllers/SearchRequestOfferAddCtrl.js:49
+msgid "Du hast ein Angebot auf diese Suchanzeige erfolgreich abgegeben!"
+msgstr "Du hast Dein Angebot auf diesen Suchauftrag erfolgreich abgegeben!"
+
+#: controllers/OfferMyListCtrl.js:38
+msgid ""
+"Du hast erfolgreich einen Kaufinteressenten akzeptiert. Er wurde "
+"benachrichtigt."
+msgstr ""
+"Du hast erfolgreich einen Kaufinteressenten akzeptiert. Er wurde "
+"benachrichtigt."
+
+#: controllers/InterestsAddStep1Ctrl.js:17
+#: controllers/InterestsAddStep2Ctrl.js:18
+#: controllers/InterestsAddStep2Ctrl.js:41
+#: controllers/InterestsAddStep3Ctrl.js:40
+msgid "Du hast erfolgreich neue Interessen hinzugef&uuml;gt."
+msgstr "Du hast erfolgreich neue Interessen hinzugefügt."
+
+#: controllers/TrollboxCtrl.js:248
+msgid "Du wurdest für alle Foren von einem Moderator gesperrt"
+msgstr ""
+
+#: country.php:52
+msgid "East Timor"
+msgstr "Ost-Timor"
+
+#: country.php:53
+msgid "Ecuador"
+msgstr "Ecuador"
+
+#: country.php:54
+msgid "Egypt"
+msgstr "Ägypten"
+
+#: services/InviteService.js:15
+msgid "Einverstanden"
+msgstr ""
+
+#: country.php:55
+msgid "El Salvador"
+msgstr "El Salvador"
+
+#: country.php:56
+msgid "Equatorial Guinea"
+msgstr "Äquatorialguinea"
+
+#: country.php:57
+msgid "Eritrea"
+msgstr "Eritrea"
+
+#: directives/eventText.js:33
+msgid "Erneut erwerben"
+msgstr ""
+
+#: services/ModalService.js:119
+msgid "Error"
+msgstr "Fehler!"
+
+#: services/ModalService.js:120
+msgid "Error while performing server request (code )"
+msgstr "Fehler bei Ausfürung der Serveranfrage! (code )"
+
+#: country.php:58
+msgid "Estonia"
+msgstr "Estland"
+
+#: country.php:59
+msgid "Ethiopia"
+msgstr "Äthiopien"
+
+#: country.php:60
+msgid "Fiji"
+msgstr "Fidschi"
+
+#: app.js:1467 app.js:1493 app.js:1540
+msgid "File is too big, max file size is 50MB"
+msgstr ""
+
+#: country.php:61
+msgid "Finland"
+msgstr "Finnland"
+
+#: country.php:62
+msgid "France"
+msgstr "Frankreich"
+
+#: country.php:63
+msgid "Gabon"
+msgstr "Gabun"
+
+#: country.php:64
+msgid "Gambia"
+msgstr "Gambia"
+
+#: directives/eventText.js:61
+msgid "Geldeingang bestätigen"
+msgstr "Geldeingang bestätigen"
+
+#: controllers/ActivityLogCtrl.js:212
+msgid "Geldeingang wurde erfolgreich bestätigt"
+msgstr "Geldeingang wurde erfolgreich bestätigt"
+
+#: country.php:65
+msgid "Georgia"
+msgstr "Georgia"
+
+#: country.php:1
+msgid "Germany"
+msgstr "Deutschland"
+
+#: country.php:66
+msgid "Ghana"
+msgstr "Ghana"
+
+#: country.php:67
+msgid "Greece"
+msgstr "Griechenland"
+
+#: country.php:68
+msgid "Grenada"
+msgstr "Grenada"
+
+#: country.php:69
+msgid "Guatemala"
+msgstr "Guatemala"
+
+#: country.php:70
+msgid "Guinea"
+msgstr "Guinea"
+
+#: country.php:71
+msgid "Guinea-Bissau"
+msgstr "Guinea-Bissau"
+
+#: country.php:72
+msgid "Guyana"
+msgstr "Guyana"
+
+#: country.php:73
+msgid "Haiti"
+msgstr "Haiti"
+
+#: controllers/FriendsInvitationInviteCtrl.js:11
+#: controllers/FriendsInvitationInviteCtrl.js:7
+msgid ""
+"Hallo, schau Dir diese neue App an und gib mir bitte ein Feedback. Liebe "
+"Grüße\n"
+"{link}\n"
+"\n"
+"\n"
+"Und hier noch das Video dazu:\n"
+"https://youtu.be/X5h0JSLQP-Y"
+msgstr ""
+
+#: controllers/OfferAddCtrl.js:238
+msgid ""
+"Hinweis für Händler! Bitte achte darauf, dass Du bei Jugl nichts teurer "
+"anbietest, als Du es auf anderen Websites tust."
+msgstr ""
+
+#: country.php:74
+msgid "Honduras"
+msgstr "Honduras"
+
+#: country.php:75
+msgid "Hungary"
+msgstr "Ungarn"
+
+#: country.php:76
+msgid "Iceland"
+msgstr "Island"
+
+#: services/UserStatusService.js:98
+msgid "Ihre Sprach- und Landeinstellungen wurden automatisch angepasst"
+msgstr ""
+
+#: app.js:1484 app.js:1492
+msgid "Image and video upload"
+msgstr ""
+
+#: app.js:1458 app.js:1466 app.js:1531 app.js:1539
+msgid "Image upload"
+msgstr "Bild hochladen"
+
+#: country.php:77
+msgid "India"
+msgstr "Indien"
+
+#: country.php:78
+msgid "Indonesia"
+msgstr "Indonesien"
+
+#: country.php:79
+msgid "Iran"
+msgstr "Iran"
+
+#: country.php:80
+msgid "Iraq"
+msgstr "Irak"
+
+#: country.php:81
+msgid "Ireland {Republic}"
+msgstr "Irland"
+
+#: country.php:82
+msgid "Israel"
+msgstr "Israel"
+
+#: country.php:83
+msgid "Italy"
+msgstr "Italien"
+
+#: country.php:84
+msgid "Ivory Coast"
+msgstr "Elfenbeinküste"
+
+#: directives/eventText.js:81
+msgid "Ja"
+msgstr ""
+
+#: controllers/ActivityLogCtrl.js:156
+msgid "Ja, Teamleiter wechseln"
+msgstr ""
+
+#: country.php:85
+msgid "Jamaica"
+msgstr "Jamaika"
+
+#: country.php:86
+msgid "Japan"
+msgstr "Japan"
+
+#: directives/eventText.js:59
+msgid "Jetzt Bezahlen"
+msgstr "Jetzt bezahlen"
+
+#: controllers/UserProfileCtrl.js:149
+msgid "Jetzt Premium-Mitglied werden"
+msgstr ""
+
+#: directives/eventText.js:23
+msgid "Jetzt Premium/PremiumPlus Midglied werden"
+msgstr ""
+
+#: directives/eventText.js:22
+msgid "Jetzt PremiumPlus Midglied werden"
+msgstr ""
+
+#: services/InviteService.js:55
+msgid "Jetzt PremiumPlus-Mitglied werden"
+msgstr ""
+
+#: country.php:87
+msgid "Jordan"
+msgstr "Jordanien"
+
+#: controllers/SearchRequestOfferDetailsCtrl.js:15
+msgid "Jugls aufladen"
+msgstr ""
+
+#: controllers/OfferMyListCtrl.js:48
+msgid ""
+"Kannst Du Dein Gebot für das Angebot \"{{title}}\" bitte noch einmal "
+"wiederholen? Ich würde es gerne annehmen."
+msgstr ""
+
+#: country.php:88
+msgid "Kazakhstan"
+msgstr "Kasachstan"
+
+#: country.php:89
+msgid "Kenya"
+msgstr "Kenia"
+
+#: country.php:90
+msgid "Kiribati"
+msgstr "Kiribati"
+
+#: country.php:91
+msgid "Korea North"
+msgstr "Nordkorea"
+
+#: country.php:92
+msgid "Korea South"
+msgstr "Südkorea"
+
+#: country.php:93
+msgid "Kosovo"
+msgstr "Kosovo"
+
+#: country.php:94
+msgid "Kuwait"
+msgstr "Kuwait"
+
+#: country.php:95
+msgid "Kyrgyzstan"
+msgstr "Kirgisistan"
+
+#: country.php:96
+msgid "Laos"
+msgstr "Laos"
+
+#: country.php:97
+msgid "Latvia"
+msgstr "Lettland"
+
+#: country.php:98
+msgid "Lebanon"
+msgstr "Libanon"
+
+#: controllers/InfoPopupCtrl.js:77
+msgid ""
+"Leider hast Du keine Premium-Mitgliedschaft um diese Funktion nutzen zu "
+"können."
+msgstr ""
+
+#: country.php:99
+msgid "Lesotho"
+msgstr "Lesotho"
+
+#: country.php:100
+msgid "Liberia"
+msgstr "Liberia"
+
+#: country.php:101
+msgid "Libya"
+msgstr "Libyen"
+
+#: controllers/UserProfileCtrl.js:170
+msgid "Lieber Jugler, ein Teamwechsel ist nur alle 24h möglich."
+msgstr ""
+
+#: country.php:102
+msgid "Liechtenstein"
+msgstr "Liechtenstein"
+
+#: country.php:103
+msgid "Lithuania"
+msgstr "Litauen"
+
+#: country.php:104
+msgid "Luxembourg"
+msgstr "Luxemburg"
+
+#: country.php:105
+msgid "Macedonia"
+msgstr "Mazedonien"
+
+#: country.php:106
+msgid "Madagascar"
+msgstr "Madagaskar"
+
+#: controllers/OfferRequestPaymentComplaintPopupCtrl.js:11
+msgid "Mahnung erfolgreich gesendet"
+msgstr ""
+
+#: country.php:107
+msgid "Malawi"
+msgstr "Malawi"
+
+#: country.php:108
+msgid "Malaysia"
+msgstr "Malaysia"
+
+#: country.php:109
+msgid "Maldives"
+msgstr "Malediven"
+
+#: country.php:110
+msgid "Mali"
+msgstr "Mali"
+
+#: country.php:111
+msgid "Malta"
+msgstr "Malta"
+
+#: country.php:112
+msgid "Marshall Islands"
+msgstr "Marshallinseln"
+
+#: country.php:113
+msgid "Mauritania"
+msgstr "Mauretanien"
+
+#: country.php:114
+msgid "Mauritius"
+msgstr "Mauritius"
+
+#: country.php:115
+msgid "Mexico"
+msgstr "Mexiko"
+
+#: country.php:116
+msgid "Micronesia"
+msgstr "Mikronesien"
+
+#: directives/eventText.js:31
+msgid "Mitgliedschaft jetzt verlängern"
+msgstr ""
+
+#: country.php:117
+msgid "Moldova"
+msgstr "Moldawien"
+
+#: country.php:118
+msgid "Monaco"
+msgstr "Monaco"
+
+#: country.php:119
+msgid "Mongolia"
+msgstr "Mongolei"
+
+#: country.php:120
+msgid "Montenegro"
+msgstr "Montenegro"
+
+#: country.php:121
+msgid "Morocco"
+msgstr "Marokko"
+
+#: country.php:122
+msgid "Mozambique"
+msgstr "Mosambik"
+
+#: country.php:123
+msgid "Myanmar, {Burma}"
+msgstr "Myanmar (Burma)"
+
+#: controllers/ActivityLogCtrl.js:198
+msgid "Möchten sie wirklich Geldeingang bestätigen?"
+msgstr "Möchtest Du den Geldeingang wirklich bestätigen?"
+
+#: controllers/ActivityLogCtrl.js:222
+msgid "Möchten sie wirklich Spammeldung zurücknehmen?"
+msgstr ""
+
+#: controllers/UserProfileCtrl.js:348 controllers/UserProfileCtrl.js:374
+msgid "Möchtest Du  wirklich aus Deinen Kontakten entfernen?"
+msgstr ""
+
+#: controllers/DealsCompletedCtrl.js:116
+#: controllers/SearchRequestDraftCtrl.js:49
+#: controllers/SearchRequestMyListCtrl.js:22
+msgid "Möchtest Du Deine Suchanzeige endgültig löschen?"
+msgstr "Möchtest Du Deinen Suchauftrag endgültig löschen?"
+
+#: controllers/RegistrationPaymentCtrl.js:29
+msgid ""
+"Möchtest Du wirklich das Standard-Paket wählen? Dadurch verzichtest Du auf "
+"viele Vorteile des Premium-Pakets wie z.B. höhere Provisionen und geringere "
+"Abgaben. Bitte beachte, das eine nachträgliche Änderung des gewählten Pakets "
+"möglich ist, jedoch nicht mehr zu diesem Preis."
+msgstr ""
+
+#: services/MessengerService.js:35
+msgid "Möchtest Du wirklich die gewählten Nachrichten löschen?"
+msgstr ""
+
+#: controllers/FriendsInvitationInvitationsCtrl.js:47
+msgid "Möchtest du die Einladung löschen?"
+msgstr "Möchtest Du die Einladung löschen?"
+
+#: controllers/SearchRequestMyListCtrl.js:43
+msgid ""
+"Nachdem Du deine Suchanzeige abschaltest, landet sie unter \"Geschäfte & "
+"Bewertungen\". Möchtest Du die Anzeige wirklich abschalten?"
+msgstr ""
+"Möchtest Du den Suchauftrag wirklich abschalten? Du findest ihn anschließend "
+"unter \"Geschäfte & Bewertungen\"."
+
+#: country.php:124
+msgid "Namibia"
+msgstr "Namibia"
+
+#: country.php:125
+msgid "Nauru"
+msgstr "Nauru"
+
+#: directives/eventText.js:83
+msgid "Nein"
+msgstr ""
+
+#: controllers/ActivityLogCtrl.js:157
+msgid "Nein, beim aktuellen Teamleiter bleiben"
+msgstr ""
+
+#: country.php:126
+msgid "Nepal"
+msgstr "Nepal"
+
+#: country.php:127
+msgid "Netherlands"
+msgstr "Niederlande"
+
+#: country.php:128
+msgid "New Zealand"
+msgstr "Neuseeland"
+
+#: country.php:129
+msgid "Nicaragua"
+msgstr "Nicaragua"
+
+#: country.php:130
+msgid "Niger"
+msgstr "Niger"
+
+#: country.php:131
+msgid "Nigeria"
+msgstr "Nigeria"
+
+#: country.php:132
+msgid "Norway"
+msgstr "Norwegen"
+
+#: controllers/UserProfileCtrl.js:157 services/InviteService.js:63
+#: services/ModalService.js:47
+msgid "Ok"
+msgstr "OK"
+
+#: country.php:133
+msgid "Oman"
+msgstr "Oman"
+
+#: country.php:134
+msgid "Pakistan"
+msgstr "Pakistan"
+
+#: country.php:135
+msgid "Palau"
+msgstr "Palau"
+
+#: country.php:136
+msgid "Panama"
+msgstr "Panama"
+
+#: country.php:137
+msgid "Papua New Guinea"
+msgstr "Papua Neu-Guinea"
+
+#: country.php:138
+msgid "Paraguay"
+msgstr "Paraguay"
+
+#: country.php:139
+msgid "Peru"
+msgstr "Peru"
+
+#: country.php:140
+msgid "Philippines"
+msgstr "Philippinen"
+
+#: country.php:141
+msgid "Poland"
+msgstr "Polen"
+
+#: country.php:142
+msgid "Portugal"
+msgstr "Portugal"
+
+#: controllers/RegistrationPaymentCtrl.js:32
+msgid "Premium-Paket wählen"
+msgstr ""
+
+#: services/ModalService.js:125 services/ModalService.js:93
+msgid "Problem"
+msgstr "Problem"
+
+#: country.php:143
+msgid "Qatar"
+msgstr "Katar"
+
+#: country.php:144
+msgid "Romania"
+msgstr "Rumänien"
+
+#: country.php:145
+msgid "Russian Federation"
+msgstr "Russische Föderation"
+
+#: country.php:146
+msgid "Rwanda"
+msgstr "Ruanda"
+
+#: country.php:149
+msgid "Saint Vincent & the Grenadines"
+msgstr "St. Vincent und die Grenadinen"
+
+#: country.php:150
+msgid "Samoa"
+msgstr "Samoa"
+
+#: country.php:151
+msgid "San Marino"
+msgstr "San Marino"
+
+#: country.php:152
+msgid "Sao Tome & Principe"
+msgstr "Sao Tome und Principe"
+
+#: country.php:153
+msgid "Saudi Arabia"
+msgstr "Saudi Arabien"
+
+#: country.php:154
+msgid "Senegal"
+msgstr "Senegal"
+
+#: country.php:155
+msgid "Serbia"
+msgstr "Serbien"
+
+#: country.php:156
+msgid "Seychelles"
+msgstr "Seychellen"
+
+#: app.js:1532
+msgid ""
+"Sie können nur Bilder oder Videos mit folgenden Erweiterungen hochladen: ."
+"JPG, .JPEG, .PNG, .MP4"
+msgstr ""
+
+#: country.php:157
+msgid "Sierra Leone"
+msgstr "Sierra Leone"
+
+#: country.php:158
+msgid "Singapore"
+msgstr "Singapur"
+
+#: country.php:159
+msgid "Slovakia"
+msgstr "Slowakei"
+
+#: country.php:160
+msgid "Slovenia"
+msgstr "Slowenien"
+
+#: country.php:161
+msgid "Solomon Islands"
+msgstr "Salomon-Inseln"
+
+#: country.php:162
+msgid "Somalia"
+msgstr "Somalia"
+
+#: country.php:163
+msgid "South Africa"
+msgstr "Südafrika"
+
+#: country.php:164
+msgid "South Sudan"
+msgstr "Südsudan"
+
+#: country.php:165
+msgid "Spain"
+msgstr "Spanien"
+
+#: directives/eventText.js:25
+msgid "Spammeldung zurücknehmen"
+msgstr ""
+
+#: controllers/SearchRequestOfferDetailsCtrl.js:23
+msgid "Später aufladen"
+msgstr ""
+
+#: country.php:166
+msgid "Sri Lanka"
+msgstr "Sri Lanka"
+
+#: country.php:147
+msgid "St Kitts & Nevis"
+msgstr "St. Kitts & Nevis"
+
+#: country.php:148
+msgid "St Lucia"
+msgstr "St. Lucia"
+
+#: controllers/RegistrationPaymentCtrl.js:43
+msgid "Standard-Paket wählen"
+msgstr ""
+
+#: country.php:167
+msgid "Sudan"
+msgstr "Sudan"
+
+#: country.php:168
+msgid "Suriname"
+msgstr "Suriname"
+
+#: country.php:169
+msgid "Swaziland"
+msgstr "Swasiland"
+
+#: country.php:170
+msgid "Sweden"
+msgstr "Schweden"
+
+#: country.php:3
+msgid "Switzerland"
+msgstr "Schweiz"
+
+#: country.php:171
+msgid "Syria"
+msgstr "Syrien"
+
+#: country.php:172
+msgid "Taiwan"
+msgstr "Taiwan"
+
+#: country.php:173
+msgid "Tajikistan"
+msgstr "Tadschikistan"
+
+#: country.php:174
+msgid "Tanzania"
+msgstr "Tansania"
+
+#: directives/eventText.js:27
+msgid "Teamanfragen erlauben"
+msgstr ""
+
+#: directives/eventText.js:27
+msgid "Teamanfragen stoppen"
+msgstr ""
+
+#: country.php:175
+msgid "Thailand"
+msgstr "Thailand"
+
+#: country.php:176
+msgid "Togo"
+msgstr "Togo"
+
+#: country.php:177
+msgid "Tonga"
+msgstr "Tonga"
+
+#: country.php:178
+msgid "Trinidad & Tobago"
+msgstr "Trinidad & Tobago"
+
+#: country.php:179
+msgid "Tunisia"
+msgstr "Tunesien"
+
+#: country.php:180
+msgid "Turkey"
+msgstr "Türkei"
+
+#: country.php:181
+msgid "Turkmenistan"
+msgstr "Turkmenistan"
+
+#: country.php:182
+msgid "Tuvalu"
+msgstr "Tuvalu"
+
+#: country.php:183
+msgid "Uganda"
+msgstr "Uganda"
+
+#: country.php:184
+msgid "Ukraine"
+msgstr "Ukraine"
+
+#: controllers/ProfileUpdateCtrl.js:77 controllers/ProfileUpdateCtrl.js:82
+msgid ""
+"Um Dein Profil zu löschen, stelle bitte einen schriftlichen Antrag auf "
+"Löschung mit der eMail Adresse mit der Du Dich registriert hast. Bitte mit "
+"Vor- und Nachnamen, vollständiger Anschrift und deiner Unterschrift an "
+"juglapp@gmx.de. Wir bitten um Verständnis, dass wir dies fordern, um "
+"Missbrauch zu vermeiden."
+msgstr ""
+
+#: country.php:185
+msgid "United Arab Emirates"
+msgstr "Vereinigte Arabische Emirate"
+
+#: country.php:186
+msgid "United Kingdom"
+msgstr "Großbritannien"
+
+#: country.php:187
+msgid "United States"
+msgstr "USA"
+
+#: country.php:188
+msgid "Uruguay"
+msgstr "Uruguay"
+
+#: country.php:189
+msgid "Uzbekistan"
+msgstr "Usbekistan"
+
+#: country.php:190
+msgid "Vanuatu"
+msgstr "Vanuatu"
+
+#: country.php:191
+msgid "Vatican City"
+msgstr "Vatikanstadt"
+
+#: country.php:192
+msgid "Venezuela"
+msgstr "Venezuela"
+
+#: controllers/OfferAddCtrl.js:220 controllers/OfferPreviewCtrl.js:55
+msgid ""
+"Vielen Dank, dass Sie bei Jugl annoncieren. Ihre Anzeige wird "
+"schnellstmöglich geprüft. Mit freundlichen Grüßen, Ihr Jugl-Team."
+msgstr ""
+
+#: controllers/ProfileUpdateCtrl.js:45
+msgid ""
+"Vielen Dank, deine Hilfe-Anfrage wurde an unser Team weitergeleitet. Wir "
+"werden uns mit dir in Kürze in Verbindung setzen."
+msgstr ""
+
+#: controllers/SearchRequestAddCtrl.js:88
+msgid ""
+"Vielen Dank. Ihr Suchauftrag wird schnellstmöglich geprüft. Mit freundlichen "
+"Grüßen, Ihr Jugl-Team."
+msgstr ""
+
+#: country.php:193
+msgid "Vietnam"
+msgstr "Vietnam"
+
+#: controllers/OfferDraftCtrl.js:49
+msgid "Willst Du Deine Werbung endgültig löschen?"
+msgstr ""
+
+#: controllers/UserProfileCtrl.js:497
+msgid "Willst Du Deinen Beitrag wirklich löschen?"
+msgstr ""
+
+#: controllers/DashboardNewCtrl.js:490 controllers/TrollboxCtrl.js:364
+#: controllers/UserProfileCtrl.js:565 services/MessengerService.js:118
+msgid "Willst Du wirklich den Benutzer für alle Foren entsperren?"
+msgstr ""
+
+#: controllers/DashboardNewCtrl.js:176 controllers/TrollboxCtrl.js:343
+#: controllers/UserProfileCtrl.js:544 services/MessengerService.js:97
+msgid "Willst Du wirklich den Benutzer für alle Foren sperren?"
+msgstr ""
+
+#: services/MessengerService.js:77
+msgid "Willst Du wirklich den Benutzer für dieses Gruppenchat entsperren?"
+msgstr ""
+
+#: services/MessengerService.js:56
+msgid "Willst Du wirklich den Benutzer für dieses Gruppenchat sperren?"
+msgstr ""
+
+#: controllers/MessengerCtrl.js:102
+msgid "Willst Du wirklich diese Chat entfernen?"
+msgstr ""
+
+#: services/MessengerService.js:16
+msgid "Willst Du wirklich diese Nachricht entfernen?"
+msgstr ""
+
+#: controllers/DealsCompletedCtrl.js:97 controllers/OfferMyListCtrl.js:52
+msgid "Willst du Dein Angebot endgültig löschen?"
+msgstr "Willst Du Dein Angebot endgültig löschen?"
+
+#: controllers/ProfileUpdateCtrl.js:71
+msgid "Willst du wirklich dein Profil löschen?"
+msgstr ""
+
+#: country.php:194
+msgid "Yemen"
+msgstr "Jemen"
+
+#: app.js:1459
+msgid "You can upload only files with jpg, jpeg and png extensions."
+msgstr "Du kannst die folgenden Formate hochladen: jpg, jpeg und png."
+
+#: app.js:1485
+msgid "You can upload only files with jpg, jpeg, png and mp4 extensions."
+msgstr "Du kannst die folgenden Formate hochladen: jpg, jpeg, png und mp4."
+
+#: controllers/FriendsCtrl.js:73 controllers/UserProfileCtrl.js:227
+msgid "You really want to delete this user from friends?"
+msgstr "Willst Du dieses Mitglied wirklich von Deiner Kontaktliste entfernen?"
+
+#: controllers/UserInterestsCtrl.js:6
+#: controllers/UserInterestsUpdateCtrl.js:30
+#: controllers/UserInterestsUpdateCtrl.js:8
+msgid "You really want to delete this user from interest?"
+msgstr "Willst Du dieses Interesse wirklich löschen?"
+
+#: country.php:195
+msgid "Zambia"
+msgstr "Sambia"
+
+#: country.php:196
+msgid "Zimbabwe"
+msgstr "Simbabwe"
+
+#: directives/eventText.js:85
+msgid "Zustimmen"
+msgstr ""
+
+#: controllers/ActivityLogCtrl.js:8
+msgid "dd MMMM 'um' HH:mm"
+msgstr ""
+
+#: controllers/OfferHistoryViewPopupCtrl.js:8
+msgid "dd.MM.yyyy 'um' HH:mm"
+msgstr ""
+
+#: controllers/OfferDetailsCtrl.js:14
+msgid "„Mit OK bestätigst Du den verbindlichen Kauf des Angebots.“"
+msgstr ""
+
+#~ msgid ""
+#~ "<p>Alles im Blick: Hier bekommst Du jederzeit eine Übersicht mit deinen "
+#~ "geschalteten Werbeaktionen. Du kannst die Aktionen bearbeiten oder "
+#~ "löschen und dein Werbebudget anpassen. Zudem zeigen wir dir "
+#~ "Kaufinteressenten, die sich über deine Produkte informieren möchten.</p>"
+#~ msgstr ""
+#~ "<p>Alles im Blick: Hier bekommst Du jederzeit eine Übersicht mit Deinen "
+#~ "geschalteten Werbeaktionen. Du kannst die Aktionen bearbeiten oder "
+#~ "löschen und Dein Werbebudget anpassen. Zudem zeigen wir Dir "
+#~ "Kaufinteressenten, die sich über Deine Produkte informieren möchten.</p>"
+
+#~ msgid "<p>Behalte deinen Kontostand und deine Transaktionen im Blick.</p>"
+#~ msgstr "<p>Behalte Deinen Kontostand und Deine Transaktionen im Blick.</p>"
+
+#~ msgid ""
+#~ "<p>Bei Jugl gibt es drei verschiedene Arten von Werbung. Angebote ohne "
+#~ "Kaufoption dienen der Information. Bei Angeboten mit der Sofortkauf-"
+#~ "Option kannst Du nach dem Lesen der Werbung direkt auf den „kaufen“-"
+#~ "Button klicken und dir das Angebot sichern. Die dritte Option ist das "
+#~ "Bieterverfahren. Hier siehst Du in der Werbung die Preisvorstellung des "
+#~ "Verkäufers und kannst anschließend mit einem Klick auf den „verbindlich "
+#~ "bieten“-Button dein Gebot abgeben. Dieses muss nicht unbedingt der "
+#~ "Preisvorstellung des Verkäufers entsprechen, es kann auch höher oder "
+#~ "niedriger sein. Denn entscheidend ist nicht die Höhe des Gebots, der "
+#~ "Verkäufer kann einen beliebigen Käufer auswählen.</p>"
+#~ msgstr ""
+#~ "<p>Bei jugl.net gibt es drei verschiedene Arten von Werbung. Angebote "
+#~ "ohne Kaufoption dienen der Information. Bei Angeboten mit der Sofortkauf-"
+#~ "Option kannst Du nach dem Lesen der Werbung direkt auf den „kaufen“-"
+#~ "Button klicken und Dir das Angebot sichern. Die dritte Option ist das "
+#~ "Bieterverfahren. Hier siehst Du in der Werbung die Preisvorstellung des "
+#~ "Verkäufers und kannst anschließend mit einem Klick auf den „verbindlich "
+#~ "bieten“-Button Dein Gebot abgeben. Dieses muss nicht unbedingt der "
+#~ "Preisvorstellung des Verkäufers entsprechen, es kann auch höher oder "
+#~ "niedriger sein. Denn entscheidend ist nicht die Höhe des Gebots, der "
+#~ "Verkäufer kann einen beliebigen Käufer auswählen.</p>"
+
+#~ msgid ""
+#~ "<p>Bleibe auf dem neuesten Stand: Dein Aktivitätenordner zeigt dir an, "
+#~ "was in deinem Jugl-Account passiert, z.B. Kontoein- und -ausgänge, neue "
+#~ "Kontakte oder Einladungsannahmen. Mit einem Klick auf die Aktivität "
+#~ "kommst Du direkt in den entsprechenden Bereich.</p>"
+#~ msgstr ""
+#~ "<p>Bleibe auf dem neuesten Stand: Dein Aktivitätenordner zeigt Dir an, "
+#~ "was in Deinem Jugl-Account passiert. Hier siehst Du z.B. Kontoein- und -"
+#~ "ausgänge, neue Kontakte oder Einladungsannahmen. Mit einem Klick auf die "
+#~ "Aktivität kommst Du direkt in den entsprechenden Bereich.</p>"
+
+#~ msgid ""
+#~ "<p>Du suchst etwas und hast keine Zeit oder Lust, selbst im Internet zu "
+#~ "recherchieren? Dann gib eine Recherche in Auftrag. Die Jugl-Suche ist "
+#~ "eine menschliche Suchmaschine. Ihr Vorteil: Du sparst Zeit, Geld und "
+#~ "bekommst bessere Ergebnisse. Denn keine der herkömmlichen Suchmaschinen "
+#~ "wird dir jemals den besten Flug oder das beste Gebrauchtwagenangebot "
+#~ "raussuchen können. Die Suchmaschinen-Algorithmen wissen nicht, worauf es "
+#~ "dir ankommt. In der Jugl-Suche kannst Du dagegen andere Mitglieder aus "
+#~ "dem Netzwerk für einen kleinen Bonus beauftragen, für dich zu suchen oder "
+#~ "einen Anbieter für dein Anliegen direkt zu vermitteln. Beschreibe "
+#~ "möglichst genau, nach was Du suchst. Andere Jugl-Mitglieder werden dir "
+#~ "ein entsprechendes Angebot für die Recherche zuschicken.</p>"
+#~ msgstr ""
+#~ "<p>Du suchst etwas und hast keine Zeit oder Lust, selbst im Internet zu "
+#~ "recherchieren? Dann gib eine Recherche in Auftrag. Die Jugl-Suche ist "
+#~ "eine menschliche Suchmaschine. Ihr Vorteil: Du sparst Zeit, Geld und "
+#~ "bekommst bessere Ergebnisse. Denn keine der herkömmlichen Suchmaschinen "
+#~ "wird Dir jemals den besten Flug oder das beste Gebrauchtwagenangebot "
+#~ "heraussuchen können. Die Suchmaschinen-Algorithmen wissen nicht, worauf "
+#~ "es Dir ankommt. In der Jugl-Suche kannst Du dagegen andere Mitglieder aus "
+#~ "dem Netzwerk für einen kleinen Bonus beauftragen, für Dich zu suchen oder "
+#~ "einen Anbieter für Dein Anliegen direkt zu vermitteln. Beschreibe "
+#~ "möglichst genau, wonach Du suchst. Andere Jugl-Mitglieder werden Dir ein "
+#~ "entsprechendes Angebot auf Deinen Suchauftrag hin vermitteln.</p>"
+
+#~ msgid "<p>Finde Jugl-Mitglieder und nimm Kontakt ihnen auf.</p>"
+#~ msgstr "<p>Finde Jugl-Mitglieder und nimm Kontakt zu ihnen auf.</p>"
+
+#~ msgid ""
+#~ "<p>Gestalte dein Profil. Je genauer dein Profil ist, desto eher "
+#~ "entsprechen die Anzeigen deinen Interessen und Bedürfnissen und um so "
+#~ "höher sind deine Einnahmechancen. Über die Sichtbarkeitseinstellungen "
+#~ "hast Du jederzeit die volle Kontrolle über deine Daten und darüber, wem "
+#~ "Du etwas preisgibst. Im Gegensatz zu anderen Plattformen sehen Händler "
+#~ "und private Produktanbieter, die Anzeigen schalten, grundsätzlich keine "
+#~ "persönlichen Profildaten. Sie spielen ihre Anzeigen an anonymisierten "
+#~ "Interessentengruppen aus (zum Beispiel an alle Männer zwischen 20 und 30)."
+#~ "</p>"
+#~ msgstr ""
+#~ "<p>Gestalte Dein Profil. Je genauer Dein Profil ist, desto eher "
+#~ "entsprechen die Dir angezeigten Angebote Deinen Interessen und "
+#~ "Bedürfnissen und umso höher sind Deine Einnahmechancen. Über die "
+#~ "Sichtbarkeitseinstellungen hast Du jederzeit die volle Kontrolle über "
+#~ "Deine Daten und darüber, mit wem Du sie teilst. Im Gegensatz zu anderen "
+#~ "Plattformen sehen Händler und private Produktanbieter, die Werbung "
+#~ "schalten, grundsätzlich keine persönlichen Profildaten. Sie richten ihre "
+#~ "Angebote an anonymisierte Interessentengruppen (zum Beispiel an alle "
+#~ "Männer zwischen 20 und 30).</p>"
+
+#~ msgid ""
+#~ "<p>Gib deine Interessen an. Auf diesen Angaben basiert die Werbung, die "
+#~ "dir angezeigt wird. Je genauer Du deine Interessen kennzeichnest, desto "
+#~ "präziser entsprechen die angebotenen Produkte deinen Bedürfnissen. Für "
+#~ "jede gelesene Werbeanzeige verdienst Du Jugl, die deinem Konto "
+#~ "zugeschrieben werden. Es lohnt sich also für dich, viele Interessen "
+#~ "anzugeben.</p>"
+#~ msgstr ""
+#~ "<p>Gib Deine Interessen an. Auf diesen Angaben basiert die Werbung, die "
+#~ "Dir angezeigt wird. Je genauer Du Deine Interessen kennzeichnest, desto "
+#~ "präziser entsprechen die Angebote Deinen Bedürfnissen. Für jede gelesene "
+#~ "Werbeanzeige erhältst Du Jugls, die Deinem Punktekonto gutgeschrieben "
+#~ "werden. Je genauer also Deine Interessenangaben sind, desto mehr "
+#~ "geeignete Werbung gibt es für Dich und desto mehr Jugls kannst Du "
+#~ "verdienen.</p>"
+
+#~ msgid ""
+#~ "<p>Hier kannst Du deine Werbung erstellen. Dabei gibt es die Möglichkeit, "
+#~ "eine Werbung mit Kaufoption oder ohne Kaufoption zu schalten. Du kannst "
+#~ "deine potentiellen Käufer aber auch Gebote für dein Angebot abgeben "
+#~ "lassen und Dich entscheiden, wem Du den Zuschlag gibst. Einen Werbebonus "
+#~ "erhält jeder, der sich Deine Werbung ansieht. Der Kaufbonus wird dem "
+#~ "Käufer ausgezahlt, wenn er sich für Dein Angebot entscheidet (nur bei "
+#~ "Sofortkauf und bieten).</p>"
+#~ msgstr ""
+#~ "<p>Hier kannst Du Deine Werbung erstellen. Dabei gibt es die Möglichkeit, "
+#~ "eine Werbung mit Kaufoption oder ohne Kaufoption zu schalten. Du kannst "
+#~ "Deine potentiellen Käufer aber auch Gebote auf Dein Angebot abgeben "
+#~ "lassen und Dich entscheiden, wem Du den Zuschlag gibst. Einen Werbebonus "
+#~ "erhält jeder, der sich Deine Werbung ansieht. Der Kaufbonus wird dem "
+#~ "Käufer ausgezahlt, wenn er sich für Dein Angebot entscheidet (nur bei "
+#~ "Sofortkauf und Bieterverfahren).</p>"
+
+#~ msgid ""
+#~ "<p>Je größer das Netzwerk deiner Freunde und Freundesfreunde, desto "
+#~ "größer sind deine Verdienstmöglichkeiten. Denn Du verdienst an den "
+#~ "Einnahmen derer, die Du eingeladen hast und an den Einnahmen derer, die "
+#~ "wiederum deine eingeladenen Kontakte eingeladen haben usw. Hier hast Du "
+#~ "alle Jugl-Mitglieder im Überblick, an deren Einnahmen Du beteiligt bist.</"
+#~ "p>"
+#~ msgstr ""
+#~ "<p>Je größer das Netzwerk Deiner Freunde und Freundesfreunde ist, desto "
+#~ "größer sind Deine Verdienstmöglichkeiten. Denn Du verdienst an den "
+#~ "Einnahmen derer, die Du eingeladen hast und an den Einnahmen derer, die "
+#~ "wiederum durch Deine eingeladenen Kontakte eingeladen wurden, mit. Und so "
+#~ "geht das immer weiter. Hier hast Du alle Jugl-Mitglieder im Überblick, an "
+#~ "deren Einnahmen Du beteiligt bist.</p>"
+
+#~ msgid ""
+#~ "<p>Mit einem Klick kannst Du dir jeden Abgeschlossene Handel, jede "
+#~ "Recherche oder Vermittlung noch einmal ansehen und eine Bewertung abgeben "
+#~ "oder bereits abgegebene Bewertungen ändern. 1 Stern ist schlecht, 5 "
+#~ "Sterne sind super.</p>"
+#~ msgstr ""
+#~ "<p>Mit einem Klick kannst Du Dir jede Recherche oder Vermittlung und "
+#~ "jeden abgeschlossenen Handel noch einmal ansehen. Zu jeder Aktion kannst "
+#~ "Du zudem eine Bewertung abgeben oder bereits abgegebene Bewertungen "
+#~ "ändern. 1 Stern ist schlecht, 5 Sterne sind super.</p>"
+
+#~ msgid ""
+#~ "<p>Verdiene Jugls mit Anzeigen lesen und dem alltäglichen Einkauf: "
+#~ "Basierend auf deinen Interessen haben wir für dich deinen individuellen "
+#~ "Produktkatalog zusammengestellt. Die Anzeigen sind nach dem Grad der "
+#~ "Übereinstimmung mit deinen Interessen sortiert. Du kannst sie aber auch "
+#~ "nach anderen Kriterien filtern. Bereits für das Ansehen der Anzeigen wird "
+#~ "dir ein Werbebonus gutgeschrieben. Wenn Du ein Produkt kaufen möchtest, "
+#~ "klicke einfach auf „Angebot annehmen“. Der Anbieter wird sich dann bei "
+#~ "dir melden, um den Kauf abzuschließen. Ist der Kauf abgeschlossen, "
+#~ "bekommst Du automatisch deinen Kaufbonus auf deinem Jugl-Konto "
+#~ "angerechnet.</p>"
+#~ msgstr ""
+#~ "<p>Verdiene Jugls mit dem Lesen von Angeboten und dem alltäglichen "
+#~ "Einkauf: Basierend auf Deinen Interessen haben wir für Dich einen "
+#~ "individuellen Produktkatalog zusammengestellt. Die Angebote sind nach dem "
+#~ "Grad der Übereinstimmung mit Deinen Interessen sortiert. Du kannst sie "
+#~ "aber auch nach anderen Kriterien filtern. Bereits für das Ansehen der "
+#~ "Angebote wird Dir ein Werbebonus gutgeschrieben. Wenn Du ein Produkt "
+#~ "kaufen möchtest, klicke einfach auf den „kaufen“-Button. Der Anbieter "
+#~ "wird sich dann bei Dir melden, um den Kauf abzuschließen. Ist der Kauf "
+#~ "abgeschlossen, bekommst Du automatisch Deinen Kaufbonus auf Deinem Jugl-"
+#~ "Punktekonto gutgeschrieben.</p>"
+
+#~ msgid "Werbung lesen / Etwas kaufen"
+#~ msgstr "Kaufen / Suchergebnisse / Werbung lesen"
+
+#~ msgid "Werbung schalten / etwas verkaufen"
+#~ msgstr "Verkaufen / Werbung schalten"
+
+#~ msgid ""
+#~ "<p>Freunde einladen ist eine der wichtigsten Funktion von Jugl.net. Über "
+#~ "sie baust Du dir ein Netzwerk auf, von dem Du ein Leben lang profitierst. "
+#~ "Denn Du bist an allen Einnahmen der Jugl-Mitglieder beteiligt, die deiner "
+#~ "Einladung gefolgt sind. Wähle einfach eine der angezeigten Methoden aus "
+#~ "und beginne damit, Deine Freunde einzuladen.</p>"
+#~ msgstr ""
+#~ "<p>Freunde einladen ist eine der wichtigsten Funktionen von jugl.net. "
+#~ "Über sie baust Du Dir ein Netzwerk auf, von dem Du ein Leben lang "
+#~ "profitierst. Denn Du bist an allen Einnahmen der Jugl-Mitglieder "
+#~ "beteiligt, die Deiner Einladung gefolgt sind. Klicke einfach auf „Freunde "
+#~ "einladen“ und wähle eine der angezeigten Methoden aus. Wenn Du eine SMS-"
+#~ "Flatrate hast, empfehlen wir Dir, per SMS einzuladen. Setze bei allen "
+#~ "Kontakten, die Du einladen willst, einen Haken und klicke auf einladen.</"
+#~ "p>"
+
+#~ msgid ""
+#~ "<p>Hier siehst Du auf einen Blick alle Angebote auf deinen "
+#~ "Rechercheauftrag. Du kannst das passende Angebot annehmen und wenn Du "
+#~ "möchtest, eine Nachricht schreiben, um Details zu klären. Zudem kannst Du "
+#~ "die Angebote bewerten, den Status abfragen und gegebenenfalls deine "
+#~ "Rechercheaufträge bearbeiten.</p>"
+#~ msgstr ""
+#~ "<p>Hier siehst Du auf einen Blick alle Angebote auf Deine Suchaufträge.  "
+#~ "Du kannst passende Angebote annehmen und dem Anbieter eine Nachricht "
+#~ "schreiben, um Details zu klären. Zudem kannst Du die Angebote bewerten "
+#~ "und den Status abfragen. <p> <p>Wichtig: Durch die Annahme passender "
+#~ "Angebote erwirbst Du nicht das darin enthaltene Produkt, sondern bezahlst "
+#~ "dem Anbieter einen Bonus für seine Recherche.</p>"
+
+#~ msgid "Message"
+#~ msgstr "Nachricht"
+
+#~ msgid "Was wird mir angeboten"
+#~ msgstr "Was wird mir angeboten / vermittelt?"
+
+#~ msgid ""
+#~ "<p>Alles im Blick: Hier bekommst du jederzeit eine Übersicht mit deinen "
+#~ "geschalteten Werbeaktionen. Du kannst die Aktionen bearbeiten oder "
+#~ "löschen und dein Werbebudget anpassen. Zudem zeigen wir dir "
+#~ "Kaufinteressenten, die sich über deine Produkte informieren möchten.</p>"
+#~ msgstr ""
+#~ "<p>Alles im Blick: Hier bekommst Du jederzeit eine Übersicht mit Deinen "
+#~ "geschalteten Werbeaktionen. Du kannst sie bearbeiten oder löschen und "
+#~ "Dein Werbebudget anpassen. Zudem werden Dir alle Interessenten sowie "
+#~ "Bieter Deiner Angebote angezeigt und Du hast die Möglichkeit, sie als "
+#~ "Käufer zu akzeptieren.</p>"
+
+#~ msgid ""
+#~ "<p>Bei Jugl gibt es drei verschiedene Arten von Werbung. Angebote ohne "
+#~ "Kaufoption dienen der Information. Bei Angeboten mit der Sofortkauf-"
+#~ "Option kannst du nach dem Lesen der Werbung direkt auf den „kaufen“-"
+#~ "Button klicken und dir das Angebot sichern. Die dritte Option ist das "
+#~ "Bieterverfahren. Hier siehst du in der Werbung die Preisvorstellung des "
+#~ "Verkäufers und kannst anschließend mit einem Klick auf den „verbindlich "
+#~ "bieten“-Button dein Gebot abgeben. Dieses muss nicht unbedingt der "
+#~ "Preisvorstellung des Verkäufers entsprechen, es kann auch höher oder "
+#~ "niedriger sein. Denn entscheidend ist nicht die Höhe des Gebots, der "
+#~ "Verkäufer kann einen beliebigen Käufer auswählen.</p>"
+#~ msgstr ""
+#~ "<p>Bei Jugl gibt es drei verschiedene Arten von Werbung. Angebote ohne "
+#~ "Kaufoption dienen der Information. Bei Angeboten mit der Sofortkauf-"
+#~ "Option kannst Du nach dem Lesen der Werbung direkt auf den „kaufen“-"
+#~ "Button klicken und Dir das Angebot sichern. Die dritte Option ist das "
+#~ "Bieterverfahren. Hier siehst Du in der Werbung die Preisvorstellung des "
+#~ "Verkäufers und kannst anschließend mit einem Klick auf den „verbindlich "
+#~ "bieten“-Button Dein Gebot abgeben. Dieses muss nicht unbedingt der "
+#~ "Preisvorstellung des Verkäufers entsprechen, es kann auch höher oder "
+#~ "niedriger sein. Denn entscheidend ist nicht die Höhe des Gebots, der "
+#~ "Verkäufer kann einen beliebigen Käufer auswählen.</p>"
+
+#~ msgid ""
+#~ "<p>Bleibe auf dem neuesten Stand: Dein Aktivitätenordner zeigt dir an, "
+#~ "was in deinem Jugl-Account passiert, z.B. Kontoein- und -ausgänge, neue "
+#~ "Kontakte oder Einladungsannahmen. Mit einem Klick auf die Aktivität "
+#~ "kommst du direkt in den entsprechenden Bereich.</p>"
+#~ msgstr ""
+#~ "<p>Bleibe auf dem neuesten Stand: Dein Aktivitätenordner zeigt Dir an, "
+#~ "was in Deinem Jugl-Account passiert. Hier siehst Du z.B. Kontoein- und -"
+#~ "ausgänge, neue Kontakte oder Einladungsannahmen. Mit einem Klick auf die "
+#~ "Aktivität kommst Du direkt in den entsprechenden Bereich.</p>"
+
+#~ msgid ""
+#~ "<p>Du suchst etwas und hast keine Zeit oder Lust, selbst im Internet zu "
+#~ "recherchieren? Dann gib eine Recherche in Auftrag. Die Jugl-Suche ist "
+#~ "eine menschliche Suchmaschine. Ihr Vorteil: Du sparst Zeit, Geld und "
+#~ "bekommst bessere Ergebnisse. Denn keine der herkömmlichen Suchmaschinen "
+#~ "wird dir jemals den besten Flug oder das beste Gebrauchtwagenangebot "
+#~ "raussuchen können. Die Suchmaschinen-Algorithmen wissen nicht, worauf es "
+#~ "dir ankommt. In der Jugl-Suche kannst du dagegen andere Mitglieder aus "
+#~ "dem Netzwerk für einen kleinen Bonus beauftragen, für dich zu suchen oder "
+#~ "einen Anbieter für dein Anliegen direkt zu vermitteln. Beschreibe "
+#~ "möglichst genau, nach was du suchst. Andere Jugl-Mitglieder werden dir "
+#~ "ein entsprechendes Angebot für die Recherche zuschicken.</p>"
+#~ msgstr ""
+#~ "<p>Du suchst etwas und hast keine Zeit oder Lust, selbst im Internet zu "
+#~ "recherchieren? Dann gib eine Recherche in Auftrag. Die Jugl-Suche ist "
+#~ "eine menschliche Suchmaschine. Ihr Vorteil: Du sparst Zeit, Geld und "
+#~ "bekommst bessere Ergebnisse. Denn keine der herkömmlichen Suchmaschinen "
+#~ "wird Dir jemals den besten Flug oder das beste Gebrauchtwagenangebot "
+#~ "heraussuchen können. Die Suchmaschinen-Algorithmen wissen nicht, worauf "
+#~ "es Dir ankommt. In der Jugl-Suche kannst Du dagegen andere Mitglieder aus "
+#~ "dem Netzwerk für einen kleinen Bonus beauftragen, für Dich zu suchen oder "
+#~ "einen Anbieter für Dein Anliegen direkt zu vermitteln. Beschreibe "
+#~ "möglichst genau, wonach Du suchst. Andere Jugl-Mitglieder werden Dir ein "
+#~ "entsprechendes Angebot auf Deinen Suchauftrag hin vermitteln.</p>"
+
+#~ msgid ""
+#~ "<p>Freunde einladen ist eine der wichtigsten Funktion von Jugl.net. Über "
+#~ "sie baust du dir ein Netzwerk auf, von dem du ein Leben lang profitierst. "
+#~ "Denn du bist an allen Einnahmen der Jugl-Mitglieder beteiligt, die deiner "
+#~ "Einladung gefolgt sind. Klicke einfach auf „Freunde einladen“ und wähle "
+#~ "eine der angezeigten Methoden aus. Wenn du eine SMS-Flatrate hast, "
+#~ "empfehlen wir dir, per SMS einzuladen. Setze bei allen Kontakten die Du "
+#~ "einladen willst einen Haken und klicke auf einladen.</p>"
+#~ msgstr ""
+#~ "<p>Freunde einladen ist eine der wichtigsten Funktionen von Jugl.net. "
+#~ "Über sie baust Du Dir ein Netzwerk auf, von dem Du ein Leben lang "
+#~ "profitierst. Denn Du bist an allen Einnahmen der Jugl-Mitglieder "
+#~ "beteiligt, die Deiner Einladung gefolgt sind. Klicke einfach auf „Freunde "
+#~ "einladen“ und wähle eine der angezeigten Methoden aus. Wenn Du eine SMS-"
+#~ "Flatrate hast, empfehlen wir Dir, per SMS einzuladen. Setze bei allen "
+#~ "Kontakten, die Du einladen willst, einen Haken und klicke auf einladen.</"
+#~ "p>"
+
+#~ msgid ""
+#~ "<p>Gestalte dein Profil. Je genauer dein Profil ist, desto eher "
+#~ "entsprechen die Anzeigen deinen Interessen und Bedürfnissen und um so "
+#~ "höher sind deine Einnahmechancen. Über die Sichtbarkeitseinstellungen "
+#~ "hast du jederzeit die volle Kontrolle über deine Daten und darüber, wem "
+#~ "du etwas preisgibst. Im Gegensatz zu anderen Plattformen sehen Händler "
+#~ "und private Produktanbieter, die Anzeigen schalten, grundsätzlich keine "
+#~ "persönlichen Profildaten. Sie spielen ihre Anzeigen an anonymisierten "
+#~ "Interessentengruppen aus (zum Beispiel an alle Männer zwischen 20 und 30)."
+#~ "</p>"
+#~ msgstr ""
+#~ "<p>Gestalte Dein Profil. Je genauer Dein Profil ist, desto eher "
+#~ "entsprechen die Dir angezeigten Angebote Deinen Interessen und "
+#~ "Bedürfnissen und umso höher sind Deine Einnahmechancen. Über die "
+#~ "Sichtbarkeitseinstellungen hast Du jederzeit die volle Kontrolle über "
+#~ "Deine Daten und darüber, mit wem Du sie teilst. Im Gegensatz zu anderen "
+#~ "Plattformen sehen Händler und private Produktanbieter, die Werbung "
+#~ "schalten, grundsätzlich keine persönlichen Profildaten. Sie richten ihre "
+#~ "Angebote an anonymisierte Interessentengruppen (zum Beispiel an alle "
+#~ "Männer zwischen 20 und 30).</p>"
+
+#~ msgid ""
+#~ "<p>Gib deine Interessen an. Auf diesen Angaben basiert die Werbung, die "
+#~ "dir angezeigt wird. Je genauer du deine Interessen kennzeichnest, desto "
+#~ "präziser entsprechen die angebotenen Produkte deinen Bedürfnissen. Für "
+#~ "jede gelesene Werbeanzeige verdienst du Jugl, die deinem Konto "
+#~ "zugeschrieben werden. Es lohnt sich also für dich, viele Interessen "
+#~ "anzugeben.</p>"
+#~ msgstr ""
+#~ "<p>Gib Deine Interessen an. Auf diesen Angaben basiert die Werbung, die "
+#~ "Dir angezeigt wird. Je genauer Du Deine Interessen kennzeichnest, desto "
+#~ "präziser entsprechen die Angebote Deinen Bedürfnissen. Für jede gelesene "
+#~ "Werbeanzeige verdienst Du Jugl, die Deinem Konto gutgeschrieben werden. "
+#~ "Je genauer also Deine Interessenangaben sind, desto mehr geeignete "
+#~ "Werbung gibt es für Dich und desto mehr Jugls kannst Du verdienen.</p>"
+
+#~ msgid ""
+#~ "<p>Hier kannst Du andere Mitglieder damit beauftragen, etwas für Dich zu "
+#~ "suchen/zu recherchieren. Durch die Annahme ihrer Recherche erwirbst du "
+#~ "nicht das Angebot, das sie Dir geschickt haben, sondern zahlst ihnen "
+#~ "lediglich einen Vermittlungsbonus.</p>"
+#~ msgstr ""
+#~ "<p>Hier kannst Du andere Mitglieder damit beauftragen, etwas für Dich zu "
+#~ "suchen/zu recherchieren. Durch die Annahme ihrer Recherche erwirbst Du "
+#~ "nicht das Angebot, das sie Dir geschickt haben, sondern zahlst ihnen "
+#~ "lediglich einen Vermittlungsbonus.</p>"
+
+#~ msgid ""
+#~ "<p>Hier siehst du auf einen Blick alle Angebote auf deinen "
+#~ "Rechercheauftrag. Du kannst das passende Angebot annehmen und wenn du "
+#~ "möchtest, eine Nachricht schreiben, um Details zu klären. Zudem kannst du "
+#~ "die Angebote bewerten, den Status abfragen und gegebenenfalls deine "
+#~ "Rechercheaufträge bearbeiten.</p>"
+#~ msgstr ""
+#~ "<p>Hier siehst Du auf einen Blick alle Angebote auf Deine Suchaufträge.  "
+#~ "Du kannst passende Angebote annehmen und dem Anbieter eine Nachricht "
+#~ "schreiben, um Details zu klären. Zudem kannst Du die Angebote bewerten "
+#~ "und den Status abfragen. <p> <p>Wichtig: Durch die Annahme passender "
+#~ "Angebote erwirbst Du nicht das darin enthaltene Produkt, sondern bezahlst "
+#~ "dem Anbieter einen Bonus für seine Recherche.</p>"
+
+#~ msgid ""
+#~ "<p>Je größer das Netzwerk deiner Freunde und Freundesfreunde, desto "
+#~ "größer sind deine Verdienstmöglichkeiten. Denn du verdienst an den "
+#~ "Einnahmen derer, die du eingeladen hast und an den Einnahmen derer, die "
+#~ "wiederum deine eingeladenen Kontakte eingeladen haben usw. Hier hast du "
+#~ "alle Jugl-Mitglieder im Überblick, an deren Einnahmen du beteiligt bist.</"
+#~ "p>"
+#~ msgstr ""
+#~ "<p>Je größer das Netzwerk Deiner Freunde und Freundesfreunde ist, desto "
+#~ "größer sind Deine Verdienstmöglichkeiten. Denn Du verdienst an den "
+#~ "Einnahmen derer, die Du eingeladen hast und an den Einnahmen derer, die "
+#~ "wiederum durch Deine eingeladenen Kontakte eingeladen wurden, mit. Und so "
+#~ "geht das immer weiter. Hier hast Du alle Jugl-Mitglieder im Überblick, an "
+#~ "deren Einnahmen Du beteiligt bist.</p>"
+
+#~ msgid ""
+#~ "<p>Mit einem Klick kannst du dir jeden Abgeschlossene Handel, jede "
+#~ "Recherche oder Vermittlung noch einmal ansehen und eine Bewertung abgeben "
+#~ "oder bereits abgegebene Bewertungen ändern. 1 Stern ist schlecht, 5 "
+#~ "Sterne sind super.</p>"
+#~ msgstr ""
+#~ "<p>Mit einem Klick kannst Du Dir jede Recherche oder Vermittlung und "
+#~ "jeden abgeschlossenen Handel noch einmal ansehen. Zu jeder Aktion kannst "
+#~ "Du zudem eine Bewertung abgeben oder bereits abgegebene Bewertungen "
+#~ "ändern. 1 Stern ist schlecht, 5 Sterne sind super.</p>"
+
+#~ msgid ""
+#~ "<p>Verdiene Jugls mit Anzeigen lesen und dem alltäglichen Einkauf: "
+#~ "Basierend auf deinen Interessen haben wir für dich deinen individuellen "
+#~ "Produktkatalog zusammengestellt. Die Anzeigen sind nach dem Grad der "
+#~ "Übereinstimmung mit deinen Interessen sortiert. Du kannst sie aber auch "
+#~ "nach anderen Kriterien filtern. Bereits für das Ansehen der Anzeigen wird "
+#~ "dir ein Werbebonus gutgeschrieben. Wenn du ein Produkt kaufen möchtest, "
+#~ "klicke einfach auf „Angebot annehmen“. Der Anbieter wird sich dann bei "
+#~ "dir melden, um den Kauf abzuschließen. Ist der Kauf abgeschlossen, "
+#~ "bekommst du automatisch deinen Kaufbonus auf deinem Jugl-Konto "
+#~ "angerechnet.</p>"
+#~ msgstr ""
+#~ "<p>Verdiene Jugls mit dem Lesen von Angeboten und dem alltäglichen "
+#~ "Einkauf: Basierend auf Deinen Interessen haben wir für Dich einen "
+#~ "individuellen Produktkatalog zusammengestellt. Die Angebote sind nach dem "
+#~ "Grad der Übereinstimmung mit Deinen Interessen sortiert. Du kannst sie "
+#~ "aber auch nach anderen Kriterien filtern. Bereits für das Ansehen der "
+#~ "Angebote wird Dir ein Werbebonus gutgeschrieben. Wenn Du ein Produkt "
+#~ "kaufen möchtest, klicke einfach auf den „kaufen“-Button. Der Anbieter "
+#~ "wird sich dann bei Dir melden, um den Kauf abzuschließen. Ist der Kauf "
+#~ "abgeschlossen, bekommst Du automatisch Deinen Kaufbonus auf Deinem Jugl-"
+#~ "Punktekonto gutgeschrieben.</p>"
+
+#~ msgid ""
+#~ "<h3>Lade Deine Freunde zu Jugl ein.</h3><p>Für jeden Freund, der sich "
+#~ "durch Deine Einladung registriert, bekommst Du 100 Jugls (1€). Wenn Deine "
+#~ "Freunde wiederum Freunde einladen, erhältst du jeweils 29% von deren "
+#~ "Gewinn und wenn diese wiederum Freunde einladen, das Gleiche usw. usw. "
+#~ "usw.. Es werden immer 30% nach oben im Netzwerk verteilt. 1% erhält "
+#~ "JuglApp. Dein Netzwerk kann unendlich aufgebaut werden. Dies "
+#~ "funktioniert, indem Du in der App oder Website auf „Freunde einladen“ "
+#~ "klickst. Ab jetzt rollt der Jugl.</p><h3>Aber wo kommt das Geld überhaupt "
+#~ "her?</h3><p>Es gibt noch weitere Möglichkeiten um Geld zu verdienen. Gib "
+#~ "Deine Interessen an, Dinge des täglichen Bedarfs oder ausgefallene "
+#~ "Hobbies, oder was auch immer Dich interessiert. Dazu einfach auf "
+#~ "<b>„Interessen angeben“</b> klicken. Daraufhin erhältst Du auf Deinen "
+#~ "Interessen basierende Produktangebote.</p><p>Mit anderen Worten - nie "
+#~ "wieder Werbung ansehen, die Dich nicht wirklich interessiert und Du "
+#~ "bekommst jetzt auch noch Geld (Jugls) dafür. Ja, das hast du richtig "
+#~ "verstanden. Allein nur für das Ansehen der Werbung bekommst Du Geld "
+#~ "(Jugls). Gehe dazu einfach auf den Button <b>„Werbung lesen / kaufen“</"
+#~ "b>. Wenn Du zusätzlich einen Kauf tätigst, bekommst Du auch noch einen "
+#~ "Kaufbonus gutgeschrieben. Als Firma oder Privatperson hast Du die "
+#~ "Möglichkeit Produkte oder Sachen, die Du verkaufen möchtest, anderen "
+#~ "Mitgliedern anzubieten. Gehe dazu einfach auf den Button <b>„Werbung "
+#~ "schalten / verkaufen“</b>.</p><h3>Assistenz, Recherche, Vermittlung</"
+#~ "h3><p>Das Highlight ist jedoch die Menschliche Suchmaschine (Suchauftrag "
+#~ "erstellen) mit der Du für Dich suchen oder recherchieren lassen kannst "
+#~ "oder für andere Mitglieder suchst oder recherchierst. Egal, was es auch "
+#~ "ist, ob der günstigste Flug, die schönste Party oder der spezielle Arzt - "
+#~ "andere helfen Dir und Du kannst anderen helfen. Von der Zahnbürste bis "
+#~ "zum Luxusauto. Für alle Aktionen, die in Deinem Netzwerk stattfinden, "
+#~ "bekommst Du oder gibst Du Punkte. Je nachdem wie viele Personen in deinem "
+#~ "Netzwerk sind, die durch Dich eingeladen wurden, verdienst Du "
+#~ "entsprechend mit.</p><p>Wir befinden uns in der Testphase. Je früher Du "
+#~ "einsteigst, desto reicher kannst du werden. Außerdem sind wir gerade "
+#~ "dabei weitere Geschäftsmodelle zu integrieren, so dass Dein Jugl-Netzwerk "
+#~ "zukünftig unendlich für neue Geschäftsideen zu erweitern ist und Du Dir "
+#~ "ein echtes Passiveinkommen schaffen kannst.</p><p>Das hast Du jetzt nicht "
+#~ "alles verstanden? Und es wird Dir alles zu viel? Kein Problem - einfach "
+#~ "nur Deine Freunde einladen und damit bringst Du den Stein ins Rollen.</"
+#~ "p><p>Leg jetzt gleich los - viel Spaß beim reich werden.</p><p>Keine "
+#~ "Abos! Keine Abzocke! Alles echt! - Einfach ausprobieren!</p>"
+#~ msgstr ""
+#~ "<h3>Lade Deine Freunde zu Jugl ein.</h3><p>Für jeden Freund, der sich "
+#~ "durch Deine Einladung registriert, bekommst Du 100 Jugls (1€). Wenn Deine "
+#~ "Freunde wiederum Freunde einladen, erhältst Du jeweils 29% von deren "
+#~ "Gewinn und wenn diese wiederum Freunde einladen das Gleiche usw. usw. "
+#~ "usw.. So kannst Du Dir ein lukratives Netzwerk aufbauen, an dem Du ganz "
+#~ "nebenbei mitverdienst. Also klicke im Menü einfach auf \"Freunde einladen"
+#~ "\" und schon rollt der Jugl.</p><h3>Und wie geht es weiter?</h3><p>Neben "
+#~ "dem Bonus für erfolgreich eingeladene Freunde gibt es noch weitere "
+#~ "Möglichkeiten, Geld zu verdienen.</p> <p>Gib Deine Interessen an, egal ob "
+#~ "es sich dabei um Dinge des täglichen Bedarfs oder ausgefallene Hobbies "
+#~ "handelt. Dazu einfach auf <b>„Suchen / Interessen angeben“</b> klicken "
+#~ "und schon erhältst Du auf Deinen Interessen basierende Produktangebote.</"
+#~ "p><p>Mit anderen Worten – Du musst Dir nie wieder Werbung ansehen, die "
+#~ "Dich nicht wirklich interessiert und Du bekommst jetzt auch noch Geld "
+#~ "(Jugls) dafür. Ja, das hast Du richtig verstanden. Allein nur für das "
+#~ "Ansehen der Werbung bekommst Du Geld (Jugls). Gehe dazu einfach auf den "
+#~ "Button <b>„Kaufen / Werbung lesen“</b>. Wenn Du einen Kauf tätigst, "
+#~ "bekommst Du zusätzlich einen Kaufbonus gutgeschrieben.</p><p>Du hast auch "
+#~ "die Möglichkeit, Produkte, die Du verkaufen möchtest, anderen Mitgliedern "
+#~ "anzubieten. Klicke dazu einfach auf den Button <b>„Verkaufen / Werbung "
+#~ "schalten“</b>.<h3>Assistenz, Recherche, Vermittlung</h3><p>Das Highlight "
+#~ "ist jedoch die Menschliche Suchmaschine. Mit ihr kannst Du für Dich "
+#~ "suchen oder recherchieren lassen oder kannst für andere Mitglieder suchen "
+#~ "oder recherchieren. Egal was es auch ist, ob der günstigste Flug, die "
+#~ "schönste Party oder der spezielle Arzt - andere helfen Dir und Du kannst "
+#~ "anderen helfen.</p><p>Wichtig: Hier werden keine Produkte direkt "
+#~ "verkauft, Du zahlst bzw. kassierst lediglich einen Vermittlungsbonus.</"
+#~ "p><p>Wir befinden uns noch ganz am Anfang. Je früher Du also einsteigst, "
+#~ "desto reicher kannst Du werden. Zudem arbeiten wir stetig an der "
+#~ "Verbesserung unserer Handelsplattform, um Dir verschiedene "
+#~ "Geschäftsmodelle zur Verfügung zu stellen. So kannst Du Dein Jugl-"
+#~ "Netzwerk um neue Geschäftsideen erweitern und Dir ein echtes "
+#~ "Passiveinkommen schaffen.</p><p>Das hast Du jetzt nicht alles verstanden? "
+#~ "Und es wird Dir alles zu viel? Kein Problem - einfach nur Deine Freunde "
+#~ "einladen und damit den Stein ins Rollen bringen!</p><p>Leg jetzt gleich "
+#~ "los - viel Spaß beim reich werden.</p><p>Keine Abos! Keine Abzocke! Alles "
+#~ "echt! - Einfach ausprobieren!</p>"
+
+#~ msgid ""
+#~ "<p>Sei eine Menschliche Suchmaschine und hilf so anderen Mitgliedern von "
+#~ "Jugl. Hier siehst du, was Andere suchen und kannst ihnen Angebote "
+#~ "vermitteln.</p><p><b>ACHTUNG:</b> Hier wird nichts verkauft, du erhältst "
+#~ "lediglich einen Vermittlungsbonus für eine passende Recherche/Suche/"
+#~ "Assistenz.</p>"
+#~ msgstr ""
+#~ "<p>Sei eine Menschliche Suchmaschine und hilf so anderen Mitgliedern von "
+#~ "Jugl. Hier siehst Du, was Andere suchen und kannst ihnen Angebote "
+#~ "vermitteln.</p><p><b>ACHTUNG:</b> Hier wird nichts verkauft, Du erhältst "
+#~ "lediglich einen Vermittlungsbonus für eine passende Recherche/Suche/"
+#~ "Assistenz.</p>"
+
+#~ msgid "B1itte w&auml;hlen Sie einen Themenfiler aus!"
+#~ msgstr "Bitte wähle eine Themenfilter aus!"
+
+#~ msgid "Bitte w&auml;hlen Sie einen Themenfiler aus!"
+#~ msgstr "Bitte wwähle einen Themenfiler aus!"
+
+#~ msgid "M&ouml;chten Sie diese Angebot wirklich l&ouml;schen?"
+#~ msgstr "Möchten Sie dieses Angebot wirklich löschen?"

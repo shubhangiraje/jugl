@@ -1,0 +1,407 @@
+.field-adminloginform-password, .field-adminloginform-rememberme, .field-adminloginform-captcha {
+    margin-bottom: 0;
+}
+
+.login-dialog {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-left: -300px;
+    margin-top: -150px;
+}
+
+.admin-container {
+    padding-top: 70px;
+    padding-bottom: 45px;
+}
+
+.admin-container-full-width {
+    padding-left: 15px;
+    padding-right: 15px;
+    min-width: 1800px;
+}
+
+.container-nav {
+    padding-left: 15px;
+    padding-right: 15px;
+    min-width: 1200px;
+}
+
+.admin-table table th, .admin-table table td {
+    text-align: center;
+    vertical-align: middle !important;
+}
+
+a.asc:after {
+    content: "\e093";
+}
+
+a.desc:after {
+    content: "\e094";
+}
+
+a.asc:after, a.desc:after {
+    position: relative;
+    top: 2px;
+    display: inline-block;
+    font-family: 'Glyphicons Halflings';
+    font-style: normal;
+    font-weight: 400;
+    padding-left: 5px;
+}
+
+h1 {
+    margin: 20px 0px;
+}
+
+.horizontal .radio {
+    float: left;
+    padding-right: 20px;
+}
+
+
+.btn-upload {
+    cursor: pointer;
+    display: inline-block;
+    *zoom: 1;
+    *display: inline;
+    position: relative;
+    overflow: hidden;
+    vertical-align: middle;
+}
+
+.uploader-progress {
+    width: 200px;
+}
+
+.btn-upload input {
+    top: -10px;
+    right: -40px;
+    z-index: 2;
+    position: absolute;
+    cursor: pointer;
+    opacity: 0;
+    filter: alpha(opacity=0);
+    font-size: 50px;
+    cursor: pointer;
+}
+
+
+.admin-table tbody td .glyphicon {
+    font-size: 17px;
+}
+
+.control-value {
+    padding-top: 7px;
+}
+
+.invitations-standart,
+.invitations-vip {
+    border-bottom: 1px solid #ddd;
+}
+
+.invitations-standart, .invitations-vip, .invitations-vip-plus {
+    margin: 0 -8px;
+    text-align: left;
+    padding: 0 8px 0 20px;
+}
+
+.invitations-standart span, .invitations-vip span, .invitations-vip-plus span  {
+    font-weight: bold;
+    padding-right: 10px;
+}
+
+.no-padding {
+    padding: 0 !important;
+}
+
+.invitation-stats i {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.invitation-stats > div {
+    position: absolute;
+    left:0;
+    top:0;
+    right:0;
+    bottom: 0;
+}
+
+.invitation-stats {
+    position: relative;
+}
+
+.invitation-stats > div > div {
+    height: 100%;
+    width: 25%;
+    float: left;
+    padding-top:14px;
+    vertical-align: middle;
+    border-right: 1px solid #ddd;
+}
+
+.invitation-stats > div > div:last-child {
+    border-right: none;
+}
+
+
+.action-btn {
+    background: none;
+    border: none;
+    padding: 0;
+    outline: none;
+    color: #337ab7;
+}
+
+.action-btn:hover, .action-btn:focus {
+    color: #23527c;
+}
+
+.dt-user-blocked {
+    background: #ff7f27;
+}
+
+.dt-user-delete {
+    background: #00a2e8;
+}
+
+.dt-admin-delete {
+    background: #ed1c24;
+}
+
+.dt-active-validation {
+    background: #22b14c;
+}
+
+.table > tbody > tr > td.td-pictures {
+    padding: 5px;
+}
+
+.table-picture-box {
+    width: 80px;
+    overflow: hidden;
+    display: inline-block;
+}
+
+.table-picture-box a {
+    display: block;
+    float: left;
+    margin: 5px;
+}
+
+.table-picture-box img {
+    width: 30px;
+    height: auto;
+}
+
+.icon-awaiting-later {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    border: 3px solid #00a2e8;
+}
+
+.td-device-id {
+    min-width: 100px;
+    word-break: break-all;
+}
+
+.status-action-list {
+    list-style: none;
+    margin: -15px 0 0 0;
+    padding: 0 0 0 32px;
+}
+
+.status-action-list li {
+    padding-left: 15px;
+    position: relative;
+}
+
+.status-action-list li:before {
+    content: '';
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 6px 0 6px 12px;
+    display: inline-block;
+    position: absolute;
+    left: 0;
+    top: 4px;
+}
+
+.status-action-list li.status-action-user-blocked:before {
+    border-color: transparent transparent transparent #ff7f27;
+}
+
+.status-action-list li.status-action-user-delete:before {
+    border-color: transparent transparent transparent #00a2e8;
+}
+
+.status-action-list li.status-action-admin-delete:before {
+    border-color: transparent transparent transparent #ed1c24;
+}
+
+.status-action-list li.status-action-user-active-validation:before {
+    border-color: transparent transparent transparent #22b14c;
+}
+
+.user-avatar-box {
+    width: 240px;
+    height: 240px;
+    position: relative;
+}
+
+.user-avatar-box img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.count-user-photo {
+    position: absolute;
+    right: 0;
+    top: 0;
+    font-size: 14px;
+}
+
+.user-photo-update {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+.user-photo-box {
+    display: none;
+}
+
+.upload-file-preview {
+    margin: 0;
+    line-height: 0;
+}
+
+.preview-image {
+    position: relative;
+    display: inline-block;
+    margin-bottom: 5px;
+}
+
+.btn-delete-file {
+    position: absolute;
+    top: 2px;
+    right: 2px;
+    color: #ed1c24;
+    cursor: pointer;
+    display: none;
+}
+
+.preview-image:hover .btn-delete-file {
+    display: block;
+}
+
+
+.offer-description,
+.description-break-word {
+    text-align: left;
+    white-space: pre-wrap;
+    width: 400px;
+    word-wrap: break-word;
+}
+
+.offer-description {
+    margin-top: 10px;
+}
+
+.admin-table td.description {
+    text-align: left;
+    white-space: pre-wrap;
+}
+
+.striketrough {
+    text-decoration: line-through;
+}
+
+
+a.video-link {
+    position: relative;
+}
+
+a.video-link:before {
+    content: "\e072";
+    position: absolute;
+    display: inline-block;
+    font-size: 27px;
+    font-family: 'Glyphicons Halflings';
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    color: #ffffff;
+    text-shadow: 0 0 5px rgba(0,0,0,0.5);
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+
+.star-rating {
+    display: inline-block;
+    position: relative;
+    padding: 0;
+    font-family: 'Glyphicons Halflings';
+    font-size: 13px;
+    line-height: normal;
+}
+
+.star-rating:before {
+    white-space: nowrap;
+    color: #c6cdd3;
+    content: "\e006\e006\e006\e006\e006";
+}
+
+.star-rating>span {
+    color: #ef8229;
+    display: block;
+    position: absolute;
+    height: 100%;
+    left: 0;
+    top: 0;
+    overflow: hidden;
+    padding-top: 20px;
+}
+
+.star-rating>span:before {
+    white-space: nowrap;
+    content: "\e006\e006\e006\e006\e006";
+    font-family: 'Glyphicons Halflings';
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.unpin-button, .pin-button {
+    margin-left:10px;
+    height: 27px;
+    width: 27px;
+    position: relative;
+    top: 0px;
+    display:inline-block;
+    border: 1px solid green;
+    border-radius: 50%;
+}
+
+.unpin-button .glyphicon, .pin-button .glyphicon {
+    color: green;
+    line-height: 24px;
+}
+
+.pin-button {
+    border-color: darkgray;
+}
+
+.pin-button .glyphicon {
+    color: darkgray;
+}
